@@ -1,0 +1,2452 @@
+visit_id,patient_id,cpt_code,description
+V000001,P00001,99213,"Office visit, established patient, level 3"
+V000001,P00001,90471,Immunization administration
+V000001,P00001,80053,Comprehensive metabolic panel
+V000001,P00001,99204,"Office visit, new patient, level 4"
+V000002,P00002,90471,Immunization administration
+V000002,P00002,99214,"Office visit, established patient, level 4"
+V000003,P00002,90471,Immunization administration
+V000004,P00003,99395,"Periodic preventive medicine, 18-39 years"
+V000005,P00003,36415,Venipuncture
+V000005,P00003,99213,"Office visit, established patient, level 3"
+V000005,P00003,90471,Immunization administration
+V000006,P00003,99204,"Office visit, new patient, level 4"
+V000007,P00004,99395,"Periodic preventive medicine, 18-39 years"
+V000008,P00005,99213,"Office visit, established patient, level 3"
+V000008,P00005,99395,"Periodic preventive medicine, 18-39 years"
+V000009,P00006,90471,Immunization administration
+V000010,P00007,90471,Immunization administration
+V000011,P00007,36415,Venipuncture
+V000012,P00008,93000,Electrocardiogram
+V000013,P00008,80053,Comprehensive metabolic panel
+V000013,P00008,99213,"Office visit, established patient, level 3"
+V000013,P00008,99203,"Office visit, new patient, level 3"
+V000014,P00008,36415,Venipuncture
+V000015,P00009,80053,Comprehensive metabolic panel
+V000016,P00009,99204,"Office visit, new patient, level 4"
+V000016,P00009,85025,Complete blood count
+V000017,P00009,99214,"Office visit, established patient, level 4"
+V000018,P00009,85025,Complete blood count
+V000019,P00009,99213,"Office visit, established patient, level 3"
+V000020,P00009,99395,"Periodic preventive medicine, 18-39 years"
+V000020,P00009,99214,"Office visit, established patient, level 4"
+V000020,P00009,36415,Venipuncture
+V000021,P00010,99397,"Periodic preventive medicine, 65+ years"
+V000022,P00010,85025,Complete blood count
+V000022,P00010,99396,"Periodic preventive medicine, 40-64 years"
+V000022,P00010,99204,"Office visit, new patient, level 4"
+V000023,P00011,99214,"Office visit, established patient, level 4"
+V000023,P00011,99213,"Office visit, established patient, level 3"
+V000023,P00011,99397,"Periodic preventive medicine, 65+ years"
+V000024,P00011,81001,Urinalysis
+V000025,P00011,99204,"Office visit, new patient, level 4"
+V000026,P00012,99214,"Office visit, established patient, level 4"
+V000026,P00012,36415,Venipuncture
+V000027,P00013,93000,Electrocardiogram
+V000028,P00013,85025,Complete blood count
+V000028,P00013,99203,"Office visit, new patient, level 3"
+V000029,P00013,99204,"Office visit, new patient, level 4"
+V000029,P00013,99397,"Periodic preventive medicine, 65+ years"
+V000030,P00013,99397,"Periodic preventive medicine, 65+ years"
+V000030,P00013,99214,"Office visit, established patient, level 4"
+V000031,P00014,99397,"Periodic preventive medicine, 65+ years"
+V000031,P00014,99203,"Office visit, new patient, level 3"
+V000031,P00014,99395,"Periodic preventive medicine, 18-39 years"
+V000031,P00014,99204,"Office visit, new patient, level 4"
+V000032,P00014,36415,Venipuncture
+V000033,P00015,99397,"Periodic preventive medicine, 65+ years"
+V000033,P00015,90471,Immunization administration
+V000033,P00015,99395,"Periodic preventive medicine, 18-39 years"
+V000034,P00015,85025,Complete blood count
+V000035,P00015,81001,Urinalysis
+V000036,P00016,99213,"Office visit, established patient, level 3"
+V000037,P00016,99213,"Office visit, established patient, level 3"
+V000037,P00016,85025,Complete blood count
+V000038,P00016,99214,"Office visit, established patient, level 4"
+V000038,P00016,99204,"Office visit, new patient, level 4"
+V000038,P00016,99396,"Periodic preventive medicine, 40-64 years"
+V000038,P00016,85025,Complete blood count
+V000039,P00017,93000,Electrocardiogram
+V000040,P00017,99397,"Periodic preventive medicine, 65+ years"
+V000041,P00017,99203,"Office visit, new patient, level 3"
+V000041,P00017,80053,Comprehensive metabolic panel
+V000041,P00017,81001,Urinalysis
+V000041,P00017,99204,"Office visit, new patient, level 4"
+V000042,P00017,99395,"Periodic preventive medicine, 18-39 years"
+V000042,P00017,81001,Urinalysis
+V000042,P00017,80053,Comprehensive metabolic panel
+V000042,P00017,99396,"Periodic preventive medicine, 40-64 years"
+V000043,P00017,99396,"Periodic preventive medicine, 40-64 years"
+V000044,P00018,99204,"Office visit, new patient, level 4"
+V000045,P00019,99395,"Periodic preventive medicine, 18-39 years"
+V000045,P00019,93000,Electrocardiogram
+V000046,P00019,81001,Urinalysis
+V000047,P00019,99214,"Office visit, established patient, level 4"
+V000047,P00019,99203,"Office visit, new patient, level 3"
+V000048,P00019,99397,"Periodic preventive medicine, 65+ years"
+V000048,P00019,36415,Venipuncture
+V000049,P00019,99214,"Office visit, established patient, level 4"
+V000050,P00019,36415,Venipuncture
+V000050,P00019,99396,"Periodic preventive medicine, 40-64 years"
+V000051,P00020,80053,Comprehensive metabolic panel
+V000051,P00020,99395,"Periodic preventive medicine, 18-39 years"
+V000052,P00021,99397,"Periodic preventive medicine, 65+ years"
+V000052,P00021,90471,Immunization administration
+V000053,P00021,99397,"Periodic preventive medicine, 65+ years"
+V000054,P00022,81001,Urinalysis
+V000055,P00022,81001,Urinalysis
+V000056,P00022,85025,Complete blood count
+V000056,P00022,99214,"Office visit, established patient, level 4"
+V000056,P00022,80053,Comprehensive metabolic panel
+V000057,P00022,99203,"Office visit, new patient, level 3"
+V000058,P00022,90471,Immunization administration
+V000059,P00022,81001,Urinalysis
+V000059,P00022,99203,"Office visit, new patient, level 3"
+V000060,P00023,99397,"Periodic preventive medicine, 65+ years"
+V000060,P00023,80053,Comprehensive metabolic panel
+V000060,P00023,81001,Urinalysis
+V000060,P00023,99395,"Periodic preventive medicine, 18-39 years"
+V000061,P00023,99204,"Office visit, new patient, level 4"
+V000062,P00023,81001,Urinalysis
+V000062,P00023,99203,"Office visit, new patient, level 3"
+V000063,P00023,81001,Urinalysis
+V000063,P00023,99395,"Periodic preventive medicine, 18-39 years"
+V000064,P00024,99213,"Office visit, established patient, level 3"
+V000064,P00024,99396,"Periodic preventive medicine, 40-64 years"
+V000065,P00024,99213,"Office visit, established patient, level 3"
+V000066,P00025,81001,Urinalysis
+V000066,P00025,80053,Comprehensive metabolic panel
+V000067,P00025,99213,"Office visit, established patient, level 3"
+V000067,P00025,99204,"Office visit, new patient, level 4"
+V000068,P00025,99396,"Periodic preventive medicine, 40-64 years"
+V000068,P00025,99214,"Office visit, established patient, level 4"
+V000069,P00026,90471,Immunization administration
+V000070,P00026,99214,"Office visit, established patient, level 4"
+V000070,P00026,99395,"Periodic preventive medicine, 18-39 years"
+V000070,P00026,99203,"Office visit, new patient, level 3"
+V000071,P00026,99397,"Periodic preventive medicine, 65+ years"
+V000072,P00026,99395,"Periodic preventive medicine, 18-39 years"
+V000072,P00026,99203,"Office visit, new patient, level 3"
+V000073,P00027,99395,"Periodic preventive medicine, 18-39 years"
+V000074,P00027,99396,"Periodic preventive medicine, 40-64 years"
+V000075,P00028,99395,"Periodic preventive medicine, 18-39 years"
+V000076,P00029,90471,Immunization administration
+V000076,P00029,81001,Urinalysis
+V000077,P00029,80053,Comprehensive metabolic panel
+V000077,P00029,36415,Venipuncture
+V000078,P00030,99397,"Periodic preventive medicine, 65+ years"
+V000079,P00030,93000,Electrocardiogram
+V000080,P00030,99395,"Periodic preventive medicine, 18-39 years"
+V000080,P00030,93000,Electrocardiogram
+V000081,P00030,99204,"Office visit, new patient, level 4"
+V000081,P00030,81001,Urinalysis
+V000082,P00031,85025,Complete blood count
+V000083,P00031,99204,"Office visit, new patient, level 4"
+V000084,P00031,99204,"Office visit, new patient, level 4"
+V000085,P00031,99214,"Office visit, established patient, level 4"
+V000086,P00031,99213,"Office visit, established patient, level 3"
+V000087,P00032,99214,"Office visit, established patient, level 4"
+V000087,P00032,99213,"Office visit, established patient, level 3"
+V000087,P00032,85025,Complete blood count
+V000088,P00033,99204,"Office visit, new patient, level 4"
+V000089,P00033,99397,"Periodic preventive medicine, 65+ years"
+V000090,P00033,99204,"Office visit, new patient, level 4"
+V000091,P00034,99203,"Office visit, new patient, level 3"
+V000091,P00034,90471,Immunization administration
+V000092,P00034,99396,"Periodic preventive medicine, 40-64 years"
+V000093,P00035,99204,"Office visit, new patient, level 4"
+V000094,P00035,93000,Electrocardiogram
+V000094,P00035,36415,Venipuncture
+V000094,P00035,99204,"Office visit, new patient, level 4"
+V000095,P00035,99214,"Office visit, established patient, level 4"
+V000095,P00035,99397,"Periodic preventive medicine, 65+ years"
+V000095,P00035,36415,Venipuncture
+V000096,P00036,93000,Electrocardiogram
+V000097,P00036,90471,Immunization administration
+V000097,P00036,99213,"Office visit, established patient, level 3"
+V000098,P00037,99397,"Periodic preventive medicine, 65+ years"
+V000098,P00037,99214,"Office visit, established patient, level 4"
+V000099,P00037,36415,Venipuncture
+V000099,P00037,90471,Immunization administration
+V000100,P00037,81001,Urinalysis
+V000100,P00037,99214,"Office visit, established patient, level 4"
+V000100,P00037,99204,"Office visit, new patient, level 4"
+V000101,P00038,99395,"Periodic preventive medicine, 18-39 years"
+V000102,P00039,36415,Venipuncture
+V000102,P00039,99203,"Office visit, new patient, level 3"
+V000103,P00040,99214,"Office visit, established patient, level 4"
+V000104,P00040,81001,Urinalysis
+V000104,P00040,99395,"Periodic preventive medicine, 18-39 years"
+V000105,P00040,99397,"Periodic preventive medicine, 65+ years"
+V000105,P00040,99395,"Periodic preventive medicine, 18-39 years"
+V000105,P00040,99213,"Office visit, established patient, level 3"
+V000106,P00041,81001,Urinalysis
+V000106,P00041,99204,"Office visit, new patient, level 4"
+V000106,P00041,99203,"Office visit, new patient, level 3"
+V000107,P00042,93000,Electrocardiogram
+V000108,P00042,99204,"Office visit, new patient, level 4"
+V000108,P00042,36415,Venipuncture
+V000109,P00042,99213,"Office visit, established patient, level 3"
+V000109,P00042,99203,"Office visit, new patient, level 3"
+V000110,P00042,99213,"Office visit, established patient, level 3"
+V000111,P00043,81001,Urinalysis
+V000112,P00044,80053,Comprehensive metabolic panel
+V000112,P00044,36415,Venipuncture
+V000112,P00044,99395,"Periodic preventive medicine, 18-39 years"
+V000113,P00044,93000,Electrocardiogram
+V000114,P00045,99204,"Office visit, new patient, level 4"
+V000114,P00045,80053,Comprehensive metabolic panel
+V000114,P00045,81001,Urinalysis
+V000114,P00045,99213,"Office visit, established patient, level 3"
+V000115,P00045,90471,Immunization administration
+V000115,P00045,99395,"Periodic preventive medicine, 18-39 years"
+V000115,P00045,99213,"Office visit, established patient, level 3"
+V000116,P00045,85025,Complete blood count
+V000117,P00045,99213,"Office visit, established patient, level 3"
+V000117,P00045,99396,"Periodic preventive medicine, 40-64 years"
+V000118,P00046,99395,"Periodic preventive medicine, 18-39 years"
+V000118,P00046,81001,Urinalysis
+V000118,P00046,99203,"Office visit, new patient, level 3"
+V000119,P00046,99214,"Office visit, established patient, level 4"
+V000120,P00047,99214,"Office visit, established patient, level 4"
+V000121,P00047,99397,"Periodic preventive medicine, 65+ years"
+V000122,P00047,99204,"Office visit, new patient, level 4"
+V000123,P00047,99396,"Periodic preventive medicine, 40-64 years"
+V000124,P00047,99396,"Periodic preventive medicine, 40-64 years"
+V000124,P00047,81001,Urinalysis
+V000125,P00048,99214,"Office visit, established patient, level 4"
+V000125,P00048,36415,Venipuncture
+V000125,P00048,99397,"Periodic preventive medicine, 65+ years"
+V000126,P00049,99395,"Periodic preventive medicine, 18-39 years"
+V000126,P00049,85025,Complete blood count
+V000126,P00049,80053,Comprehensive metabolic panel
+V000126,P00049,99204,"Office visit, new patient, level 4"
+V000127,P00049,85025,Complete blood count
+V000127,P00049,99204,"Office visit, new patient, level 4"
+V000128,P00050,36415,Venipuncture
+V000128,P00050,99203,"Office visit, new patient, level 3"
+V000128,P00050,99397,"Periodic preventive medicine, 65+ years"
+V000129,P00051,80053,Comprehensive metabolic panel
+V000130,P00051,81001,Urinalysis
+V000130,P00051,99214,"Office visit, established patient, level 4"
+V000131,P00051,93000,Electrocardiogram
+V000131,P00051,99396,"Periodic preventive medicine, 40-64 years"
+V000132,P00051,99214,"Office visit, established patient, level 4"
+V000132,P00051,99395,"Periodic preventive medicine, 18-39 years"
+V000133,P00051,80053,Comprehensive metabolic panel
+V000133,P00051,99203,"Office visit, new patient, level 3"
+V000134,P00051,99214,"Office visit, established patient, level 4"
+V000134,P00051,99204,"Office visit, new patient, level 4"
+V000135,P00052,99203,"Office visit, new patient, level 3"
+V000135,P00052,93000,Electrocardiogram
+V000136,P00052,90471,Immunization administration
+V000137,P00052,99396,"Periodic preventive medicine, 40-64 years"
+V000138,P00053,99397,"Periodic preventive medicine, 65+ years"
+V000139,P00053,99397,"Periodic preventive medicine, 65+ years"
+V000140,P00053,99395,"Periodic preventive medicine, 18-39 years"
+V000140,P00053,80053,Comprehensive metabolic panel
+V000140,P00053,99397,"Periodic preventive medicine, 65+ years"
+V000140,P00053,99214,"Office visit, established patient, level 4"
+V000141,P00053,99203,"Office visit, new patient, level 3"
+V000142,P00053,99214,"Office visit, established patient, level 4"
+V000143,P00054,99214,"Office visit, established patient, level 4"
+V000144,P00054,99395,"Periodic preventive medicine, 18-39 years"
+V000145,P00055,80053,Comprehensive metabolic panel
+V000145,P00055,81001,Urinalysis
+V000146,P00055,90471,Immunization administration
+V000146,P00055,85025,Complete blood count
+V000146,P00055,99204,"Office visit, new patient, level 4"
+V000147,P00055,80053,Comprehensive metabolic panel
+V000147,P00055,99395,"Periodic preventive medicine, 18-39 years"
+V000148,P00056,99214,"Office visit, established patient, level 4"
+V000148,P00056,99397,"Periodic preventive medicine, 65+ years"
+V000149,P00056,80053,Comprehensive metabolic panel
+V000149,P00056,99213,"Office visit, established patient, level 3"
+V000149,P00056,90471,Immunization administration
+V000149,P00056,85025,Complete blood count
+V000150,P00057,99203,"Office visit, new patient, level 3"
+V000151,P00057,80053,Comprehensive metabolic panel
+V000151,P00057,99203,"Office visit, new patient, level 3"
+V000152,P00058,93000,Electrocardiogram
+V000152,P00058,99395,"Periodic preventive medicine, 18-39 years"
+V000153,P00059,36415,Venipuncture
+V000154,P00060,99214,"Office visit, established patient, level 4"
+V000155,P00061,90471,Immunization administration
+V000156,P00061,99395,"Periodic preventive medicine, 18-39 years"
+V000156,P00061,99213,"Office visit, established patient, level 3"
+V000157,P00061,85025,Complete blood count
+V000158,P00062,99395,"Periodic preventive medicine, 18-39 years"
+V000159,P00062,99203,"Office visit, new patient, level 3"
+V000160,P00062,80053,Comprehensive metabolic panel
+V000160,P00062,85025,Complete blood count
+V000161,P00062,99213,"Office visit, established patient, level 3"
+V000161,P00062,85025,Complete blood count
+V000161,P00062,99204,"Office visit, new patient, level 4"
+V000162,P00062,99397,"Periodic preventive medicine, 65+ years"
+V000163,P00062,85025,Complete blood count
+V000164,P00062,99395,"Periodic preventive medicine, 18-39 years"
+V000164,P00062,36415,Venipuncture
+V000164,P00062,99396,"Periodic preventive medicine, 40-64 years"
+V000164,P00062,99203,"Office visit, new patient, level 3"
+V000165,P00062,99204,"Office visit, new patient, level 4"
+V000165,P00062,99203,"Office visit, new patient, level 3"
+V000165,P00062,90471,Immunization administration
+V000166,P00063,99213,"Office visit, established patient, level 3"
+V000167,P00063,85025,Complete blood count
+V000168,P00063,36415,Venipuncture
+V000168,P00063,99397,"Periodic preventive medicine, 65+ years"
+V000168,P00063,99204,"Office visit, new patient, level 4"
+V000169,P00063,90471,Immunization administration
+V000170,P00063,36415,Venipuncture
+V000171,P00064,99213,"Office visit, established patient, level 3"
+V000172,P00065,93000,Electrocardiogram
+V000172,P00065,99204,"Office visit, new patient, level 4"
+V000172,P00065,90471,Immunization administration
+V000173,P00066,93000,Electrocardiogram
+V000173,P00066,85025,Complete blood count
+V000173,P00066,80053,Comprehensive metabolic panel
+V000173,P00066,99204,"Office visit, new patient, level 4"
+V000174,P00066,99397,"Periodic preventive medicine, 65+ years"
+V000174,P00066,99204,"Office visit, new patient, level 4"
+V000174,P00066,36415,Venipuncture
+V000174,P00066,85025,Complete blood count
+V000175,P00066,99214,"Office visit, established patient, level 4"
+V000176,P00066,99397,"Periodic preventive medicine, 65+ years"
+V000176,P00066,99395,"Periodic preventive medicine, 18-39 years"
+V000177,P00066,99397,"Periodic preventive medicine, 65+ years"
+V000177,P00066,99395,"Periodic preventive medicine, 18-39 years"
+V000177,P00066,85025,Complete blood count
+V000178,P00067,80053,Comprehensive metabolic panel
+V000179,P00068,80053,Comprehensive metabolic panel
+V000180,P00069,99214,"Office visit, established patient, level 4"
+V000180,P00069,99396,"Periodic preventive medicine, 40-64 years"
+V000181,P00069,90471,Immunization administration
+V000181,P00069,85025,Complete blood count
+V000182,P00070,99395,"Periodic preventive medicine, 18-39 years"
+V000183,P00071,99396,"Periodic preventive medicine, 40-64 years"
+V000183,P00071,99204,"Office visit, new patient, level 4"
+V000183,P00071,80053,Comprehensive metabolic panel
+V000183,P00071,99213,"Office visit, established patient, level 3"
+V000184,P00072,36415,Venipuncture
+V000184,P00072,99213,"Office visit, established patient, level 3"
+V000185,P00072,81001,Urinalysis
+V000185,P00072,99395,"Periodic preventive medicine, 18-39 years"
+V000186,P00072,90471,Immunization administration
+V000186,P00072,81001,Urinalysis
+V000187,P00072,85025,Complete blood count
+V000188,P00073,99214,"Office visit, established patient, level 4"
+V000188,P00073,99397,"Periodic preventive medicine, 65+ years"
+V000189,P00073,85025,Complete blood count
+V000190,P00074,99214,"Office visit, established patient, level 4"
+V000191,P00075,80053,Comprehensive metabolic panel
+V000191,P00075,99395,"Periodic preventive medicine, 18-39 years"
+V000192,P00076,99397,"Periodic preventive medicine, 65+ years"
+V000192,P00076,36415,Venipuncture
+V000193,P00076,90471,Immunization administration
+V000194,P00077,99203,"Office visit, new patient, level 3"
+V000194,P00077,99204,"Office visit, new patient, level 4"
+V000195,P00077,99397,"Periodic preventive medicine, 65+ years"
+V000195,P00077,90471,Immunization administration
+V000195,P00077,99203,"Office visit, new patient, level 3"
+V000196,P00077,80053,Comprehensive metabolic panel
+V000196,P00077,36415,Venipuncture
+V000196,P00077,99395,"Periodic preventive medicine, 18-39 years"
+V000197,P00078,99213,"Office visit, established patient, level 3"
+V000197,P00078,80053,Comprehensive metabolic panel
+V000198,P00078,36415,Venipuncture
+V000198,P00078,99396,"Periodic preventive medicine, 40-64 years"
+V000198,P00078,90471,Immunization administration
+V000199,P00078,93000,Electrocardiogram
+V000200,P00078,93000,Electrocardiogram
+V000200,P00078,99397,"Periodic preventive medicine, 65+ years"
+V000200,P00078,99204,"Office visit, new patient, level 4"
+V000200,P00078,99395,"Periodic preventive medicine, 18-39 years"
+V000201,P00079,81001,Urinalysis
+V000201,P00079,90471,Immunization administration
+V000202,P00079,99397,"Periodic preventive medicine, 65+ years"
+V000202,P00079,99214,"Office visit, established patient, level 4"
+V000202,P00079,80053,Comprehensive metabolic panel
+V000203,P00079,99397,"Periodic preventive medicine, 65+ years"
+V000203,P00079,81001,Urinalysis
+V000204,P00080,85025,Complete blood count
+V000204,P00080,99214,"Office visit, established patient, level 4"
+V000205,P00080,81001,Urinalysis
+V000205,P00080,99204,"Office visit, new patient, level 4"
+V000206,P00080,80053,Comprehensive metabolic panel
+V000206,P00080,99204,"Office visit, new patient, level 4"
+V000207,P00080,99204,"Office visit, new patient, level 4"
+V000207,P00080,99203,"Office visit, new patient, level 3"
+V000208,P00081,99213,"Office visit, established patient, level 3"
+V000208,P00081,99204,"Office visit, new patient, level 4"
+V000209,P00082,99396,"Periodic preventive medicine, 40-64 years"
+V000209,P00082,99214,"Office visit, established patient, level 4"
+V000209,P00082,93000,Electrocardiogram
+V000210,P00083,99396,"Periodic preventive medicine, 40-64 years"
+V000211,P00084,36415,Venipuncture
+V000212,P00085,36415,Venipuncture
+V000213,P00085,99203,"Office visit, new patient, level 3"
+V000214,P00085,81001,Urinalysis
+V000215,P00086,81001,Urinalysis
+V000215,P00086,99214,"Office visit, established patient, level 4"
+V000215,P00086,36415,Venipuncture
+V000215,P00086,99204,"Office visit, new patient, level 4"
+V000216,P00086,90471,Immunization administration
+V000217,P00087,93000,Electrocardiogram
+V000217,P00087,99213,"Office visit, established patient, level 3"
+V000217,P00087,99395,"Periodic preventive medicine, 18-39 years"
+V000218,P00088,99214,"Office visit, established patient, level 4"
+V000219,P00089,81001,Urinalysis
+V000220,P00089,99397,"Periodic preventive medicine, 65+ years"
+V000221,P00089,99396,"Periodic preventive medicine, 40-64 years"
+V000222,P00089,93000,Electrocardiogram
+V000222,P00089,99396,"Periodic preventive medicine, 40-64 years"
+V000222,P00089,99395,"Periodic preventive medicine, 18-39 years"
+V000223,P00089,99395,"Periodic preventive medicine, 18-39 years"
+V000223,P00089,93000,Electrocardiogram
+V000223,P00089,99203,"Office visit, new patient, level 3"
+V000224,P00089,93000,Electrocardiogram
+V000224,P00089,81001,Urinalysis
+V000225,P00089,99204,"Office visit, new patient, level 4"
+V000225,P00089,99397,"Periodic preventive medicine, 65+ years"
+V000226,P00090,81001,Urinalysis
+V000226,P00090,99395,"Periodic preventive medicine, 18-39 years"
+V000227,P00091,99204,"Office visit, new patient, level 4"
+V000227,P00091,80053,Comprehensive metabolic panel
+V000228,P00091,90471,Immunization administration
+V000228,P00091,80053,Comprehensive metabolic panel
+V000229,P00091,80053,Comprehensive metabolic panel
+V000229,P00091,85025,Complete blood count
+V000230,P00092,99395,"Periodic preventive medicine, 18-39 years"
+V000230,P00092,99214,"Office visit, established patient, level 4"
+V000230,P00092,99203,"Office visit, new patient, level 3"
+V000230,P00092,99397,"Periodic preventive medicine, 65+ years"
+V000231,P00093,36415,Venipuncture
+V000231,P00093,90471,Immunization administration
+V000232,P00093,99214,"Office visit, established patient, level 4"
+V000232,P00093,36415,Venipuncture
+V000233,P00093,85025,Complete blood count
+V000233,P00093,99395,"Periodic preventive medicine, 18-39 years"
+V000234,P00094,36415,Venipuncture
+V000235,P00095,99204,"Office visit, new patient, level 4"
+V000236,P00095,36415,Venipuncture
+V000237,P00095,90471,Immunization administration
+V000237,P00095,99213,"Office visit, established patient, level 3"
+V000238,P00095,99396,"Periodic preventive medicine, 40-64 years"
+V000238,P00095,36415,Venipuncture
+V000238,P00095,93000,Electrocardiogram
+V000238,P00095,99213,"Office visit, established patient, level 3"
+V000239,P00095,80053,Comprehensive metabolic panel
+V000239,P00095,36415,Venipuncture
+V000239,P00095,90471,Immunization administration
+V000240,P00095,90471,Immunization administration
+V000240,P00095,81001,Urinalysis
+V000240,P00095,99395,"Periodic preventive medicine, 18-39 years"
+V000241,P00095,99396,"Periodic preventive medicine, 40-64 years"
+V000241,P00095,99204,"Office visit, new patient, level 4"
+V000241,P00095,93000,Electrocardiogram
+V000242,P00096,80053,Comprehensive metabolic panel
+V000242,P00096,36415,Venipuncture
+V000243,P00096,99213,"Office visit, established patient, level 3"
+V000243,P00096,36415,Venipuncture
+V000243,P00096,85025,Complete blood count
+V000244,P00096,99397,"Periodic preventive medicine, 65+ years"
+V000245,P00097,36415,Venipuncture
+V000246,P00097,93000,Electrocardiogram
+V000247,P00097,99203,"Office visit, new patient, level 3"
+V000247,P00097,99396,"Periodic preventive medicine, 40-64 years"
+V000248,P00098,36415,Venipuncture
+V000248,P00098,99396,"Periodic preventive medicine, 40-64 years"
+V000248,P00098,90471,Immunization administration
+V000249,P00098,99213,"Office visit, established patient, level 3"
+V000250,P00098,99203,"Office visit, new patient, level 3"
+V000250,P00098,93000,Electrocardiogram
+V000251,P00099,80053,Comprehensive metabolic panel
+V000252,P00100,85025,Complete blood count
+V000252,P00100,99204,"Office visit, new patient, level 4"
+V000253,P00100,85025,Complete blood count
+V000253,P00100,81001,Urinalysis
+V000254,P00100,80053,Comprehensive metabolic panel
+V000254,P00100,36415,Venipuncture
+V000254,P00100,81001,Urinalysis
+V000254,P00100,99214,"Office visit, established patient, level 4"
+V000255,P00100,99213,"Office visit, established patient, level 3"
+V000256,P00101,99395,"Periodic preventive medicine, 18-39 years"
+V000256,P00101,99213,"Office visit, established patient, level 3"
+V000257,P00101,99204,"Office visit, new patient, level 4"
+V000257,P00101,99397,"Periodic preventive medicine, 65+ years"
+V000258,P00101,81001,Urinalysis
+V000258,P00101,99397,"Periodic preventive medicine, 65+ years"
+V000259,P00102,81001,Urinalysis
+V000260,P00102,99204,"Office visit, new patient, level 4"
+V000260,P00102,99213,"Office visit, established patient, level 3"
+V000261,P00102,99203,"Office visit, new patient, level 3"
+V000262,P00102,93000,Electrocardiogram
+V000263,P00103,99214,"Office visit, established patient, level 4"
+V000263,P00103,99396,"Periodic preventive medicine, 40-64 years"
+V000264,P00104,90471,Immunization administration
+V000265,P00104,81001,Urinalysis
+V000265,P00104,85025,Complete blood count
+V000265,P00104,99203,"Office visit, new patient, level 3"
+V000265,P00104,99396,"Periodic preventive medicine, 40-64 years"
+V000266,P00105,90471,Immunization administration
+V000266,P00105,81001,Urinalysis
+V000267,P00105,81001,Urinalysis
+V000268,P00106,80053,Comprehensive metabolic panel
+V000269,P00107,99396,"Periodic preventive medicine, 40-64 years"
+V000269,P00107,99213,"Office visit, established patient, level 3"
+V000269,P00107,80053,Comprehensive metabolic panel
+V000269,P00107,81001,Urinalysis
+V000270,P00108,36415,Venipuncture
+V000271,P00108,90471,Immunization administration
+V000272,P00109,99214,"Office visit, established patient, level 4"
+V000273,P00109,90471,Immunization administration
+V000273,P00109,99397,"Periodic preventive medicine, 65+ years"
+V000274,P00110,90471,Immunization administration
+V000275,P00110,80053,Comprehensive metabolic panel
+V000276,P00110,99396,"Periodic preventive medicine, 40-64 years"
+V000276,P00110,99214,"Office visit, established patient, level 4"
+V000276,P00110,81001,Urinalysis
+V000276,P00110,99213,"Office visit, established patient, level 3"
+V000277,P00111,99395,"Periodic preventive medicine, 18-39 years"
+V000278,P00111,99397,"Periodic preventive medicine, 65+ years"
+V000278,P00111,85025,Complete blood count
+V000279,P00111,99395,"Periodic preventive medicine, 18-39 years"
+V000280,P00111,85025,Complete blood count
+V000281,P00111,36415,Venipuncture
+V000282,P00111,36415,Venipuncture
+V000282,P00111,85025,Complete blood count
+V000283,P00111,93000,Electrocardiogram
+V000284,P00112,99203,"Office visit, new patient, level 3"
+V000285,P00112,99395,"Periodic preventive medicine, 18-39 years"
+V000286,P00112,80053,Comprehensive metabolic panel
+V000287,P00112,81001,Urinalysis
+V000288,P00112,81001,Urinalysis
+V000288,P00112,93000,Electrocardiogram
+V000289,P00113,36415,Venipuncture
+V000289,P00113,90471,Immunization administration
+V000290,P00113,80053,Comprehensive metabolic panel
+V000291,P00113,99204,"Office visit, new patient, level 4"
+V000291,P00113,99214,"Office visit, established patient, level 4"
+V000292,P00113,93000,Electrocardiogram
+V000293,P00113,81001,Urinalysis
+V000294,P00114,99396,"Periodic preventive medicine, 40-64 years"
+V000294,P00114,81001,Urinalysis
+V000295,P00114,36415,Venipuncture
+V000295,P00114,85025,Complete blood count
+V000295,P00114,99213,"Office visit, established patient, level 3"
+V000296,P00114,99203,"Office visit, new patient, level 3"
+V000297,P00115,99204,"Office visit, new patient, level 4"
+V000298,P00115,81001,Urinalysis
+V000298,P00115,80053,Comprehensive metabolic panel
+V000298,P00115,85025,Complete blood count
+V000299,P00115,99396,"Periodic preventive medicine, 40-64 years"
+V000299,P00115,90471,Immunization administration
+V000300,P00115,80053,Comprehensive metabolic panel
+V000300,P00115,99395,"Periodic preventive medicine, 18-39 years"
+V000300,P00115,99213,"Office visit, established patient, level 3"
+V000301,P00115,99204,"Office visit, new patient, level 4"
+V000302,P00115,99395,"Periodic preventive medicine, 18-39 years"
+V000302,P00115,99204,"Office visit, new patient, level 4"
+V000303,P00115,93000,Electrocardiogram
+V000303,P00115,99397,"Periodic preventive medicine, 65+ years"
+V000304,P00115,93000,Electrocardiogram
+V000304,P00115,81001,Urinalysis
+V000305,P00116,80053,Comprehensive metabolic panel
+V000306,P00116,90471,Immunization administration
+V000307,P00116,80053,Comprehensive metabolic panel
+V000308,P00116,93000,Electrocardiogram
+V000309,P00117,99395,"Periodic preventive medicine, 18-39 years"
+V000309,P00117,85025,Complete blood count
+V000309,P00117,36415,Venipuncture
+V000310,P00117,85025,Complete blood count
+V000311,P00118,93000,Electrocardiogram
+V000312,P00118,80053,Comprehensive metabolic panel
+V000313,P00118,99204,"Office visit, new patient, level 4"
+V000313,P00118,99214,"Office visit, established patient, level 4"
+V000313,P00118,81001,Urinalysis
+V000314,P00118,99214,"Office visit, established patient, level 4"
+V000314,P00118,90471,Immunization administration
+V000315,P00118,90471,Immunization administration
+V000316,P00118,99204,"Office visit, new patient, level 4"
+V000316,P00118,81001,Urinalysis
+V000317,P00119,93000,Electrocardiogram
+V000317,P00119,80053,Comprehensive metabolic panel
+V000318,P00119,99396,"Periodic preventive medicine, 40-64 years"
+V000319,P00119,99395,"Periodic preventive medicine, 18-39 years"
+V000320,P00119,99214,"Office visit, established patient, level 4"
+V000321,P00119,99204,"Office visit, new patient, level 4"
+V000321,P00119,80053,Comprehensive metabolic panel
+V000322,P00120,99203,"Office visit, new patient, level 3"
+V000322,P00120,80053,Comprehensive metabolic panel
+V000323,P00120,90471,Immunization administration
+V000323,P00120,99395,"Periodic preventive medicine, 18-39 years"
+V000324,P00120,99213,"Office visit, established patient, level 3"
+V000325,P00120,99395,"Periodic preventive medicine, 18-39 years"
+V000326,P00120,90471,Immunization administration
+V000326,P00120,99203,"Office visit, new patient, level 3"
+V000327,P00121,81001,Urinalysis
+V000327,P00121,93000,Electrocardiogram
+V000328,P00121,99213,"Office visit, established patient, level 3"
+V000329,P00121,80053,Comprehensive metabolic panel
+V000329,P00121,93000,Electrocardiogram
+V000329,P00121,90471,Immunization administration
+V000330,P00121,85025,Complete blood count
+V000331,P00121,80053,Comprehensive metabolic panel
+V000331,P00121,93000,Electrocardiogram
+V000331,P00121,99214,"Office visit, established patient, level 4"
+V000331,P00121,99397,"Periodic preventive medicine, 65+ years"
+V000332,P00122,93000,Electrocardiogram
+V000333,P00123,99396,"Periodic preventive medicine, 40-64 years"
+V000333,P00123,99397,"Periodic preventive medicine, 65+ years"
+V000334,P00123,99213,"Office visit, established patient, level 3"
+V000334,P00123,99203,"Office visit, new patient, level 3"
+V000334,P00123,90471,Immunization administration
+V000335,P00123,80053,Comprehensive metabolic panel
+V000335,P00123,99214,"Office visit, established patient, level 4"
+V000335,P00123,99204,"Office visit, new patient, level 4"
+V000335,P00123,90471,Immunization administration
+V000336,P00123,81001,Urinalysis
+V000337,P00123,99396,"Periodic preventive medicine, 40-64 years"
+V000337,P00123,81001,Urinalysis
+V000337,P00123,99204,"Office visit, new patient, level 4"
+V000338,P00123,99395,"Periodic preventive medicine, 18-39 years"
+V000338,P00123,36415,Venipuncture
+V000338,P00123,93000,Electrocardiogram
+V000339,P00124,80053,Comprehensive metabolic panel
+V000339,P00124,99396,"Periodic preventive medicine, 40-64 years"
+V000340,P00125,80053,Comprehensive metabolic panel
+V000340,P00125,99396,"Periodic preventive medicine, 40-64 years"
+V000340,P00125,90471,Immunization administration
+V000341,P00126,90471,Immunization administration
+V000341,P00126,99214,"Office visit, established patient, level 4"
+V000341,P00126,99204,"Office visit, new patient, level 4"
+V000341,P00126,99397,"Periodic preventive medicine, 65+ years"
+V000342,P00126,99397,"Periodic preventive medicine, 65+ years"
+V000342,P00126,99214,"Office visit, established patient, level 4"
+V000342,P00126,99203,"Office visit, new patient, level 3"
+V000343,P00126,99203,"Office visit, new patient, level 3"
+V000343,P00126,99395,"Periodic preventive medicine, 18-39 years"
+V000344,P00126,99203,"Office visit, new patient, level 3"
+V000344,P00126,99213,"Office visit, established patient, level 3"
+V000344,P00126,36415,Venipuncture
+V000345,P00126,99396,"Periodic preventive medicine, 40-64 years"
+V000346,P00127,99204,"Office visit, new patient, level 4"
+V000346,P00127,80053,Comprehensive metabolic panel
+V000346,P00127,90471,Immunization administration
+V000347,P00127,99214,"Office visit, established patient, level 4"
+V000348,P00128,99204,"Office visit, new patient, level 4"
+V000348,P00128,80053,Comprehensive metabolic panel
+V000349,P00128,81001,Urinalysis
+V000350,P00128,99396,"Periodic preventive medicine, 40-64 years"
+V000351,P00129,81001,Urinalysis
+V000351,P00129,99204,"Office visit, new patient, level 4"
+V000352,P00129,99395,"Periodic preventive medicine, 18-39 years"
+V000352,P00129,99204,"Office visit, new patient, level 4"
+V000353,P00129,99203,"Office visit, new patient, level 3"
+V000354,P00129,99203,"Office visit, new patient, level 3"
+V000354,P00129,80053,Comprehensive metabolic panel
+V000354,P00129,99396,"Periodic preventive medicine, 40-64 years"
+V000355,P00129,99396,"Periodic preventive medicine, 40-64 years"
+V000356,P00129,93000,Electrocardiogram
+V000356,P00129,99214,"Office visit, established patient, level 4"
+V000357,P00129,90471,Immunization administration
+V000358,P00130,99395,"Periodic preventive medicine, 18-39 years"
+V000359,P00130,93000,Electrocardiogram
+V000359,P00130,81001,Urinalysis
+V000359,P00130,99214,"Office visit, established patient, level 4"
+V000360,P00131,99213,"Office visit, established patient, level 3"
+V000360,P00131,36415,Venipuncture
+V000361,P00132,99396,"Periodic preventive medicine, 40-64 years"
+V000362,P00132,99214,"Office visit, established patient, level 4"
+V000363,P00133,99397,"Periodic preventive medicine, 65+ years"
+V000364,P00133,99396,"Periodic preventive medicine, 40-64 years"
+V000364,P00133,81001,Urinalysis
+V000365,P00134,99397,"Periodic preventive medicine, 65+ years"
+V000366,P00134,80053,Comprehensive metabolic panel
+V000367,P00135,99213,"Office visit, established patient, level 3"
+V000367,P00135,99203,"Office visit, new patient, level 3"
+V000368,P00136,99397,"Periodic preventive medicine, 65+ years"
+V000368,P00136,93000,Electrocardiogram
+V000369,P00136,99203,"Office visit, new patient, level 3"
+V000369,P00136,99396,"Periodic preventive medicine, 40-64 years"
+V000370,P00136,93000,Electrocardiogram
+V000371,P00136,93000,Electrocardiogram
+V000371,P00136,85025,Complete blood count
+V000372,P00136,85025,Complete blood count
+V000372,P00136,81001,Urinalysis
+V000372,P00136,99397,"Periodic preventive medicine, 65+ years"
+V000372,P00136,99214,"Office visit, established patient, level 4"
+V000373,P00136,99203,"Office visit, new patient, level 3"
+V000373,P00136,85025,Complete blood count
+V000374,P00136,93000,Electrocardiogram
+V000374,P00136,80053,Comprehensive metabolic panel
+V000374,P00136,99397,"Periodic preventive medicine, 65+ years"
+V000374,P00136,36415,Venipuncture
+V000375,P00137,81001,Urinalysis
+V000376,P00137,99213,"Office visit, established patient, level 3"
+V000376,P00137,93000,Electrocardiogram
+V000377,P00138,80053,Comprehensive metabolic panel
+V000378,P00139,99214,"Office visit, established patient, level 4"
+V000379,P00139,36415,Venipuncture
+V000379,P00139,99395,"Periodic preventive medicine, 18-39 years"
+V000379,P00139,99213,"Office visit, established patient, level 3"
+V000380,P00139,99395,"Periodic preventive medicine, 18-39 years"
+V000380,P00139,93000,Electrocardiogram
+V000381,P00140,99204,"Office visit, new patient, level 4"
+V000381,P00140,99395,"Periodic preventive medicine, 18-39 years"
+V000382,P00140,81001,Urinalysis
+V000382,P00140,93000,Electrocardiogram
+V000383,P00140,93000,Electrocardiogram
+V000383,P00140,99213,"Office visit, established patient, level 3"
+V000384,P00141,80053,Comprehensive metabolic panel
+V000384,P00141,99395,"Periodic preventive medicine, 18-39 years"
+V000384,P00141,99203,"Office visit, new patient, level 3"
+V000385,P00141,93000,Electrocardiogram
+V000385,P00141,90471,Immunization administration
+V000386,P00141,99214,"Office visit, established patient, level 4"
+V000386,P00141,99213,"Office visit, established patient, level 3"
+V000386,P00141,99397,"Periodic preventive medicine, 65+ years"
+V000386,P00141,99396,"Periodic preventive medicine, 40-64 years"
+V000387,P00141,99204,"Office visit, new patient, level 4"
+V000387,P00141,90471,Immunization administration
+V000388,P00141,99395,"Periodic preventive medicine, 18-39 years"
+V000388,P00141,99213,"Office visit, established patient, level 3"
+V000389,P00141,36415,Venipuncture
+V000389,P00141,99214,"Office visit, established patient, level 4"
+V000390,P00141,99214,"Office visit, established patient, level 4"
+V000390,P00141,93000,Electrocardiogram
+V000391,P00141,99397,"Periodic preventive medicine, 65+ years"
+V000392,P00142,90471,Immunization administration
+V000392,P00142,80053,Comprehensive metabolic panel
+V000392,P00142,99395,"Periodic preventive medicine, 18-39 years"
+V000393,P00142,80053,Comprehensive metabolic panel
+V000394,P00142,93000,Electrocardiogram
+V000394,P00142,81001,Urinalysis
+V000394,P00142,99204,"Office visit, new patient, level 4"
+V000395,P00142,99203,"Office visit, new patient, level 3"
+V000396,P00142,99396,"Periodic preventive medicine, 40-64 years"
+V000397,P00143,90471,Immunization administration
+V000397,P00143,99203,"Office visit, new patient, level 3"
+V000398,P00144,80053,Comprehensive metabolic panel
+V000398,P00144,36415,Venipuncture
+V000399,P00144,99395,"Periodic preventive medicine, 18-39 years"
+V000400,P00145,80053,Comprehensive metabolic panel
+V000400,P00145,90471,Immunization administration
+V000400,P00145,81001,Urinalysis
+V000401,P00145,99396,"Periodic preventive medicine, 40-64 years"
+V000401,P00145,81001,Urinalysis
+V000402,P00146,93000,Electrocardiogram
+V000403,P00146,99203,"Office visit, new patient, level 3"
+V000404,P00146,99395,"Periodic preventive medicine, 18-39 years"
+V000404,P00146,93000,Electrocardiogram
+V000405,P00147,99395,"Periodic preventive medicine, 18-39 years"
+V000405,P00147,81001,Urinalysis
+V000406,P00148,93000,Electrocardiogram
+V000407,P00149,85025,Complete blood count
+V000408,P00150,99204,"Office visit, new patient, level 4"
+V000408,P00150,90471,Immunization administration
+V000409,P00150,36415,Venipuncture
+V000410,P00151,81001,Urinalysis
+V000410,P00151,36415,Venipuncture
+V000411,P00151,90471,Immunization administration
+V000411,P00151,93000,Electrocardiogram
+V000411,P00151,36415,Venipuncture
+V000412,P00151,81001,Urinalysis
+V000413,P00151,99397,"Periodic preventive medicine, 65+ years"
+V000414,P00152,93000,Electrocardiogram
+V000415,P00152,99203,"Office visit, new patient, level 3"
+V000415,P00152,99395,"Periodic preventive medicine, 18-39 years"
+V000416,P00152,99214,"Office visit, established patient, level 4"
+V000417,P00153,93000,Electrocardiogram
+V000417,P00153,99214,"Office visit, established patient, level 4"
+V000418,P00154,90471,Immunization administration
+V000418,P00154,99203,"Office visit, new patient, level 3"
+V000419,P00154,99397,"Periodic preventive medicine, 65+ years"
+V000419,P00154,99203,"Office visit, new patient, level 3"
+V000420,P00154,93000,Electrocardiogram
+V000420,P00154,80053,Comprehensive metabolic panel
+V000421,P00155,99396,"Periodic preventive medicine, 40-64 years"
+V000422,P00156,99214,"Office visit, established patient, level 4"
+V000422,P00156,85025,Complete blood count
+V000423,P00156,99397,"Periodic preventive medicine, 65+ years"
+V000423,P00156,99395,"Periodic preventive medicine, 18-39 years"
+V000424,P00157,85025,Complete blood count
+V000424,P00157,99397,"Periodic preventive medicine, 65+ years"
+V000425,P00158,93000,Electrocardiogram
+V000425,P00158,99395,"Periodic preventive medicine, 18-39 years"
+V000426,P00158,99214,"Office visit, established patient, level 4"
+V000426,P00158,99204,"Office visit, new patient, level 4"
+V000427,P00159,99397,"Periodic preventive medicine, 65+ years"
+V000428,P00159,99204,"Office visit, new patient, level 4"
+V000428,P00159,90471,Immunization administration
+V000429,P00159,36415,Venipuncture
+V000429,P00159,99214,"Office visit, established patient, level 4"
+V000430,P00159,90471,Immunization administration
+V000430,P00159,99214,"Office visit, established patient, level 4"
+V000430,P00159,93000,Electrocardiogram
+V000431,P00160,90471,Immunization administration
+V000431,P00160,80053,Comprehensive metabolic panel
+V000431,P00160,99213,"Office visit, established patient, level 3"
+V000432,P00160,81001,Urinalysis
+V000432,P00160,99213,"Office visit, established patient, level 3"
+V000433,P00160,36415,Venipuncture
+V000433,P00160,99203,"Office visit, new patient, level 3"
+V000434,P00161,99395,"Periodic preventive medicine, 18-39 years"
+V000434,P00161,36415,Venipuncture
+V000434,P00161,99396,"Periodic preventive medicine, 40-64 years"
+V000434,P00161,99203,"Office visit, new patient, level 3"
+V000435,P00161,99396,"Periodic preventive medicine, 40-64 years"
+V000435,P00161,36415,Venipuncture
+V000436,P00162,99204,"Office visit, new patient, level 4"
+V000437,P00162,99396,"Periodic preventive medicine, 40-64 years"
+V000437,P00162,99203,"Office visit, new patient, level 3"
+V000438,P00162,93000,Electrocardiogram
+V000438,P00162,99397,"Periodic preventive medicine, 65+ years"
+V000439,P00162,80053,Comprehensive metabolic panel
+V000439,P00162,99397,"Periodic preventive medicine, 65+ years"
+V000440,P00163,93000,Electrocardiogram
+V000440,P00163,80053,Comprehensive metabolic panel
+V000441,P00163,99395,"Periodic preventive medicine, 18-39 years"
+V000441,P00163,99203,"Office visit, new patient, level 3"
+V000442,P00164,93000,Electrocardiogram
+V000442,P00164,85025,Complete blood count
+V000443,P00164,80053,Comprehensive metabolic panel
+V000443,P00164,99397,"Periodic preventive medicine, 65+ years"
+V000444,P00164,80053,Comprehensive metabolic panel
+V000445,P00164,80053,Comprehensive metabolic panel
+V000445,P00164,99204,"Office visit, new patient, level 4"
+V000446,P00165,93000,Electrocardiogram
+V000446,P00165,99214,"Office visit, established patient, level 4"
+V000446,P00165,99204,"Office visit, new patient, level 4"
+V000447,P00165,85025,Complete blood count
+V000447,P00165,99396,"Periodic preventive medicine, 40-64 years"
+V000447,P00165,80053,Comprehensive metabolic panel
+V000448,P00166,80053,Comprehensive metabolic panel
+V000448,P00166,99213,"Office visit, established patient, level 3"
+V000449,P00167,99397,"Periodic preventive medicine, 65+ years"
+V000450,P00167,99213,"Office visit, established patient, level 3"
+V000451,P00167,99397,"Periodic preventive medicine, 65+ years"
+V000451,P00167,90471,Immunization administration
+V000451,P00167,99213,"Office visit, established patient, level 3"
+V000451,P00167,99396,"Periodic preventive medicine, 40-64 years"
+V000452,P00167,93000,Electrocardiogram
+V000453,P00168,81001,Urinalysis
+V000453,P00168,99204,"Office visit, new patient, level 4"
+V000454,P00168,85025,Complete blood count
+V000455,P00168,99397,"Periodic preventive medicine, 65+ years"
+V000455,P00168,99204,"Office visit, new patient, level 4"
+V000456,P00168,80053,Comprehensive metabolic panel
+V000456,P00168,99397,"Periodic preventive medicine, 65+ years"
+V000457,P00169,81001,Urinalysis
+V000457,P00169,99397,"Periodic preventive medicine, 65+ years"
+V000458,P00169,99203,"Office visit, new patient, level 3"
+V000459,P00170,99214,"Office visit, established patient, level 4"
+V000459,P00170,99397,"Periodic preventive medicine, 65+ years"
+V000460,P00170,81001,Urinalysis
+V000461,P00170,99213,"Office visit, established patient, level 3"
+V000462,P00171,85025,Complete blood count
+V000462,P00171,90471,Immunization administration
+V000463,P00171,99214,"Office visit, established patient, level 4"
+V000463,P00171,80053,Comprehensive metabolic panel
+V000464,P00171,99203,"Office visit, new patient, level 3"
+V000465,P00171,99395,"Periodic preventive medicine, 18-39 years"
+V000466,P00171,99395,"Periodic preventive medicine, 18-39 years"
+V000467,P00171,80053,Comprehensive metabolic panel
+V000467,P00171,99203,"Office visit, new patient, level 3"
+V000468,P00172,93000,Electrocardiogram
+V000468,P00172,80053,Comprehensive metabolic panel
+V000468,P00172,85025,Complete blood count
+V000469,P00172,99214,"Office visit, established patient, level 4"
+V000469,P00172,93000,Electrocardiogram
+V000469,P00172,81001,Urinalysis
+V000469,P00172,99203,"Office visit, new patient, level 3"
+V000470,P00172,90471,Immunization administration
+V000471,P00173,99395,"Periodic preventive medicine, 18-39 years"
+V000472,P00173,99214,"Office visit, established patient, level 4"
+V000472,P00173,36415,Venipuncture
+V000472,P00173,99213,"Office visit, established patient, level 3"
+V000473,P00173,93000,Electrocardiogram
+V000474,P00173,99397,"Periodic preventive medicine, 65+ years"
+V000474,P00173,90471,Immunization administration
+V000475,P00174,80053,Comprehensive metabolic panel
+V000476,P00175,36415,Venipuncture
+V000476,P00175,99397,"Periodic preventive medicine, 65+ years"
+V000477,P00175,99214,"Office visit, established patient, level 4"
+V000477,P00175,99397,"Periodic preventive medicine, 65+ years"
+V000477,P00175,99204,"Office visit, new patient, level 4"
+V000478,P00176,99213,"Office visit, established patient, level 3"
+V000478,P00176,99396,"Periodic preventive medicine, 40-64 years"
+V000479,P00177,99395,"Periodic preventive medicine, 18-39 years"
+V000479,P00177,85025,Complete blood count
+V000479,P00177,99396,"Periodic preventive medicine, 40-64 years"
+V000480,P00177,99397,"Periodic preventive medicine, 65+ years"
+V000481,P00177,99397,"Periodic preventive medicine, 65+ years"
+V000482,P00177,90471,Immunization administration
+V000483,P00178,99397,"Periodic preventive medicine, 65+ years"
+V000483,P00178,36415,Venipuncture
+V000484,P00179,99203,"Office visit, new patient, level 3"
+V000484,P00179,99213,"Office visit, established patient, level 3"
+V000485,P00180,93000,Electrocardiogram
+V000486,P00180,99214,"Office visit, established patient, level 4"
+V000486,P00180,99204,"Office visit, new patient, level 4"
+V000486,P00180,99395,"Periodic preventive medicine, 18-39 years"
+V000487,P00180,93000,Electrocardiogram
+V000487,P00180,85025,Complete blood count
+V000488,P00181,90471,Immunization administration
+V000489,P00181,99395,"Periodic preventive medicine, 18-39 years"
+V000489,P00181,36415,Venipuncture
+V000490,P00182,90471,Immunization administration
+V000490,P00182,99203,"Office visit, new patient, level 3"
+V000491,P00182,99397,"Periodic preventive medicine, 65+ years"
+V000492,P00182,93000,Electrocardiogram
+V000492,P00182,99396,"Periodic preventive medicine, 40-64 years"
+V000493,P00182,80053,Comprehensive metabolic panel
+V000493,P00182,99213,"Office visit, established patient, level 3"
+V000493,P00182,85025,Complete blood count
+V000494,P00182,93000,Electrocardiogram
+V000494,P00182,81001,Urinalysis
+V000495,P00182,85025,Complete blood count
+V000495,P00182,99214,"Office visit, established patient, level 4"
+V000495,P00182,99397,"Periodic preventive medicine, 65+ years"
+V000496,P00183,99395,"Periodic preventive medicine, 18-39 years"
+V000497,P00183,99213,"Office visit, established patient, level 3"
+V000498,P00183,80053,Comprehensive metabolic panel
+V000498,P00183,99204,"Office visit, new patient, level 4"
+V000498,P00183,99214,"Office visit, established patient, level 4"
+V000499,P00183,93000,Electrocardiogram
+V000499,P00183,99214,"Office visit, established patient, level 4"
+V000500,P00183,99397,"Periodic preventive medicine, 65+ years"
+V000500,P00183,99396,"Periodic preventive medicine, 40-64 years"
+V000501,P00183,81001,Urinalysis
+V000501,P00183,85025,Complete blood count
+V000501,P00183,99204,"Office visit, new patient, level 4"
+V000501,P00183,99203,"Office visit, new patient, level 3"
+V000502,P00183,99214,"Office visit, established patient, level 4"
+V000503,P00184,81001,Urinalysis
+V000503,P00184,99395,"Periodic preventive medicine, 18-39 years"
+V000503,P00184,99204,"Office visit, new patient, level 4"
+V000504,P00185,99204,"Office visit, new patient, level 4"
+V000505,P00186,99204,"Office visit, new patient, level 4"
+V000506,P00186,81001,Urinalysis
+V000507,P00186,81001,Urinalysis
+V000508,P00186,99213,"Office visit, established patient, level 3"
+V000508,P00186,80053,Comprehensive metabolic panel
+V000508,P00186,99203,"Office visit, new patient, level 3"
+V000509,P00186,99395,"Periodic preventive medicine, 18-39 years"
+V000509,P00186,80053,Comprehensive metabolic panel
+V000509,P00186,99203,"Office visit, new patient, level 3"
+V000510,P00186,99397,"Periodic preventive medicine, 65+ years"
+V000510,P00186,99213,"Office visit, established patient, level 3"
+V000511,P00186,99213,"Office visit, established patient, level 3"
+V000512,P00186,81001,Urinalysis
+V000513,P00187,99204,"Office visit, new patient, level 4"
+V000513,P00187,99396,"Periodic preventive medicine, 40-64 years"
+V000513,P00187,85025,Complete blood count
+V000514,P00187,99203,"Office visit, new patient, level 3"
+V000515,P00188,99213,"Office visit, established patient, level 3"
+V000515,P00188,99203,"Office visit, new patient, level 3"
+V000516,P00188,99214,"Office visit, established patient, level 4"
+V000517,P00188,99214,"Office visit, established patient, level 4"
+V000518,P00188,93000,Electrocardiogram
+V000518,P00188,85025,Complete blood count
+V000519,P00188,99396,"Periodic preventive medicine, 40-64 years"
+V000519,P00188,99214,"Office visit, established patient, level 4"
+V000520,P00189,99395,"Periodic preventive medicine, 18-39 years"
+V000520,P00189,99204,"Office visit, new patient, level 4"
+V000521,P00189,99213,"Office visit, established patient, level 3"
+V000521,P00189,90471,Immunization administration
+V000521,P00189,99397,"Periodic preventive medicine, 65+ years"
+V000522,P00189,93000,Electrocardiogram
+V000522,P00189,99397,"Periodic preventive medicine, 65+ years"
+V000522,P00189,99213,"Office visit, established patient, level 3"
+V000523,P00189,93000,Electrocardiogram
+V000523,P00189,36415,Venipuncture
+V000524,P00189,99214,"Office visit, established patient, level 4"
+V000524,P00189,93000,Electrocardiogram
+V000525,P00190,99214,"Office visit, established patient, level 4"
+V000526,P00191,99214,"Office visit, established patient, level 4"
+V000527,P00191,99203,"Office visit, new patient, level 3"
+V000527,P00191,99214,"Office visit, established patient, level 4"
+V000527,P00191,81001,Urinalysis
+V000528,P00191,99396,"Periodic preventive medicine, 40-64 years"
+V000528,P00191,99397,"Periodic preventive medicine, 65+ years"
+V000529,P00191,99395,"Periodic preventive medicine, 18-39 years"
+V000530,P00192,36415,Venipuncture
+V000531,P00192,99395,"Periodic preventive medicine, 18-39 years"
+V000531,P00192,80053,Comprehensive metabolic panel
+V000532,P00192,99395,"Periodic preventive medicine, 18-39 years"
+V000532,P00192,99396,"Periodic preventive medicine, 40-64 years"
+V000532,P00192,36415,Venipuncture
+V000533,P00193,81001,Urinalysis
+V000533,P00193,90471,Immunization administration
+V000534,P00193,99397,"Periodic preventive medicine, 65+ years"
+V000535,P00193,90471,Immunization administration
+V000536,P00193,99204,"Office visit, new patient, level 4"
+V000536,P00193,36415,Venipuncture
+V000536,P00193,93000,Electrocardiogram
+V000537,P00194,99204,"Office visit, new patient, level 4"
+V000538,P00194,93000,Electrocardiogram
+V000538,P00194,36415,Venipuncture
+V000539,P00194,90471,Immunization administration
+V000540,P00195,85025,Complete blood count
+V000540,P00195,99397,"Periodic preventive medicine, 65+ years"
+V000540,P00195,80053,Comprehensive metabolic panel
+V000541,P00195,99203,"Office visit, new patient, level 3"
+V000542,P00196,93000,Electrocardiogram
+V000542,P00196,99214,"Office visit, established patient, level 4"
+V000543,P00196,99214,"Office visit, established patient, level 4"
+V000544,P00196,90471,Immunization administration
+V000545,P00196,81001,Urinalysis
+V000545,P00196,99203,"Office visit, new patient, level 3"
+V000546,P00196,99213,"Office visit, established patient, level 3"
+V000546,P00196,99396,"Periodic preventive medicine, 40-64 years"
+V000547,P00196,99395,"Periodic preventive medicine, 18-39 years"
+V000547,P00196,85025,Complete blood count
+V000547,P00196,99397,"Periodic preventive medicine, 65+ years"
+V000547,P00196,99214,"Office visit, established patient, level 4"
+V000548,P00196,85025,Complete blood count
+V000548,P00196,99397,"Periodic preventive medicine, 65+ years"
+V000548,P00196,36415,Venipuncture
+V000548,P00196,99213,"Office visit, established patient, level 3"
+V000549,P00196,99396,"Periodic preventive medicine, 40-64 years"
+V000550,P00197,85025,Complete blood count
+V000550,P00197,99214,"Office visit, established patient, level 4"
+V000550,P00197,99396,"Periodic preventive medicine, 40-64 years"
+V000551,P00198,99203,"Office visit, new patient, level 3"
+V000552,P00198,93000,Electrocardiogram
+V000552,P00198,99204,"Office visit, new patient, level 4"
+V000553,P00199,99395,"Periodic preventive medicine, 18-39 years"
+V000553,P00199,85025,Complete blood count
+V000554,P00199,80053,Comprehensive metabolic panel
+V000555,P00199,81001,Urinalysis
+V000555,P00199,36415,Venipuncture
+V000555,P00199,99395,"Periodic preventive medicine, 18-39 years"
+V000556,P00199,99396,"Periodic preventive medicine, 40-64 years"
+V000556,P00199,81001,Urinalysis
+V000556,P00199,99397,"Periodic preventive medicine, 65+ years"
+V000557,P00200,99395,"Periodic preventive medicine, 18-39 years"
+V000557,P00200,99213,"Office visit, established patient, level 3"
+V000558,P00200,99397,"Periodic preventive medicine, 65+ years"
+V000558,P00200,90471,Immunization administration
+V000558,P00200,80053,Comprehensive metabolic panel
+V000559,P00201,99203,"Office visit, new patient, level 3"
+V000560,P00201,81001,Urinalysis
+V000561,P00201,99213,"Office visit, established patient, level 3"
+V000562,P00201,99396,"Periodic preventive medicine, 40-64 years"
+V000563,P00201,99203,"Office visit, new patient, level 3"
+V000564,P00202,99214,"Office visit, established patient, level 4"
+V000565,P00202,99395,"Periodic preventive medicine, 18-39 years"
+V000565,P00202,99204,"Office visit, new patient, level 4"
+V000566,P00203,93000,Electrocardiogram
+V000566,P00203,85025,Complete blood count
+V000566,P00203,99203,"Office visit, new patient, level 3"
+V000567,P00204,80053,Comprehensive metabolic panel
+V000567,P00204,90471,Immunization administration
+V000568,P00205,81001,Urinalysis
+V000568,P00205,99396,"Periodic preventive medicine, 40-64 years"
+V000568,P00205,90471,Immunization administration
+V000569,P00206,99203,"Office visit, new patient, level 3"
+V000570,P00206,81001,Urinalysis
+V000570,P00206,99396,"Periodic preventive medicine, 40-64 years"
+V000571,P00207,99397,"Periodic preventive medicine, 65+ years"
+V000572,P00208,80053,Comprehensive metabolic panel
+V000573,P00208,93000,Electrocardiogram
+V000574,P00208,36415,Venipuncture
+V000575,P00209,99204,"Office visit, new patient, level 4"
+V000575,P00209,99395,"Periodic preventive medicine, 18-39 years"
+V000576,P00209,85025,Complete blood count
+V000576,P00209,36415,Venipuncture
+V000576,P00209,99214,"Office visit, established patient, level 4"
+V000576,P00209,80053,Comprehensive metabolic panel
+V000577,P00210,99397,"Periodic preventive medicine, 65+ years"
+V000577,P00210,99396,"Periodic preventive medicine, 40-64 years"
+V000577,P00210,93000,Electrocardiogram
+V000578,P00210,99397,"Periodic preventive medicine, 65+ years"
+V000579,P00210,99204,"Office visit, new patient, level 4"
+V000580,P00210,99396,"Periodic preventive medicine, 40-64 years"
+V000580,P00210,99213,"Office visit, established patient, level 3"
+V000581,P00210,99204,"Office visit, new patient, level 4"
+V000581,P00210,80053,Comprehensive metabolic panel
+V000581,P00210,81001,Urinalysis
+V000582,P00211,81001,Urinalysis
+V000582,P00211,80053,Comprehensive metabolic panel
+V000583,P00211,85025,Complete blood count
+V000583,P00211,99214,"Office visit, established patient, level 4"
+V000584,P00211,90471,Immunization administration
+V000585,P00211,99203,"Office visit, new patient, level 3"
+V000585,P00211,36415,Venipuncture
+V000585,P00211,99395,"Periodic preventive medicine, 18-39 years"
+V000586,P00212,99204,"Office visit, new patient, level 4"
+V000587,P00212,99397,"Periodic preventive medicine, 65+ years"
+V000588,P00213,85025,Complete blood count
+V000588,P00213,99214,"Office visit, established patient, level 4"
+V000589,P00213,90471,Immunization administration
+V000589,P00213,99213,"Office visit, established patient, level 3"
+V000590,P00213,99214,"Office visit, established patient, level 4"
+V000590,P00213,85025,Complete blood count
+V000590,P00213,99396,"Periodic preventive medicine, 40-64 years"
+V000591,P00213,99396,"Periodic preventive medicine, 40-64 years"
+V000592,P00214,99397,"Periodic preventive medicine, 65+ years"
+V000593,P00215,80053,Comprehensive metabolic panel
+V000594,P00215,36415,Venipuncture
+V000594,P00215,99213,"Office visit, established patient, level 3"
+V000595,P00215,99203,"Office visit, new patient, level 3"
+V000595,P00215,99396,"Periodic preventive medicine, 40-64 years"
+V000596,P00215,90471,Immunization administration
+V000597,P00216,99214,"Office visit, established patient, level 4"
+V000598,P00216,99214,"Office visit, established patient, level 4"
+V000599,P00217,36415,Venipuncture
+V000599,P00217,99396,"Periodic preventive medicine, 40-64 years"
+V000600,P00217,36415,Venipuncture
+V000600,P00217,80053,Comprehensive metabolic panel
+V000601,P00218,85025,Complete blood count
+V000601,P00218,99204,"Office visit, new patient, level 4"
+V000601,P00218,81001,Urinalysis
+V000602,P00218,99214,"Office visit, established patient, level 4"
+V000602,P00218,99395,"Periodic preventive medicine, 18-39 years"
+V000603,P00219,99214,"Office visit, established patient, level 4"
+V000604,P00220,99395,"Periodic preventive medicine, 18-39 years"
+V000605,P00220,85025,Complete blood count
+V000606,P00221,99397,"Periodic preventive medicine, 65+ years"
+V000606,P00221,99203,"Office visit, new patient, level 3"
+V000606,P00221,99204,"Office visit, new patient, level 4"
+V000607,P00221,80053,Comprehensive metabolic panel
+V000607,P00221,99204,"Office visit, new patient, level 4"
+V000607,P00221,99203,"Office visit, new patient, level 3"
+V000607,P00221,99396,"Periodic preventive medicine, 40-64 years"
+V000608,P00221,81001,Urinalysis
+V000609,P00221,99214,"Office visit, established patient, level 4"
+V000610,P00221,99397,"Periodic preventive medicine, 65+ years"
+V000610,P00221,93000,Electrocardiogram
+V000610,P00221,90471,Immunization administration
+V000611,P00221,81001,Urinalysis
+V000612,P00222,93000,Electrocardiogram
+V000612,P00222,99397,"Periodic preventive medicine, 65+ years"
+V000612,P00222,99396,"Periodic preventive medicine, 40-64 years"
+V000613,P00222,99397,"Periodic preventive medicine, 65+ years"
+V000614,P00222,99397,"Periodic preventive medicine, 65+ years"
+V000614,P00222,85025,Complete blood count
+V000615,P00223,99214,"Office visit, established patient, level 4"
+V000615,P00223,93000,Electrocardiogram
+V000616,P00224,80053,Comprehensive metabolic panel
+V000617,P00224,80053,Comprehensive metabolic panel
+V000617,P00224,99396,"Periodic preventive medicine, 40-64 years"
+V000618,P00225,99395,"Periodic preventive medicine, 18-39 years"
+V000619,P00225,80053,Comprehensive metabolic panel
+V000619,P00225,93000,Electrocardiogram
+V000620,P00226,85025,Complete blood count
+V000620,P00226,80053,Comprehensive metabolic panel
+V000621,P00227,99214,"Office visit, established patient, level 4"
+V000621,P00227,99396,"Periodic preventive medicine, 40-64 years"
+V000621,P00227,90471,Immunization administration
+V000622,P00227,36415,Venipuncture
+V000623,P00228,99396,"Periodic preventive medicine, 40-64 years"
+V000624,P00228,81001,Urinalysis
+V000625,P00228,99213,"Office visit, established patient, level 3"
+V000625,P00228,93000,Electrocardiogram
+V000626,P00229,81001,Urinalysis
+V000627,P00229,99397,"Periodic preventive medicine, 65+ years"
+V000628,P00229,85025,Complete blood count
+V000628,P00229,99396,"Periodic preventive medicine, 40-64 years"
+V000628,P00229,93000,Electrocardiogram
+V000629,P00230,99203,"Office visit, new patient, level 3"
+V000630,P00230,93000,Electrocardiogram
+V000631,P00230,90471,Immunization administration
+V000631,P00230,99214,"Office visit, established patient, level 4"
+V000632,P00230,99397,"Periodic preventive medicine, 65+ years"
+V000632,P00230,99203,"Office visit, new patient, level 3"
+V000632,P00230,99213,"Office visit, established patient, level 3"
+V000633,P00231,90471,Immunization administration
+V000633,P00231,93000,Electrocardiogram
+V000634,P00232,99395,"Periodic preventive medicine, 18-39 years"
+V000635,P00232,85025,Complete blood count
+V000636,P00233,80053,Comprehensive metabolic panel
+V000636,P00233,36415,Venipuncture
+V000637,P00233,85025,Complete blood count
+V000638,P00234,99396,"Periodic preventive medicine, 40-64 years"
+V000638,P00234,99213,"Office visit, established patient, level 3"
+V000639,P00234,99397,"Periodic preventive medicine, 65+ years"
+V000640,P00234,85025,Complete blood count
+V000640,P00234,99214,"Office visit, established patient, level 4"
+V000641,P00234,99214,"Office visit, established patient, level 4"
+V000642,P00234,99397,"Periodic preventive medicine, 65+ years"
+V000642,P00234,36415,Venipuncture
+V000642,P00234,80053,Comprehensive metabolic panel
+V000642,P00234,81001,Urinalysis
+V000643,P00234,99397,"Periodic preventive medicine, 65+ years"
+V000643,P00234,99396,"Periodic preventive medicine, 40-64 years"
+V000644,P00235,99203,"Office visit, new patient, level 3"
+V000645,P00235,99396,"Periodic preventive medicine, 40-64 years"
+V000645,P00235,99397,"Periodic preventive medicine, 65+ years"
+V000646,P00235,80053,Comprehensive metabolic panel
+V000646,P00235,99397,"Periodic preventive medicine, 65+ years"
+V000646,P00235,90471,Immunization administration
+V000647,P00235,99203,"Office visit, new patient, level 3"
+V000648,P00235,90471,Immunization administration
+V000648,P00235,99214,"Office visit, established patient, level 4"
+V000649,P00236,36415,Venipuncture
+V000649,P00236,99397,"Periodic preventive medicine, 65+ years"
+V000650,P00237,85025,Complete blood count
+V000651,P00238,99203,"Office visit, new patient, level 3"
+V000652,P00239,90471,Immunization administration
+V000653,P00239,99214,"Office visit, established patient, level 4"
+V000654,P00239,99397,"Periodic preventive medicine, 65+ years"
+V000654,P00239,36415,Venipuncture
+V000654,P00239,99395,"Periodic preventive medicine, 18-39 years"
+V000655,P00239,80053,Comprehensive metabolic panel
+V000656,P00239,81001,Urinalysis
+V000656,P00239,93000,Electrocardiogram
+V000657,P00240,99204,"Office visit, new patient, level 4"
+V000657,P00240,99203,"Office visit, new patient, level 3"
+V000658,P00240,80053,Comprehensive metabolic panel
+V000658,P00240,99214,"Office visit, established patient, level 4"
+V000659,P00240,99395,"Periodic preventive medicine, 18-39 years"
+V000660,P00241,90471,Immunization administration
+V000661,P00241,99395,"Periodic preventive medicine, 18-39 years"
+V000662,P00241,81001,Urinalysis
+V000662,P00241,99396,"Periodic preventive medicine, 40-64 years"
+V000663,P00241,99396,"Periodic preventive medicine, 40-64 years"
+V000663,P00241,36415,Venipuncture
+V000663,P00241,99203,"Office visit, new patient, level 3"
+V000663,P00241,99397,"Periodic preventive medicine, 65+ years"
+V000664,P00242,90471,Immunization administration
+V000665,P00242,99396,"Periodic preventive medicine, 40-64 years"
+V000665,P00242,99203,"Office visit, new patient, level 3"
+V000666,P00243,99213,"Office visit, established patient, level 3"
+V000667,P00243,99397,"Periodic preventive medicine, 65+ years"
+V000668,P00244,99204,"Office visit, new patient, level 4"
+V000669,P00244,80053,Comprehensive metabolic panel
+V000670,P00245,81001,Urinalysis
+V000671,P00245,99204,"Office visit, new patient, level 4"
+V000671,P00245,80053,Comprehensive metabolic panel
+V000672,P00246,81001,Urinalysis
+V000672,P00246,93000,Electrocardiogram
+V000673,P00246,99204,"Office visit, new patient, level 4"
+V000673,P00246,85025,Complete blood count
+V000674,P00246,99396,"Periodic preventive medicine, 40-64 years"
+V000674,P00246,93000,Electrocardiogram
+V000675,P00247,81001,Urinalysis
+V000675,P00247,80053,Comprehensive metabolic panel
+V000676,P00247,36415,Venipuncture
+V000676,P00247,99395,"Periodic preventive medicine, 18-39 years"
+V000677,P00247,36415,Venipuncture
+V000677,P00247,99203,"Office visit, new patient, level 3"
+V000678,P00248,99204,"Office visit, new patient, level 4"
+V000679,P00249,99203,"Office visit, new patient, level 3"
+V000680,P00249,99213,"Office visit, established patient, level 3"
+V000680,P00249,99397,"Periodic preventive medicine, 65+ years"
+V000680,P00249,93000,Electrocardiogram
+V000681,P00250,99395,"Periodic preventive medicine, 18-39 years"
+V000681,P00250,99214,"Office visit, established patient, level 4"
+V000682,P00250,99395,"Periodic preventive medicine, 18-39 years"
+V000682,P00250,99214,"Office visit, established patient, level 4"
+V000682,P00250,80053,Comprehensive metabolic panel
+V000682,P00250,90471,Immunization administration
+V000683,P00251,99203,"Office visit, new patient, level 3"
+V000683,P00251,80053,Comprehensive metabolic panel
+V000684,P00252,99395,"Periodic preventive medicine, 18-39 years"
+V000684,P00252,99203,"Office visit, new patient, level 3"
+V000684,P00252,36415,Venipuncture
+V000684,P00252,99214,"Office visit, established patient, level 4"
+V000685,P00252,85025,Complete blood count
+V000685,P00252,99213,"Office visit, established patient, level 3"
+V000686,P00252,36415,Venipuncture
+V000686,P00252,99395,"Periodic preventive medicine, 18-39 years"
+V000686,P00252,85025,Complete blood count
+V000687,P00252,36415,Venipuncture
+V000687,P00252,99214,"Office visit, established patient, level 4"
+V000688,P00252,99213,"Office visit, established patient, level 3"
+V000688,P00252,85025,Complete blood count
+V000689,P00252,99214,"Office visit, established patient, level 4"
+V000689,P00252,90471,Immunization administration
+V000689,P00252,99397,"Periodic preventive medicine, 65+ years"
+V000690,P00253,81001,Urinalysis
+V000690,P00253,99203,"Office visit, new patient, level 3"
+V000691,P00253,99213,"Office visit, established patient, level 3"
+V000692,P00253,93000,Electrocardiogram
+V000692,P00253,90471,Immunization administration
+V000692,P00253,99203,"Office visit, new patient, level 3"
+V000693,P00254,93000,Electrocardiogram
+V000693,P00254,81001,Urinalysis
+V000694,P00255,99214,"Office visit, established patient, level 4"
+V000694,P00255,99213,"Office visit, established patient, level 3"
+V000695,P00256,99203,"Office visit, new patient, level 3"
+V000696,P00256,90471,Immunization administration
+V000696,P00256,99396,"Periodic preventive medicine, 40-64 years"
+V000697,P00257,81001,Urinalysis
+V000698,P00257,99204,"Office visit, new patient, level 4"
+V000698,P00257,80053,Comprehensive metabolic panel
+V000699,P00257,99213,"Office visit, established patient, level 3"
+V000699,P00257,99204,"Office visit, new patient, level 4"
+V000700,P00257,99397,"Periodic preventive medicine, 65+ years"
+V000700,P00257,99396,"Periodic preventive medicine, 40-64 years"
+V000700,P00257,93000,Electrocardiogram
+V000701,P00258,99214,"Office visit, established patient, level 4"
+V000702,P00259,99395,"Periodic preventive medicine, 18-39 years"
+V000703,P00259,99397,"Periodic preventive medicine, 65+ years"
+V000704,P00260,99396,"Periodic preventive medicine, 40-64 years"
+V000704,P00260,99204,"Office visit, new patient, level 4"
+V000704,P00260,99203,"Office visit, new patient, level 3"
+V000705,P00261,36415,Venipuncture
+V000705,P00261,99213,"Office visit, established patient, level 3"
+V000705,P00261,99396,"Periodic preventive medicine, 40-64 years"
+V000706,P00261,99204,"Office visit, new patient, level 4"
+V000707,P00261,36415,Venipuncture
+V000707,P00261,99203,"Office visit, new patient, level 3"
+V000708,P00261,99214,"Office visit, established patient, level 4"
+V000709,P00262,99214,"Office visit, established patient, level 4"
+V000710,P00262,99395,"Periodic preventive medicine, 18-39 years"
+V000710,P00262,81001,Urinalysis
+V000710,P00262,90471,Immunization administration
+V000711,P00262,99213,"Office visit, established patient, level 3"
+V000711,P00262,36415,Venipuncture
+V000711,P00262,93000,Electrocardiogram
+V000711,P00262,81001,Urinalysis
+V000712,P00263,85025,Complete blood count
+V000713,P00263,90471,Immunization administration
+V000713,P00263,99213,"Office visit, established patient, level 3"
+V000714,P00263,85025,Complete blood count
+V000714,P00263,99204,"Office visit, new patient, level 4"
+V000715,P00263,99397,"Periodic preventive medicine, 65+ years"
+V000715,P00263,81001,Urinalysis
+V000716,P00263,81001,Urinalysis
+V000717,P00264,85025,Complete blood count
+V000718,P00265,99213,"Office visit, established patient, level 3"
+V000718,P00265,85025,Complete blood count
+V000719,P00265,85025,Complete blood count
+V000719,P00265,99397,"Periodic preventive medicine, 65+ years"
+V000720,P00265,99397,"Periodic preventive medicine, 65+ years"
+V000720,P00265,93000,Electrocardiogram
+V000721,P00266,93000,Electrocardiogram
+V000722,P00266,99203,"Office visit, new patient, level 3"
+V000722,P00266,99214,"Office visit, established patient, level 4"
+V000723,P00266,93000,Electrocardiogram
+V000723,P00266,99213,"Office visit, established patient, level 3"
+V000724,P00267,99213,"Office visit, established patient, level 3"
+V000724,P00267,99204,"Office visit, new patient, level 4"
+V000724,P00267,81001,Urinalysis
+V000725,P00267,80053,Comprehensive metabolic panel
+V000725,P00267,99395,"Periodic preventive medicine, 18-39 years"
+V000726,P00267,99395,"Periodic preventive medicine, 18-39 years"
+V000726,P00267,93000,Electrocardiogram
+V000727,P00267,81001,Urinalysis
+V000728,P00267,99204,"Office visit, new patient, level 4"
+V000729,P00267,85025,Complete blood count
+V000729,P00267,99213,"Office visit, established patient, level 3"
+V000730,P00267,99397,"Periodic preventive medicine, 65+ years"
+V000731,P00268,80053,Comprehensive metabolic panel
+V000731,P00268,99214,"Office visit, established patient, level 4"
+V000731,P00268,85025,Complete blood count
+V000731,P00268,36415,Venipuncture
+V000732,P00268,90471,Immunization administration
+V000732,P00268,93000,Electrocardiogram
+V000733,P00268,36415,Venipuncture
+V000733,P00268,85025,Complete blood count
+V000733,P00268,99203,"Office visit, new patient, level 3"
+V000733,P00268,93000,Electrocardiogram
+V000734,P00269,93000,Electrocardiogram
+V000735,P00269,81001,Urinalysis
+V000736,P00269,81001,Urinalysis
+V000737,P00270,36415,Venipuncture
+V000737,P00270,99214,"Office visit, established patient, level 4"
+V000738,P00270,99203,"Office visit, new patient, level 3"
+V000738,P00270,99395,"Periodic preventive medicine, 18-39 years"
+V000739,P00270,99214,"Office visit, established patient, level 4"
+V000740,P00270,80053,Comprehensive metabolic panel
+V000740,P00270,81001,Urinalysis
+V000741,P00271,36415,Venipuncture
+V000741,P00271,99203,"Office visit, new patient, level 3"
+V000742,P00271,85025,Complete blood count
+V000743,P00271,90471,Immunization administration
+V000744,P00271,36415,Venipuncture
+V000745,P00271,99213,"Office visit, established patient, level 3"
+V000745,P00271,99214,"Office visit, established patient, level 4"
+V000745,P00271,99397,"Periodic preventive medicine, 65+ years"
+V000746,P00271,85025,Complete blood count
+V000746,P00271,99395,"Periodic preventive medicine, 18-39 years"
+V000747,P00272,99203,"Office visit, new patient, level 3"
+V000747,P00272,99213,"Office visit, established patient, level 3"
+V000748,P00272,99396,"Periodic preventive medicine, 40-64 years"
+V000748,P00272,99397,"Periodic preventive medicine, 65+ years"
+V000749,P00272,99213,"Office visit, established patient, level 3"
+V000749,P00272,99203,"Office visit, new patient, level 3"
+V000750,P00273,99204,"Office visit, new patient, level 4"
+V000751,P00274,99397,"Periodic preventive medicine, 65+ years"
+V000752,P00274,85025,Complete blood count
+V000752,P00274,36415,Venipuncture
+V000753,P00275,99213,"Office visit, established patient, level 3"
+V000753,P00275,99396,"Periodic preventive medicine, 40-64 years"
+V000754,P00276,99397,"Periodic preventive medicine, 65+ years"
+V000755,P00276,85025,Complete blood count
+V000756,P00277,93000,Electrocardiogram
+V000757,P00277,99396,"Periodic preventive medicine, 40-64 years"
+V000757,P00277,99203,"Office visit, new patient, level 3"
+V000757,P00277,99395,"Periodic preventive medicine, 18-39 years"
+V000757,P00277,85025,Complete blood count
+V000758,P00278,85025,Complete blood count
+V000759,P00278,80053,Comprehensive metabolic panel
+V000759,P00278,99204,"Office visit, new patient, level 4"
+V000760,P00278,90471,Immunization administration
+V000761,P00278,93000,Electrocardiogram
+V000761,P00278,99395,"Periodic preventive medicine, 18-39 years"
+V000762,P00279,99395,"Periodic preventive medicine, 18-39 years"
+V000763,P00280,80053,Comprehensive metabolic panel
+V000763,P00280,81001,Urinalysis
+V000763,P00280,93000,Electrocardiogram
+V000764,P00281,90471,Immunization administration
+V000765,P00281,99214,"Office visit, established patient, level 4"
+V000765,P00281,99203,"Office visit, new patient, level 3"
+V000766,P00281,99214,"Office visit, established patient, level 4"
+V000766,P00281,93000,Electrocardiogram
+V000766,P00281,99203,"Office visit, new patient, level 3"
+V000767,P00282,90471,Immunization administration
+V000768,P00283,99397,"Periodic preventive medicine, 65+ years"
+V000769,P00284,99397,"Periodic preventive medicine, 65+ years"
+V000770,P00284,90471,Immunization administration
+V000770,P00284,99214,"Office visit, established patient, level 4"
+V000771,P00284,99395,"Periodic preventive medicine, 18-39 years"
+V000771,P00284,80053,Comprehensive metabolic panel
+V000772,P00284,80053,Comprehensive metabolic panel
+V000772,P00284,99203,"Office visit, new patient, level 3"
+V000773,P00284,90471,Immunization administration
+V000773,P00284,99397,"Periodic preventive medicine, 65+ years"
+V000773,P00284,99203,"Office visit, new patient, level 3"
+V000774,P00285,85025,Complete blood count
+V000775,P00285,99204,"Office visit, new patient, level 4"
+V000775,P00285,99214,"Office visit, established patient, level 4"
+V000775,P00285,81001,Urinalysis
+V000776,P00285,99204,"Office visit, new patient, level 4"
+V000776,P00285,93000,Electrocardiogram
+V000777,P00285,85025,Complete blood count
+V000777,P00285,99395,"Periodic preventive medicine, 18-39 years"
+V000778,P00285,85025,Complete blood count
+V000779,P00285,99395,"Periodic preventive medicine, 18-39 years"
+V000780,P00285,99396,"Periodic preventive medicine, 40-64 years"
+V000780,P00285,99214,"Office visit, established patient, level 4"
+V000780,P00285,90471,Immunization administration
+V000781,P00286,36415,Venipuncture
+V000781,P00286,90471,Immunization administration
+V000782,P00287,99395,"Periodic preventive medicine, 18-39 years"
+V000783,P00288,81001,Urinalysis
+V000784,P00288,99396,"Periodic preventive medicine, 40-64 years"
+V000785,P00288,85025,Complete blood count
+V000785,P00288,99397,"Periodic preventive medicine, 65+ years"
+V000786,P00288,93000,Electrocardiogram
+V000787,P00288,85025,Complete blood count
+V000787,P00288,99203,"Office visit, new patient, level 3"
+V000787,P00288,99395,"Periodic preventive medicine, 18-39 years"
+V000788,P00289,99396,"Periodic preventive medicine, 40-64 years"
+V000788,P00289,99203,"Office visit, new patient, level 3"
+V000788,P00289,90471,Immunization administration
+V000789,P00289,99213,"Office visit, established patient, level 3"
+V000789,P00289,99214,"Office visit, established patient, level 4"
+V000789,P00289,99395,"Periodic preventive medicine, 18-39 years"
+V000790,P00290,80053,Comprehensive metabolic panel
+V000790,P00290,99203,"Office visit, new patient, level 3"
+V000791,P00291,85025,Complete blood count
+V000792,P00291,90471,Immunization administration
+V000792,P00291,99204,"Office visit, new patient, level 4"
+V000792,P00291,85025,Complete blood count
+V000793,P00292,80053,Comprehensive metabolic panel
+V000793,P00292,99214,"Office visit, established patient, level 4"
+V000794,P00292,99204,"Office visit, new patient, level 4"
+V000794,P00292,99397,"Periodic preventive medicine, 65+ years"
+V000795,P00293,99203,"Office visit, new patient, level 3"
+V000795,P00293,99397,"Periodic preventive medicine, 65+ years"
+V000796,P00294,99396,"Periodic preventive medicine, 40-64 years"
+V000796,P00294,99395,"Periodic preventive medicine, 18-39 years"
+V000797,P00295,99397,"Periodic preventive medicine, 65+ years"
+V000798,P00295,99396,"Periodic preventive medicine, 40-64 years"
+V000799,P00296,99203,"Office visit, new patient, level 3"
+V000799,P00296,81001,Urinalysis
+V000799,P00296,99397,"Periodic preventive medicine, 65+ years"
+V000800,P00297,90471,Immunization administration
+V000801,P00297,99396,"Periodic preventive medicine, 40-64 years"
+V000802,P00297,99396,"Periodic preventive medicine, 40-64 years"
+V000803,P00297,99213,"Office visit, established patient, level 3"
+V000804,P00297,99213,"Office visit, established patient, level 3"
+V000804,P00297,99397,"Periodic preventive medicine, 65+ years"
+V000805,P00297,80053,Comprehensive metabolic panel
+V000806,P00298,99204,"Office visit, new patient, level 4"
+V000806,P00298,99396,"Periodic preventive medicine, 40-64 years"
+V000807,P00298,99396,"Periodic preventive medicine, 40-64 years"
+V000808,P00298,93000,Electrocardiogram
+V000808,P00298,99397,"Periodic preventive medicine, 65+ years"
+V000809,P00298,80053,Comprehensive metabolic panel
+V000809,P00298,99397,"Periodic preventive medicine, 65+ years"
+V000809,P00298,81001,Urinalysis
+V000810,P00299,81001,Urinalysis
+V000810,P00299,99397,"Periodic preventive medicine, 65+ years"
+V000811,P00299,80053,Comprehensive metabolic panel
+V000811,P00299,93000,Electrocardiogram
+V000811,P00299,99214,"Office visit, established patient, level 4"
+V000812,P00300,99213,"Office visit, established patient, level 3"
+V000812,P00300,99203,"Office visit, new patient, level 3"
+V000812,P00300,93000,Electrocardiogram
+V000813,P00301,93000,Electrocardiogram
+V000813,P00301,99204,"Office visit, new patient, level 4"
+V000814,P00301,85025,Complete blood count
+V000814,P00301,90471,Immunization administration
+V000815,P00302,90471,Immunization administration
+V000816,P00303,85025,Complete blood count
+V000817,P00304,99203,"Office visit, new patient, level 3"
+V000818,P00304,99395,"Periodic preventive medicine, 18-39 years"
+V000819,P00304,99214,"Office visit, established patient, level 4"
+V000819,P00304,85025,Complete blood count
+V000820,P00304,93000,Electrocardiogram
+V000820,P00304,99214,"Office visit, established patient, level 4"
+V000820,P00304,80053,Comprehensive metabolic panel
+V000821,P00304,99204,"Office visit, new patient, level 4"
+V000821,P00304,99203,"Office visit, new patient, level 3"
+V000822,P00305,99213,"Office visit, established patient, level 3"
+V000822,P00305,80053,Comprehensive metabolic panel
+V000823,P00305,99396,"Periodic preventive medicine, 40-64 years"
+V000824,P00305,85025,Complete blood count
+V000825,P00305,99396,"Periodic preventive medicine, 40-64 years"
+V000825,P00305,90471,Immunization administration
+V000826,P00306,99204,"Office visit, new patient, level 4"
+V000826,P00306,99203,"Office visit, new patient, level 3"
+V000826,P00306,93000,Electrocardiogram
+V000827,P00306,93000,Electrocardiogram
+V000827,P00306,80053,Comprehensive metabolic panel
+V000827,P00306,81001,Urinalysis
+V000828,P00307,99214,"Office visit, established patient, level 4"
+V000829,P00307,99395,"Periodic preventive medicine, 18-39 years"
+V000829,P00307,93000,Electrocardiogram
+V000830,P00307,99204,"Office visit, new patient, level 4"
+V000830,P00307,99396,"Periodic preventive medicine, 40-64 years"
+V000830,P00307,85025,Complete blood count
+V000830,P00307,99213,"Office visit, established patient, level 3"
+V000831,P00308,80053,Comprehensive metabolic panel
+V000832,P00309,99396,"Periodic preventive medicine, 40-64 years"
+V000832,P00309,99397,"Periodic preventive medicine, 65+ years"
+V000833,P00310,80053,Comprehensive metabolic panel
+V000833,P00310,99395,"Periodic preventive medicine, 18-39 years"
+V000834,P00310,99214,"Office visit, established patient, level 4"
+V000834,P00310,36415,Venipuncture
+V000834,P00310,99203,"Office visit, new patient, level 3"
+V000835,P00310,80053,Comprehensive metabolic panel
+V000835,P00310,90471,Immunization administration
+V000836,P00310,81001,Urinalysis
+V000837,P00311,36415,Venipuncture
+V000837,P00311,99213,"Office visit, established patient, level 3"
+V000838,P00312,85025,Complete blood count
+V000838,P00312,99395,"Periodic preventive medicine, 18-39 years"
+V000838,P00312,80053,Comprehensive metabolic panel
+V000838,P00312,99214,"Office visit, established patient, level 4"
+V000839,P00312,99395,"Periodic preventive medicine, 18-39 years"
+V000840,P00312,81001,Urinalysis
+V000840,P00312,99395,"Periodic preventive medicine, 18-39 years"
+V000841,P00312,99396,"Periodic preventive medicine, 40-64 years"
+V000841,P00312,99397,"Periodic preventive medicine, 65+ years"
+V000841,P00312,81001,Urinalysis
+V000842,P00313,36415,Venipuncture
+V000843,P00313,81001,Urinalysis
+V000843,P00313,85025,Complete blood count
+V000844,P00314,85025,Complete blood count
+V000844,P00314,99203,"Office visit, new patient, level 3"
+V000845,P00315,99396,"Periodic preventive medicine, 40-64 years"
+V000845,P00315,99395,"Periodic preventive medicine, 18-39 years"
+V000845,P00315,36415,Venipuncture
+V000846,P00315,99213,"Office visit, established patient, level 3"
+V000847,P00315,99203,"Office visit, new patient, level 3"
+V000848,P00316,81001,Urinalysis
+V000848,P00316,93000,Electrocardiogram
+V000849,P00316,93000,Electrocardiogram
+V000849,P00316,99203,"Office visit, new patient, level 3"
+V000850,P00316,85025,Complete blood count
+V000850,P00316,99396,"Periodic preventive medicine, 40-64 years"
+V000851,P00316,99203,"Office visit, new patient, level 3"
+V000851,P00316,36415,Venipuncture
+V000851,P00316,99396,"Periodic preventive medicine, 40-64 years"
+V000852,P00316,80053,Comprehensive metabolic panel
+V000852,P00316,99396,"Periodic preventive medicine, 40-64 years"
+V000853,P00316,99395,"Periodic preventive medicine, 18-39 years"
+V000854,P00317,99396,"Periodic preventive medicine, 40-64 years"
+V000854,P00317,80053,Comprehensive metabolic panel
+V000855,P00317,99213,"Office visit, established patient, level 3"
+V000856,P00318,85025,Complete blood count
+V000857,P00318,36415,Venipuncture
+V000858,P00318,80053,Comprehensive metabolic panel
+V000859,P00318,90471,Immunization administration
+V000860,P00318,99213,"Office visit, established patient, level 3"
+V000861,P00319,93000,Electrocardiogram
+V000861,P00319,80053,Comprehensive metabolic panel
+V000861,P00319,99397,"Periodic preventive medicine, 65+ years"
+V000862,P00320,99396,"Periodic preventive medicine, 40-64 years"
+V000862,P00320,81001,Urinalysis
+V000863,P00320,99213,"Office visit, established patient, level 3"
+V000864,P00320,93000,Electrocardiogram
+V000864,P00320,99203,"Office visit, new patient, level 3"
+V000865,P00320,99397,"Periodic preventive medicine, 65+ years"
+V000866,P00320,81001,Urinalysis
+V000866,P00320,36415,Venipuncture
+V000866,P00320,99203,"Office visit, new patient, level 3"
+V000867,P00320,99397,"Periodic preventive medicine, 65+ years"
+V000867,P00320,99204,"Office visit, new patient, level 4"
+V000867,P00320,99213,"Office visit, established patient, level 3"
+V000868,P00321,99204,"Office visit, new patient, level 4"
+V000869,P00321,36415,Venipuncture
+V000869,P00321,99203,"Office visit, new patient, level 3"
+V000870,P00321,90471,Immunization administration
+V000871,P00321,36415,Venipuncture
+V000872,P00321,93000,Electrocardiogram
+V000873,P00322,90471,Immunization administration
+V000873,P00322,81001,Urinalysis
+V000874,P00323,99203,"Office visit, new patient, level 3"
+V000874,P00323,99395,"Periodic preventive medicine, 18-39 years"
+V000875,P00323,85025,Complete blood count
+V000875,P00323,99397,"Periodic preventive medicine, 65+ years"
+V000876,P00323,99395,"Periodic preventive medicine, 18-39 years"
+V000877,P00324,85025,Complete blood count
+V000877,P00324,99203,"Office visit, new patient, level 3"
+V000878,P00324,99395,"Periodic preventive medicine, 18-39 years"
+V000879,P00324,99395,"Periodic preventive medicine, 18-39 years"
+V000879,P00324,85025,Complete blood count
+V000880,P00324,81001,Urinalysis
+V000881,P00324,90471,Immunization administration
+V000882,P00324,90471,Immunization administration
+V000882,P00324,80053,Comprehensive metabolic panel
+V000882,P00324,99396,"Periodic preventive medicine, 40-64 years"
+V000883,P00325,99204,"Office visit, new patient, level 4"
+V000884,P00326,99395,"Periodic preventive medicine, 18-39 years"
+V000884,P00326,80053,Comprehensive metabolic panel
+V000885,P00326,81001,Urinalysis
+V000885,P00326,80053,Comprehensive metabolic panel
+V000885,P00326,99204,"Office visit, new patient, level 4"
+V000885,P00326,93000,Electrocardiogram
+V000886,P00326,93000,Electrocardiogram
+V000886,P00326,85025,Complete blood count
+V000886,P00326,99395,"Periodic preventive medicine, 18-39 years"
+V000886,P00326,80053,Comprehensive metabolic panel
+V000887,P00326,99396,"Periodic preventive medicine, 40-64 years"
+V000888,P00327,36415,Venipuncture
+V000888,P00327,85025,Complete blood count
+V000888,P00327,99203,"Office visit, new patient, level 3"
+V000889,P00328,99213,"Office visit, established patient, level 3"
+V000889,P00328,80053,Comprehensive metabolic panel
+V000890,P00328,85025,Complete blood count
+V000890,P00328,93000,Electrocardiogram
+V000890,P00328,99397,"Periodic preventive medicine, 65+ years"
+V000891,P00329,93000,Electrocardiogram
+V000891,P00329,99204,"Office visit, new patient, level 4"
+V000891,P00329,90471,Immunization administration
+V000892,P00330,80053,Comprehensive metabolic panel
+V000892,P00330,99395,"Periodic preventive medicine, 18-39 years"
+V000893,P00330,99214,"Office visit, established patient, level 4"
+V000893,P00330,99396,"Periodic preventive medicine, 40-64 years"
+V000893,P00330,90471,Immunization administration
+V000894,P00330,99204,"Office visit, new patient, level 4"
+V000894,P00330,99213,"Office visit, established patient, level 3"
+V000894,P00330,99397,"Periodic preventive medicine, 65+ years"
+V000895,P00330,99395,"Periodic preventive medicine, 18-39 years"
+V000896,P00331,99204,"Office visit, new patient, level 4"
+V000897,P00332,85025,Complete blood count
+V000897,P00332,90471,Immunization administration
+V000898,P00332,99214,"Office visit, established patient, level 4"
+V000898,P00332,99397,"Periodic preventive medicine, 65+ years"
+V000899,P00332,99203,"Office visit, new patient, level 3"
+V000899,P00332,99213,"Office visit, established patient, level 3"
+V000900,P00333,36415,Venipuncture
+V000901,P00333,93000,Electrocardiogram
+V000901,P00333,81001,Urinalysis
+V000901,P00333,99397,"Periodic preventive medicine, 65+ years"
+V000902,P00334,81001,Urinalysis
+V000903,P00335,80053,Comprehensive metabolic panel
+V000903,P00335,99397,"Periodic preventive medicine, 65+ years"
+V000904,P00335,99214,"Office visit, established patient, level 4"
+V000905,P00335,99204,"Office visit, new patient, level 4"
+V000906,P00335,90471,Immunization administration
+V000906,P00335,99213,"Office visit, established patient, level 3"
+V000906,P00335,99203,"Office visit, new patient, level 3"
+V000906,P00335,36415,Venipuncture
+V000907,P00336,99203,"Office visit, new patient, level 3"
+V000908,P00336,81001,Urinalysis
+V000909,P00336,90471,Immunization administration
+V000910,P00336,99213,"Office visit, established patient, level 3"
+V000910,P00336,81001,Urinalysis
+V000911,P00337,99396,"Periodic preventive medicine, 40-64 years"
+V000911,P00337,81001,Urinalysis
+V000912,P00337,80053,Comprehensive metabolic panel
+V000913,P00337,99397,"Periodic preventive medicine, 65+ years"
+V000914,P00337,99203,"Office visit, new patient, level 3"
+V000915,P00337,93000,Electrocardiogram
+V000915,P00337,80053,Comprehensive metabolic panel
+V000915,P00337,99204,"Office visit, new patient, level 4"
+V000916,P00338,85025,Complete blood count
+V000917,P00339,90471,Immunization administration
+V000918,P00339,99397,"Periodic preventive medicine, 65+ years"
+V000918,P00339,80053,Comprehensive metabolic panel
+V000919,P00340,90471,Immunization administration
+V000919,P00340,85025,Complete blood count
+V000920,P00340,80053,Comprehensive metabolic panel
+V000920,P00340,99396,"Periodic preventive medicine, 40-64 years"
+V000921,P00341,81001,Urinalysis
+V000922,P00341,99203,"Office visit, new patient, level 3"
+V000923,P00342,36415,Venipuncture
+V000924,P00342,36415,Venipuncture
+V000924,P00342,99395,"Periodic preventive medicine, 18-39 years"
+V000925,P00343,36415,Venipuncture
+V000926,P00343,99214,"Office visit, established patient, level 4"
+V000926,P00343,99203,"Office visit, new patient, level 3"
+V000927,P00343,85025,Complete blood count
+V000928,P00344,99204,"Office visit, new patient, level 4"
+V000929,P00344,99204,"Office visit, new patient, level 4"
+V000929,P00344,93000,Electrocardiogram
+V000930,P00344,80053,Comprehensive metabolic panel
+V000931,P00345,99396,"Periodic preventive medicine, 40-64 years"
+V000932,P00345,99396,"Periodic preventive medicine, 40-64 years"
+V000933,P00346,80053,Comprehensive metabolic panel
+V000934,P00346,85025,Complete blood count
+V000935,P00346,99204,"Office visit, new patient, level 4"
+V000935,P00346,99213,"Office visit, established patient, level 3"
+V000936,P00346,99214,"Office visit, established patient, level 4"
+V000936,P00346,93000,Electrocardiogram
+V000937,P00346,99203,"Office visit, new patient, level 3"
+V000937,P00346,36415,Venipuncture
+V000937,P00346,99397,"Periodic preventive medicine, 65+ years"
+V000938,P00346,90471,Immunization administration
+V000939,P00347,99214,"Office visit, established patient, level 4"
+V000940,P00347,85025,Complete blood count
+V000940,P00347,99396,"Periodic preventive medicine, 40-64 years"
+V000941,P00347,99204,"Office visit, new patient, level 4"
+V000942,P00348,93000,Electrocardiogram
+V000942,P00348,99203,"Office visit, new patient, level 3"
+V000942,P00348,81001,Urinalysis
+V000943,P00349,85025,Complete blood count
+V000944,P00349,90471,Immunization administration
+V000944,P00349,99395,"Periodic preventive medicine, 18-39 years"
+V000944,P00349,93000,Electrocardiogram
+V000945,P00349,81001,Urinalysis
+V000945,P00349,99397,"Periodic preventive medicine, 65+ years"
+V000946,P00349,81001,Urinalysis
+V000946,P00349,99204,"Office visit, new patient, level 4"
+V000947,P00349,99396,"Periodic preventive medicine, 40-64 years"
+V000948,P00350,99214,"Office visit, established patient, level 4"
+V000948,P00350,99395,"Periodic preventive medicine, 18-39 years"
+V000948,P00350,93000,Electrocardiogram
+V000949,P00350,90471,Immunization administration
+V000950,P00350,99214,"Office visit, established patient, level 4"
+V000950,P00350,99396,"Periodic preventive medicine, 40-64 years"
+V000950,P00350,81001,Urinalysis
+V000950,P00350,99213,"Office visit, established patient, level 3"
+V000951,P00350,99395,"Periodic preventive medicine, 18-39 years"
+V000951,P00350,99204,"Office visit, new patient, level 4"
+V000952,P00350,99395,"Periodic preventive medicine, 18-39 years"
+V000952,P00350,99203,"Office visit, new patient, level 3"
+V000953,P00350,85025,Complete blood count
+V000953,P00350,99395,"Periodic preventive medicine, 18-39 years"
+V000954,P00351,99397,"Periodic preventive medicine, 65+ years"
+V000954,P00351,99204,"Office visit, new patient, level 4"
+V000955,P00352,93000,Electrocardiogram
+V000956,P00352,99395,"Periodic preventive medicine, 18-39 years"
+V000957,P00352,99213,"Office visit, established patient, level 3"
+V000958,P00353,99203,"Office visit, new patient, level 3"
+V000958,P00353,99395,"Periodic preventive medicine, 18-39 years"
+V000959,P00353,99396,"Periodic preventive medicine, 40-64 years"
+V000959,P00353,99213,"Office visit, established patient, level 3"
+V000960,P00353,93000,Electrocardiogram
+V000961,P00353,81001,Urinalysis
+V000962,P00354,90471,Immunization administration
+V000963,P00354,80053,Comprehensive metabolic panel
+V000963,P00354,99213,"Office visit, established patient, level 3"
+V000964,P00355,99396,"Periodic preventive medicine, 40-64 years"
+V000964,P00355,99214,"Office visit, established patient, level 4"
+V000964,P00355,99213,"Office visit, established patient, level 3"
+V000965,P00355,85025,Complete blood count
+V000965,P00355,90471,Immunization administration
+V000965,P00355,99214,"Office visit, established patient, level 4"
+V000966,P00356,99214,"Office visit, established patient, level 4"
+V000966,P00356,93000,Electrocardiogram
+V000967,P00356,80053,Comprehensive metabolic panel
+V000968,P00356,99203,"Office visit, new patient, level 3"
+V000968,P00356,81001,Urinalysis
+V000969,P00356,99397,"Periodic preventive medicine, 65+ years"
+V000970,P00356,85025,Complete blood count
+V000970,P00356,36415,Venipuncture
+V000970,P00356,93000,Electrocardiogram
+V000971,P00356,36415,Venipuncture
+V000971,P00356,81001,Urinalysis
+V000972,P00357,99397,"Periodic preventive medicine, 65+ years"
+V000973,P00358,99203,"Office visit, new patient, level 3"
+V000973,P00358,99397,"Periodic preventive medicine, 65+ years"
+V000973,P00358,85025,Complete blood count
+V000974,P00359,36415,Venipuncture
+V000975,P00360,99203,"Office visit, new patient, level 3"
+V000975,P00360,90471,Immunization administration
+V000975,P00360,99204,"Office visit, new patient, level 4"
+V000976,P00360,99213,"Office visit, established patient, level 3"
+V000977,P00360,99213,"Office visit, established patient, level 3"
+V000977,P00360,80053,Comprehensive metabolic panel
+V000978,P00360,99397,"Periodic preventive medicine, 65+ years"
+V000979,P00360,36415,Venipuncture
+V000979,P00360,99395,"Periodic preventive medicine, 18-39 years"
+V000980,P00361,99204,"Office visit, new patient, level 4"
+V000980,P00361,81001,Urinalysis
+V000981,P00361,85025,Complete blood count
+V000982,P00361,80053,Comprehensive metabolic panel
+V000982,P00361,99204,"Office visit, new patient, level 4"
+V000983,P00361,81001,Urinalysis
+V000983,P00361,99214,"Office visit, established patient, level 4"
+V000983,P00361,99213,"Office visit, established patient, level 3"
+V000984,P00362,99396,"Periodic preventive medicine, 40-64 years"
+V000984,P00362,99213,"Office visit, established patient, level 3"
+V000985,P00362,99204,"Office visit, new patient, level 4"
+V000986,P00362,99213,"Office visit, established patient, level 3"
+V000986,P00362,93000,Electrocardiogram
+V000986,P00362,99396,"Periodic preventive medicine, 40-64 years"
+V000987,P00362,90471,Immunization administration
+V000988,P00362,99213,"Office visit, established patient, level 3"
+V000989,P00363,90471,Immunization administration
+V000990,P00363,36415,Venipuncture
+V000991,P00363,99204,"Office visit, new patient, level 4"
+V000992,P00364,81001,Urinalysis
+V000993,P00365,99203,"Office visit, new patient, level 3"
+V000993,P00365,99395,"Periodic preventive medicine, 18-39 years"
+V000994,P00366,90471,Immunization administration
+V000994,P00366,99396,"Periodic preventive medicine, 40-64 years"
+V000995,P00367,99396,"Periodic preventive medicine, 40-64 years"
+V000996,P00367,99397,"Periodic preventive medicine, 65+ years"
+V000996,P00367,85025,Complete blood count
+V000997,P00367,80053,Comprehensive metabolic panel
+V000997,P00367,99203,"Office visit, new patient, level 3"
+V000998,P00367,99204,"Office visit, new patient, level 4"
+V000998,P00367,36415,Venipuncture
+V000999,P00368,99213,"Office visit, established patient, level 3"
+V000999,P00368,99395,"Periodic preventive medicine, 18-39 years"
+V001000,P00368,99203,"Office visit, new patient, level 3"
+V001001,P00369,36415,Venipuncture
+V001001,P00369,99395,"Periodic preventive medicine, 18-39 years"
+V001002,P00369,99213,"Office visit, established patient, level 3"
+V001002,P00369,85025,Complete blood count
+V001003,P00369,99397,"Periodic preventive medicine, 65+ years"
+V001004,P00369,85025,Complete blood count
+V001005,P00369,36415,Venipuncture
+V001006,P00370,99203,"Office visit, new patient, level 3"
+V001006,P00370,80053,Comprehensive metabolic panel
+V001007,P00370,99203,"Office visit, new patient, level 3"
+V001007,P00370,99395,"Periodic preventive medicine, 18-39 years"
+V001007,P00370,93000,Electrocardiogram
+V001008,P00370,99204,"Office visit, new patient, level 4"
+V001008,P00370,80053,Comprehensive metabolic panel
+V001009,P00370,90471,Immunization administration
+V001009,P00370,99203,"Office visit, new patient, level 3"
+V001010,P00370,99213,"Office visit, established patient, level 3"
+V001010,P00370,99395,"Periodic preventive medicine, 18-39 years"
+V001010,P00370,36415,Venipuncture
+V001011,P00371,99203,"Office visit, new patient, level 3"
+V001011,P00371,36415,Venipuncture
+V001011,P00371,99204,"Office visit, new patient, level 4"
+V001012,P00371,99204,"Office visit, new patient, level 4"
+V001012,P00371,85025,Complete blood count
+V001013,P00372,99214,"Office visit, established patient, level 4"
+V001013,P00372,93000,Electrocardiogram
+V001013,P00372,85025,Complete blood count
+V001014,P00372,99395,"Periodic preventive medicine, 18-39 years"
+V001014,P00372,90471,Immunization administration
+V001015,P00373,99213,"Office visit, established patient, level 3"
+V001015,P00373,80053,Comprehensive metabolic panel
+V001016,P00374,99397,"Periodic preventive medicine, 65+ years"
+V001017,P00374,99396,"Periodic preventive medicine, 40-64 years"
+V001017,P00374,99213,"Office visit, established patient, level 3"
+V001017,P00374,99214,"Office visit, established patient, level 4"
+V001017,P00374,99204,"Office visit, new patient, level 4"
+V001018,P00374,99396,"Periodic preventive medicine, 40-64 years"
+V001019,P00374,99397,"Periodic preventive medicine, 65+ years"
+V001019,P00374,99395,"Periodic preventive medicine, 18-39 years"
+V001019,P00374,99204,"Office visit, new patient, level 4"
+V001020,P00375,99204,"Office visit, new patient, level 4"
+V001021,P00375,85025,Complete blood count
+V001021,P00375,80053,Comprehensive metabolic panel
+V001022,P00375,99213,"Office visit, established patient, level 3"
+V001022,P00375,99204,"Office visit, new patient, level 4"
+V001023,P00376,99204,"Office visit, new patient, level 4"
+V001023,P00376,90471,Immunization administration
+V001024,P00376,90471,Immunization administration
+V001025,P00377,93000,Electrocardiogram
+V001026,P00377,99204,"Office visit, new patient, level 4"
+V001026,P00377,90471,Immunization administration
+V001026,P00377,99396,"Periodic preventive medicine, 40-64 years"
+V001026,P00377,81001,Urinalysis
+V001027,P00378,99395,"Periodic preventive medicine, 18-39 years"
+V001028,P00378,81001,Urinalysis
+V001029,P00378,36415,Venipuncture
+V001029,P00378,93000,Electrocardiogram
+V001029,P00378,99395,"Periodic preventive medicine, 18-39 years"
+V001030,P00379,80053,Comprehensive metabolic panel
+V001031,P00379,99395,"Periodic preventive medicine, 18-39 years"
+V001032,P00380,93000,Electrocardiogram
+V001032,P00380,81001,Urinalysis
+V001033,P00380,81001,Urinalysis
+V001033,P00380,90471,Immunization administration
+V001034,P00380,81001,Urinalysis
+V001035,P00381,85025,Complete blood count
+V001035,P00381,99204,"Office visit, new patient, level 4"
+V001036,P00382,85025,Complete blood count
+V001037,P00382,99213,"Office visit, established patient, level 3"
+V001037,P00382,99396,"Periodic preventive medicine, 40-64 years"
+V001038,P00383,99204,"Office visit, new patient, level 4"
+V001038,P00383,90471,Immunization administration
+V001039,P00384,99213,"Office visit, established patient, level 3"
+V001040,P00385,99396,"Periodic preventive medicine, 40-64 years"
+V001040,P00385,81001,Urinalysis
+V001041,P00385,36415,Venipuncture
+V001042,P00386,99204,"Office visit, new patient, level 4"
+V001043,P00387,99204,"Office visit, new patient, level 4"
+V001043,P00387,36415,Venipuncture
+V001044,P00388,99204,"Office visit, new patient, level 4"
+V001044,P00388,93000,Electrocardiogram
+V001044,P00388,99395,"Periodic preventive medicine, 18-39 years"
+V001044,P00388,85025,Complete blood count
+V001045,P00389,93000,Electrocardiogram
+V001046,P00389,99397,"Periodic preventive medicine, 65+ years"
+V001046,P00389,90471,Immunization administration
+V001047,P00389,93000,Electrocardiogram
+V001047,P00389,99203,"Office visit, new patient, level 3"
+V001048,P00389,85025,Complete blood count
+V001048,P00389,99203,"Office visit, new patient, level 3"
+V001048,P00389,90471,Immunization administration
+V001048,P00389,99395,"Periodic preventive medicine, 18-39 years"
+V001049,P00390,99203,"Office visit, new patient, level 3"
+V001050,P00390,99395,"Periodic preventive medicine, 18-39 years"
+V001050,P00390,99397,"Periodic preventive medicine, 65+ years"
+V001050,P00390,99213,"Office visit, established patient, level 3"
+V001051,P00390,99397,"Periodic preventive medicine, 65+ years"
+V001051,P00390,99213,"Office visit, established patient, level 3"
+V001052,P00391,36415,Venipuncture
+V001052,P00391,99203,"Office visit, new patient, level 3"
+V001053,P00391,99204,"Office visit, new patient, level 4"
+V001054,P00391,90471,Immunization administration
+V001054,P00391,99203,"Office visit, new patient, level 3"
+V001055,P00391,99204,"Office visit, new patient, level 4"
+V001055,P00391,99395,"Periodic preventive medicine, 18-39 years"
+V001056,P00391,85025,Complete blood count
+V001057,P00392,99396,"Periodic preventive medicine, 40-64 years"
+V001057,P00392,99397,"Periodic preventive medicine, 65+ years"
+V001058,P00393,93000,Electrocardiogram
+V001058,P00393,99397,"Periodic preventive medicine, 65+ years"
+V001058,P00393,81001,Urinalysis
+V001059,P00393,99213,"Office visit, established patient, level 3"
+V001059,P00393,99395,"Periodic preventive medicine, 18-39 years"
+V001059,P00393,90471,Immunization administration
+V001060,P00394,99213,"Office visit, established patient, level 3"
+V001061,P00395,99395,"Periodic preventive medicine, 18-39 years"
+V001061,P00395,90471,Immunization administration
+V001061,P00395,80053,Comprehensive metabolic panel
+V001062,P00396,99213,"Office visit, established patient, level 3"
+V001063,P00397,99397,"Periodic preventive medicine, 65+ years"
+V001063,P00397,36415,Venipuncture
+V001064,P00398,99214,"Office visit, established patient, level 4"
+V001064,P00398,99395,"Periodic preventive medicine, 18-39 years"
+V001064,P00398,99203,"Office visit, new patient, level 3"
+V001065,P00398,99204,"Office visit, new patient, level 4"
+V001066,P00399,99395,"Periodic preventive medicine, 18-39 years"
+V001066,P00399,80053,Comprehensive metabolic panel
+V001067,P00399,80053,Comprehensive metabolic panel
+V001068,P00399,99214,"Office visit, established patient, level 4"
+V001068,P00399,85025,Complete blood count
+V001069,P00400,93000,Electrocardiogram
+V001069,P00400,99396,"Periodic preventive medicine, 40-64 years"
+V001070,P00400,90471,Immunization administration
+V001070,P00400,99204,"Office visit, new patient, level 4"
+V001071,P00400,99397,"Periodic preventive medicine, 65+ years"
+V001072,P00400,99214,"Office visit, established patient, level 4"
+V001072,P00400,99397,"Periodic preventive medicine, 65+ years"
+V001073,P00400,81001,Urinalysis
+V001074,P00400,36415,Venipuncture
+V001075,P00401,36415,Venipuncture
+V001075,P00401,99395,"Periodic preventive medicine, 18-39 years"
+V001075,P00401,93000,Electrocardiogram
+V001075,P00401,99213,"Office visit, established patient, level 3"
+V001076,P00401,99213,"Office visit, established patient, level 3"
+V001076,P00401,90471,Immunization administration
+V001076,P00401,99203,"Office visit, new patient, level 3"
+V001077,P00401,36415,Venipuncture
+V001077,P00401,99397,"Periodic preventive medicine, 65+ years"
+V001078,P00401,85025,Complete blood count
+V001078,P00401,99396,"Periodic preventive medicine, 40-64 years"
+V001079,P00401,99214,"Office visit, established patient, level 4"
+V001080,P00402,99395,"Periodic preventive medicine, 18-39 years"
+V001080,P00402,99213,"Office visit, established patient, level 3"
+V001081,P00402,90471,Immunization administration
+V001082,P00402,99396,"Periodic preventive medicine, 40-64 years"
+V001083,P00403,80053,Comprehensive metabolic panel
+V001083,P00403,99213,"Office visit, established patient, level 3"
+V001083,P00403,99214,"Office visit, established patient, level 4"
+V001084,P00403,80053,Comprehensive metabolic panel
+V001084,P00403,99395,"Periodic preventive medicine, 18-39 years"
+V001084,P00403,99396,"Periodic preventive medicine, 40-64 years"
+V001084,P00403,99213,"Office visit, established patient, level 3"
+V001085,P00404,85025,Complete blood count
+V001086,P00404,99204,"Office visit, new patient, level 4"
+V001086,P00404,99396,"Periodic preventive medicine, 40-64 years"
+V001086,P00404,99203,"Office visit, new patient, level 3"
+V001087,P00404,90471,Immunization administration
+V001087,P00404,36415,Venipuncture
+V001088,P00405,99214,"Office visit, established patient, level 4"
+V001089,P00405,99203,"Office visit, new patient, level 3"
+V001090,P00406,99204,"Office visit, new patient, level 4"
+V001091,P00407,36415,Venipuncture
+V001091,P00407,99397,"Periodic preventive medicine, 65+ years"
+V001091,P00407,99395,"Periodic preventive medicine, 18-39 years"
+V001092,P00408,81001,Urinalysis
+V001093,P00409,99203,"Office visit, new patient, level 3"
+V001094,P00410,99214,"Office visit, established patient, level 4"
+V001095,P00410,90471,Immunization administration
+V001095,P00410,85025,Complete blood count
+V001096,P00410,36415,Venipuncture
+V001096,P00410,99204,"Office visit, new patient, level 4"
+V001097,P00410,85025,Complete blood count
+V001097,P00410,99396,"Periodic preventive medicine, 40-64 years"
+V001097,P00410,90471,Immunization administration
+V001098,P00411,81001,Urinalysis
+V001099,P00411,80053,Comprehensive metabolic panel
+V001099,P00411,93000,Electrocardiogram
+V001100,P00412,99204,"Office visit, new patient, level 4"
+V001100,P00412,85025,Complete blood count
+V001101,P00412,36415,Venipuncture
+V001101,P00412,81001,Urinalysis
+V001102,P00412,99397,"Periodic preventive medicine, 65+ years"
+V001102,P00412,36415,Venipuncture
+V001102,P00412,99214,"Office visit, established patient, level 4"
+V001103,P00412,99396,"Periodic preventive medicine, 40-64 years"
+V001103,P00412,80053,Comprehensive metabolic panel
+V001104,P00412,99214,"Office visit, established patient, level 4"
+V001104,P00412,81001,Urinalysis
+V001105,P00413,99203,"Office visit, new patient, level 3"
+V001106,P00414,90471,Immunization administration
+V001107,P00414,99397,"Periodic preventive medicine, 65+ years"
+V001108,P00414,36415,Venipuncture
+V001108,P00414,85025,Complete blood count
+V001109,P00415,99214,"Office visit, established patient, level 4"
+V001109,P00415,99213,"Office visit, established patient, level 3"
+V001109,P00415,80053,Comprehensive metabolic panel
+V001110,P00416,85025,Complete blood count
+V001110,P00416,80053,Comprehensive metabolic panel
+V001110,P00416,99214,"Office visit, established patient, level 4"
+V001111,P00417,99203,"Office visit, new patient, level 3"
+V001111,P00417,36415,Venipuncture
+V001112,P00417,99395,"Periodic preventive medicine, 18-39 years"
+V001112,P00417,81001,Urinalysis
+V001112,P00417,90471,Immunization administration
+V001113,P00417,99213,"Office visit, established patient, level 3"
+V001114,P00417,85025,Complete blood count
+V001115,P00418,99396,"Periodic preventive medicine, 40-64 years"
+V001115,P00418,81001,Urinalysis
+V001116,P00418,36415,Venipuncture
+V001116,P00418,99213,"Office visit, established patient, level 3"
+V001117,P00418,81001,Urinalysis
+V001117,P00418,99214,"Office visit, established patient, level 4"
+V001117,P00418,99395,"Periodic preventive medicine, 18-39 years"
+V001117,P00418,99204,"Office visit, new patient, level 4"
+V001118,P00419,99203,"Office visit, new patient, level 3"
+V001118,P00419,99397,"Periodic preventive medicine, 65+ years"
+V001118,P00419,36415,Venipuncture
+V001118,P00419,81001,Urinalysis
+V001119,P00419,80053,Comprehensive metabolic panel
+V001119,P00419,81001,Urinalysis
+V001119,P00419,90471,Immunization administration
+V001120,P00420,99214,"Office visit, established patient, level 4"
+V001120,P00420,99203,"Office visit, new patient, level 3"
+V001121,P00421,80053,Comprehensive metabolic panel
+V001122,P00422,93000,Electrocardiogram
+V001123,P00422,85025,Complete blood count
+V001123,P00422,80053,Comprehensive metabolic panel
+V001124,P00422,90471,Immunization administration
+V001124,P00422,99397,"Periodic preventive medicine, 65+ years"
+V001125,P00423,99396,"Periodic preventive medicine, 40-64 years"
+V001126,P00423,99214,"Office visit, established patient, level 4"
+V001127,P00424,80053,Comprehensive metabolic panel
+V001127,P00424,99213,"Office visit, established patient, level 3"
+V001127,P00424,36415,Venipuncture
+V001128,P00425,99396,"Periodic preventive medicine, 40-64 years"
+V001129,P00425,81001,Urinalysis
+V001129,P00425,85025,Complete blood count
+V001130,P00426,85025,Complete blood count
+V001130,P00426,36415,Venipuncture
+V001130,P00426,99397,"Periodic preventive medicine, 65+ years"
+V001131,P00427,99203,"Office visit, new patient, level 3"
+V001131,P00427,80053,Comprehensive metabolic panel
+V001132,P00427,99396,"Periodic preventive medicine, 40-64 years"
+V001132,P00427,90471,Immunization administration
+V001133,P00428,93000,Electrocardiogram
+V001133,P00428,85025,Complete blood count
+V001134,P00428,80053,Comprehensive metabolic panel
+V001134,P00428,90471,Immunization administration
+V001135,P00428,99397,"Periodic preventive medicine, 65+ years"
+V001135,P00428,93000,Electrocardiogram
+V001135,P00428,99396,"Periodic preventive medicine, 40-64 years"
+V001135,P00428,99204,"Office visit, new patient, level 4"
+V001136,P00428,80053,Comprehensive metabolic panel
+V001137,P00428,81001,Urinalysis
+V001137,P00428,36415,Venipuncture
+V001138,P00429,99214,"Office visit, established patient, level 4"
+V001138,P00429,99396,"Periodic preventive medicine, 40-64 years"
+V001139,P00429,99395,"Periodic preventive medicine, 18-39 years"
+V001140,P00429,99397,"Periodic preventive medicine, 65+ years"
+V001140,P00429,99395,"Periodic preventive medicine, 18-39 years"
+V001141,P00430,90471,Immunization administration
+V001141,P00430,93000,Electrocardiogram
+V001142,P00431,93000,Electrocardiogram
+V001142,P00431,80053,Comprehensive metabolic panel
+V001142,P00431,99214,"Office visit, established patient, level 4"
+V001143,P00432,81001,Urinalysis
+V001144,P00432,99397,"Periodic preventive medicine, 65+ years"
+V001145,P00433,99203,"Office visit, new patient, level 3"
+V001145,P00433,99397,"Periodic preventive medicine, 65+ years"
+V001146,P00433,99397,"Periodic preventive medicine, 65+ years"
+V001146,P00433,99203,"Office visit, new patient, level 3"
+V001147,P00433,81001,Urinalysis
+V001147,P00433,36415,Venipuncture
+V001148,P00434,99396,"Periodic preventive medicine, 40-64 years"
+V001149,P00434,99396,"Periodic preventive medicine, 40-64 years"
+V001150,P00435,99395,"Periodic preventive medicine, 18-39 years"
+V001150,P00435,90471,Immunization administration
+V001151,P00435,99395,"Periodic preventive medicine, 18-39 years"
+V001152,P00436,81001,Urinalysis
+V001153,P00436,90471,Immunization administration
+V001153,P00436,99395,"Periodic preventive medicine, 18-39 years"
+V001153,P00436,99396,"Periodic preventive medicine, 40-64 years"
+V001154,P00436,99214,"Office visit, established patient, level 4"
+V001155,P00436,99204,"Office visit, new patient, level 4"
+V001155,P00436,99397,"Periodic preventive medicine, 65+ years"
+V001156,P00436,85025,Complete blood count
+V001157,P00437,99397,"Periodic preventive medicine, 65+ years"
+V001158,P00437,99396,"Periodic preventive medicine, 40-64 years"
+V001158,P00437,99397,"Periodic preventive medicine, 65+ years"
+V001159,P00437,99397,"Periodic preventive medicine, 65+ years"
+V001160,P00437,81001,Urinalysis
+V001161,P00437,99214,"Office visit, established patient, level 4"
+V001162,P00438,99214,"Office visit, established patient, level 4"
+V001162,P00438,80053,Comprehensive metabolic panel
+V001163,P00439,99395,"Periodic preventive medicine, 18-39 years"
+V001163,P00439,90471,Immunization administration
+V001163,P00439,81001,Urinalysis
+V001164,P00439,99396,"Periodic preventive medicine, 40-64 years"
+V001165,P00440,99204,"Office visit, new patient, level 4"
+V001165,P00440,93000,Electrocardiogram
+V001166,P00440,81001,Urinalysis
+V001167,P00441,99396,"Periodic preventive medicine, 40-64 years"
+V001168,P00441,99203,"Office visit, new patient, level 3"
+V001169,P00442,99213,"Office visit, established patient, level 3"
+V001169,P00442,93000,Electrocardiogram
+V001170,P00442,36415,Venipuncture
+V001170,P00442,99214,"Office visit, established patient, level 4"
+V001171,P00443,90471,Immunization administration
+V001172,P00443,80053,Comprehensive metabolic panel
+V001173,P00444,93000,Electrocardiogram
+V001174,P00444,99395,"Periodic preventive medicine, 18-39 years"
+V001174,P00444,93000,Electrocardiogram
+V001174,P00444,85025,Complete blood count
+V001175,P00444,99214,"Office visit, established patient, level 4"
+V001176,P00444,90471,Immunization administration
+V001177,P00444,85025,Complete blood count
+V001177,P00444,99214,"Office visit, established patient, level 4"
+V001178,P00445,99213,"Office visit, established patient, level 3"
+V001178,P00445,90471,Immunization administration
+V001179,P00446,99213,"Office visit, established patient, level 3"
+V001179,P00446,85025,Complete blood count
+V001180,P00446,99214,"Office visit, established patient, level 4"
+V001181,P00447,90471,Immunization administration
+V001181,P00447,99204,"Office visit, new patient, level 4"
+V001181,P00447,99395,"Periodic preventive medicine, 18-39 years"
+V001182,P00447,99203,"Office visit, new patient, level 3"
+V001183,P00447,99395,"Periodic preventive medicine, 18-39 years"
+V001183,P00447,36415,Venipuncture
+V001184,P00447,99204,"Office visit, new patient, level 4"
+V001184,P00447,36415,Venipuncture
+V001185,P00448,99203,"Office visit, new patient, level 3"
+V001185,P00448,81001,Urinalysis
+V001186,P00448,99397,"Periodic preventive medicine, 65+ years"
+V001187,P00448,36415,Venipuncture
+V001187,P00448,99213,"Office visit, established patient, level 3"
+V001188,P00448,99396,"Periodic preventive medicine, 40-64 years"
+V001188,P00448,99204,"Office visit, new patient, level 4"
+V001189,P00448,36415,Venipuncture
+V001189,P00448,81001,Urinalysis
+V001190,P00449,99204,"Office visit, new patient, level 4"
+V001190,P00449,81001,Urinalysis
+V001191,P00449,90471,Immunization administration
+V001191,P00449,99214,"Office visit, established patient, level 4"
+V001191,P00449,99396,"Periodic preventive medicine, 40-64 years"
+V001192,P00450,99203,"Office visit, new patient, level 3"
+V001193,P00450,85025,Complete blood count
+V001193,P00450,99204,"Office visit, new patient, level 4"
+V001193,P00450,93000,Electrocardiogram
+V001194,P00451,80053,Comprehensive metabolic panel
+V001195,P00451,93000,Electrocardiogram
+V001195,P00451,99395,"Periodic preventive medicine, 18-39 years"
+V001195,P00451,99397,"Periodic preventive medicine, 65+ years"
+V001196,P00451,99396,"Periodic preventive medicine, 40-64 years"
+V001197,P00452,36415,Venipuncture
+V001198,P00452,99214,"Office visit, established patient, level 4"
+V001198,P00452,85025,Complete blood count
+V001199,P00453,93000,Electrocardiogram
+V001200,P00454,99203,"Office visit, new patient, level 3"
+V001200,P00454,99397,"Periodic preventive medicine, 65+ years"
+V001200,P00454,80053,Comprehensive metabolic panel
+V001200,P00454,99396,"Periodic preventive medicine, 40-64 years"
+V001201,P00454,99214,"Office visit, established patient, level 4"
+V001202,P00454,99203,"Office visit, new patient, level 3"
+V001202,P00454,85025,Complete blood count
+V001202,P00454,99214,"Office visit, established patient, level 4"
+V001202,P00454,99204,"Office visit, new patient, level 4"
+V001203,P00454,99214,"Office visit, established patient, level 4"
+V001204,P00455,85025,Complete blood count
+V001205,P00455,36415,Venipuncture
+V001205,P00455,81001,Urinalysis
+V001205,P00455,99396,"Periodic preventive medicine, 40-64 years"
+V001205,P00455,99203,"Office visit, new patient, level 3"
+V001206,P00455,36415,Venipuncture
+V001207,P00456,99397,"Periodic preventive medicine, 65+ years"
+V001208,P00457,99203,"Office visit, new patient, level 3"
+V001208,P00457,99395,"Periodic preventive medicine, 18-39 years"
+V001208,P00457,81001,Urinalysis
+V001209,P00457,80053,Comprehensive metabolic panel
+V001210,P00457,99203,"Office visit, new patient, level 3"
+V001211,P00457,93000,Electrocardiogram
+V001212,P00457,99213,"Office visit, established patient, level 3"
+V001213,P00458,85025,Complete blood count
+V001214,P00458,93000,Electrocardiogram
+V001215,P00459,99395,"Periodic preventive medicine, 18-39 years"
+V001215,P00459,81001,Urinalysis
+V001215,P00459,99397,"Periodic preventive medicine, 65+ years"
+V001216,P00459,36415,Venipuncture
+V001216,P00459,99397,"Periodic preventive medicine, 65+ years"
+V001216,P00459,93000,Electrocardiogram
+V001217,P00459,90471,Immunization administration
+V001217,P00459,93000,Electrocardiogram
+V001218,P00459,99203,"Office visit, new patient, level 3"
+V001218,P00459,99214,"Office visit, established patient, level 4"
+V001219,P00459,81001,Urinalysis
+V001219,P00459,99204,"Office visit, new patient, level 4"
+V001220,P00460,99213,"Office visit, established patient, level 3"
+V001220,P00460,80053,Comprehensive metabolic panel
+V001221,P00460,99395,"Periodic preventive medicine, 18-39 years"
+V001222,P00460,99203,"Office visit, new patient, level 3"
+V001223,P00460,93000,Electrocardiogram
+V001223,P00460,99396,"Periodic preventive medicine, 40-64 years"
+V001224,P00461,81001,Urinalysis
+V001224,P00461,93000,Electrocardiogram
+V001224,P00461,99395,"Periodic preventive medicine, 18-39 years"
+V001224,P00461,99397,"Periodic preventive medicine, 65+ years"
+V001225,P00461,99396,"Periodic preventive medicine, 40-64 years"
+V001226,P00461,80053,Comprehensive metabolic panel
+V001226,P00461,99395,"Periodic preventive medicine, 18-39 years"
+V001227,P00462,85025,Complete blood count
+V001227,P00462,99395,"Periodic preventive medicine, 18-39 years"
+V001228,P00463,99213,"Office visit, established patient, level 3"
+V001228,P00463,90471,Immunization administration
+V001229,P00464,99204,"Office visit, new patient, level 4"
+V001230,P00464,90471,Immunization administration
+V001230,P00464,99397,"Periodic preventive medicine, 65+ years"
+V001230,P00464,99204,"Office visit, new patient, level 4"
+V001231,P00464,99213,"Office visit, established patient, level 3"
+V001231,P00464,93000,Electrocardiogram
+V001232,P00465,85025,Complete blood count
+V001232,P00465,99214,"Office visit, established patient, level 4"
+V001233,P00466,99214,"Office visit, established patient, level 4"
+V001234,P00466,99204,"Office visit, new patient, level 4"
+V001234,P00466,81001,Urinalysis
+V001234,P00466,99396,"Periodic preventive medicine, 40-64 years"
+V001235,P00466,85025,Complete blood count
+V001235,P00466,90471,Immunization administration
+V001235,P00466,99396,"Periodic preventive medicine, 40-64 years"
+V001236,P00466,36415,Venipuncture
+V001236,P00466,99203,"Office visit, new patient, level 3"
+V001237,P00467,81001,Urinalysis
+V001237,P00467,99204,"Office visit, new patient, level 4"
+V001238,P00467,81001,Urinalysis
+V001239,P00467,85025,Complete blood count
+V001240,P00467,80053,Comprehensive metabolic panel
+V001240,P00467,99396,"Periodic preventive medicine, 40-64 years"
+V001241,P00467,85025,Complete blood count
+V001241,P00467,90471,Immunization administration
+V001241,P00467,80053,Comprehensive metabolic panel
+V001242,P00467,99396,"Periodic preventive medicine, 40-64 years"
+V001243,P00468,99395,"Periodic preventive medicine, 18-39 years"
+V001243,P00468,99397,"Periodic preventive medicine, 65+ years"
+V001244,P00468,99214,"Office visit, established patient, level 4"
+V001245,P00468,36415,Venipuncture
+V001246,P00469,80053,Comprehensive metabolic panel
+V001247,P00469,99397,"Periodic preventive medicine, 65+ years"
+V001247,P00469,99203,"Office visit, new patient, level 3"
+V001248,P00470,99203,"Office visit, new patient, level 3"
+V001249,P00470,90471,Immunization administration
+V001249,P00470,85025,Complete blood count
+V001250,P00470,99397,"Periodic preventive medicine, 65+ years"
+V001250,P00470,36415,Venipuncture
+V001250,P00470,93000,Electrocardiogram
+V001250,P00470,99203,"Office visit, new patient, level 3"
+V001251,P00471,80053,Comprehensive metabolic panel
+V001251,P00471,99397,"Periodic preventive medicine, 65+ years"
+V001251,P00471,36415,Venipuncture
+V001252,P00471,99214,"Office visit, established patient, level 4"
+V001252,P00471,99397,"Periodic preventive medicine, 65+ years"
+V001252,P00471,81001,Urinalysis
+V001252,P00471,36415,Venipuncture
+V001253,P00472,90471,Immunization administration
+V001254,P00472,90471,Immunization administration
+V001254,P00472,85025,Complete blood count
+V001255,P00472,93000,Electrocardiogram
+V001256,P00473,99396,"Periodic preventive medicine, 40-64 years"
+V001256,P00473,99213,"Office visit, established patient, level 3"
+V001257,P00473,81001,Urinalysis
+V001257,P00473,90471,Immunization administration
+V001257,P00473,99214,"Office visit, established patient, level 4"
+V001258,P00473,93000,Electrocardiogram
+V001259,P00473,85025,Complete blood count
+V001259,P00473,99214,"Office visit, established patient, level 4"
+V001259,P00473,99395,"Periodic preventive medicine, 18-39 years"
+V001259,P00473,36415,Venipuncture
+V001260,P00473,36415,Venipuncture
+V001260,P00473,99204,"Office visit, new patient, level 4"
+V001261,P00474,80053,Comprehensive metabolic panel
+V001261,P00474,85025,Complete blood count
+V001261,P00474,81001,Urinalysis
+V001262,P00474,99396,"Periodic preventive medicine, 40-64 years"
+V001262,P00474,99203,"Office visit, new patient, level 3"
+V001263,P00474,93000,Electrocardiogram
+V001264,P00474,85025,Complete blood count
+V001265,P00475,99213,"Office visit, established patient, level 3"
+V001266,P00475,81001,Urinalysis
+V001266,P00475,93000,Electrocardiogram
+V001266,P00475,99213,"Office visit, established patient, level 3"
+V001267,P00475,99203,"Office visit, new patient, level 3"
+V001267,P00475,93000,Electrocardiogram
+V001268,P00476,36415,Venipuncture
+V001269,P00476,99203,"Office visit, new patient, level 3"
+V001269,P00476,99397,"Periodic preventive medicine, 65+ years"
+V001270,P00476,80053,Comprehensive metabolic panel
+V001270,P00476,99214,"Office visit, established patient, level 4"
+V001271,P00477,85025,Complete blood count
+V001271,P00477,80053,Comprehensive metabolic panel
+V001271,P00477,99214,"Office visit, established patient, level 4"
+V001271,P00477,81001,Urinalysis
+V001272,P00477,99397,"Periodic preventive medicine, 65+ years"
+V001272,P00477,99203,"Office visit, new patient, level 3"
+V001272,P00477,99213,"Office visit, established patient, level 3"
+V001273,P00478,99397,"Periodic preventive medicine, 65+ years"
+V001273,P00478,80053,Comprehensive metabolic panel
+V001273,P00478,99204,"Office visit, new patient, level 4"
+V001274,P00478,99214,"Office visit, established patient, level 4"
+V001275,P00479,99213,"Office visit, established patient, level 3"
+V001276,P00479,99214,"Office visit, established patient, level 4"
+V001276,P00479,99203,"Office visit, new patient, level 3"
+V001277,P00479,99204,"Office visit, new patient, level 4"
+V001277,P00479,99395,"Periodic preventive medicine, 18-39 years"
+V001278,P00480,93000,Electrocardiogram
+V001279,P00480,90471,Immunization administration
+V001279,P00480,85025,Complete blood count
+V001280,P00481,36415,Venipuncture
+V001281,P00482,93000,Electrocardiogram
+V001282,P00483,99204,"Office visit, new patient, level 4"
+V001283,P00484,99214,"Office visit, established patient, level 4"
+V001284,P00484,99214,"Office visit, established patient, level 4"
+V001284,P00484,85025,Complete blood count
+V001285,P00484,36415,Venipuncture
+V001285,P00484,99203,"Office visit, new patient, level 3"
+V001286,P00484,99397,"Periodic preventive medicine, 65+ years"
+V001287,P00484,99214,"Office visit, established patient, level 4"
+V001288,P00485,99213,"Office visit, established patient, level 3"
+V001289,P00485,99397,"Periodic preventive medicine, 65+ years"
+V001289,P00485,99203,"Office visit, new patient, level 3"
+V001290,P00486,99204,"Office visit, new patient, level 4"
+V001291,P00487,90471,Immunization administration
+V001292,P00487,99396,"Periodic preventive medicine, 40-64 years"
+V001292,P00487,99397,"Periodic preventive medicine, 65+ years"
+V001292,P00487,93000,Electrocardiogram
+V001292,P00487,99204,"Office visit, new patient, level 4"
+V001293,P00487,99214,"Office visit, established patient, level 4"
+V001293,P00487,99203,"Office visit, new patient, level 3"
+V001294,P00488,99214,"Office visit, established patient, level 4"
+V001294,P00488,99396,"Periodic preventive medicine, 40-64 years"
+V001295,P00488,36415,Venipuncture
+V001295,P00488,85025,Complete blood count
+V001296,P00489,85025,Complete blood count
+V001296,P00489,99203,"Office visit, new patient, level 3"
+V001296,P00489,99204,"Office visit, new patient, level 4"
+V001297,P00489,99397,"Periodic preventive medicine, 65+ years"
+V001297,P00489,99214,"Office visit, established patient, level 4"
+V001297,P00489,99204,"Office visit, new patient, level 4"
+V001297,P00489,99395,"Periodic preventive medicine, 18-39 years"
+V001298,P00489,99396,"Periodic preventive medicine, 40-64 years"
+V001298,P00489,90471,Immunization administration
+V001299,P00489,80053,Comprehensive metabolic panel
+V001299,P00489,90471,Immunization administration
+V001300,P00489,99397,"Periodic preventive medicine, 65+ years"
+V001301,P00490,99395,"Periodic preventive medicine, 18-39 years"
+V001302,P00490,99395,"Periodic preventive medicine, 18-39 years"
+V001302,P00490,99204,"Office visit, new patient, level 4"
+V001303,P00491,80053,Comprehensive metabolic panel
+V001303,P00491,99397,"Periodic preventive medicine, 65+ years"
+V001304,P00491,81001,Urinalysis
+V001304,P00491,99204,"Office visit, new patient, level 4"
+V001305,P00491,99214,"Office visit, established patient, level 4"
+V001305,P00491,99204,"Office visit, new patient, level 4"
+V001305,P00491,93000,Electrocardiogram
+V001306,P00492,99396,"Periodic preventive medicine, 40-64 years"
+V001307,P00492,99395,"Periodic preventive medicine, 18-39 years"
+V001308,P00492,85025,Complete blood count
+V001308,P00492,81001,Urinalysis
+V001308,P00492,99203,"Office visit, new patient, level 3"
+V001309,P00492,99396,"Periodic preventive medicine, 40-64 years"
+V001309,P00492,36415,Venipuncture
+V001310,P00492,99395,"Periodic preventive medicine, 18-39 years"
+V001310,P00492,99397,"Periodic preventive medicine, 65+ years"
+V001310,P00492,99203,"Office visit, new patient, level 3"
+V001311,P00492,81001,Urinalysis
+V001312,P00492,99396,"Periodic preventive medicine, 40-64 years"
+V001313,P00493,99213,"Office visit, established patient, level 3"
+V001313,P00493,80053,Comprehensive metabolic panel
+V001314,P00493,99213,"Office visit, established patient, level 3"
+V001315,P00493,36415,Venipuncture
+V001316,P00493,80053,Comprehensive metabolic panel
+V001317,P00494,90471,Immunization administration
+V001317,P00494,99395,"Periodic preventive medicine, 18-39 years"
+V001318,P00495,90471,Immunization administration
+V001318,P00495,36415,Venipuncture
+V001319,P00495,99397,"Periodic preventive medicine, 65+ years"
+V001319,P00495,99395,"Periodic preventive medicine, 18-39 years"
+V001320,P00495,99396,"Periodic preventive medicine, 40-64 years"
+V001321,P00495,99214,"Office visit, established patient, level 4"
+V001321,P00495,80053,Comprehensive metabolic panel
+V001321,P00495,81001,Urinalysis
+V001322,P00496,99204,"Office visit, new patient, level 4"
+V001322,P00496,99203,"Office visit, new patient, level 3"
+V001322,P00496,99395,"Periodic preventive medicine, 18-39 years"
+V001323,P00496,36415,Venipuncture
+V001323,P00496,99396,"Periodic preventive medicine, 40-64 years"
+V001324,P00496,81001,Urinalysis
+V001325,P00496,99397,"Periodic preventive medicine, 65+ years"
+V001325,P00496,81001,Urinalysis
+V001325,P00496,99214,"Office visit, established patient, level 4"
+V001325,P00496,80053,Comprehensive metabolic panel
+V001326,P00496,36415,Venipuncture
+V001326,P00496,90471,Immunization administration
+V001327,P00496,99204,"Office visit, new patient, level 4"
+V001327,P00496,99214,"Office visit, established patient, level 4"
+V001328,P00497,36415,Venipuncture
+V001329,P00497,93000,Electrocardiogram
+V001330,P00497,99396,"Periodic preventive medicine, 40-64 years"
+V001331,P00497,80053,Comprehensive metabolic panel
+V001331,P00497,99397,"Periodic preventive medicine, 65+ years"
+V001332,P00497,99397,"Periodic preventive medicine, 65+ years"
+V001332,P00497,90471,Immunization administration
+V001333,P00498,90471,Immunization administration
+V001334,P00498,99213,"Office visit, established patient, level 3"
+V001334,P00498,99203,"Office visit, new patient, level 3"
+V001334,P00498,93000,Electrocardiogram
+V001335,P00498,99395,"Periodic preventive medicine, 18-39 years"
+V001336,P00499,81001,Urinalysis
+V001336,P00499,90471,Immunization administration
+V001336,P00499,80053,Comprehensive metabolic panel
+V001337,P00500,85025,Complete blood count
+V001337,P00500,99203,"Office visit, new patient, level 3"
+V001338,P00500,81001,Urinalysis
+V001338,P00500,80053,Comprehensive metabolic panel
+V001339,P00500,99214,"Office visit, established patient, level 4"
+V001339,P00500,99213,"Office visit, established patient, level 3"
+V001340,P00500,81001,Urinalysis
+V001340,P00500,36415,Venipuncture
+V001340,P00500,80053,Comprehensive metabolic panel

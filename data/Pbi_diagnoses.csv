@@ -1,0 +1,2025 @@
+visit_id,patient_id,visit_date,icd_code,description,age_band,sex
+V000001,P00001,2023-12-29,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000001,P00001,2023-12-29,I10,Essential (primary) hypertension,40-64,Male
+V000002,P00002,2023-11-01,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000002,P00002,2023-11-01,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000003,P00002,2023-06-30,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000004,P00003,2023-11-30,R10.9,Unspecified abdominal pain,65+,Female
+V000005,P00003,2023-03-19,I10,Essential (primary) hypertension,65+,Female
+V000005,P00003,2023-03-19,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000006,P00003,2023-04-30,I10,Essential (primary) hypertension,65+,Female
+V000007,P00004,2023-04-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000008,P00005,2023-07-29,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000009,P00006,2023-06-29,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000010,P00007,2023-07-28,Z00.00,Encounter for general adult medical examination,65+,Female
+V000011,P00007,2023-04-16,R51,Headache,65+,Female
+V000012,P00008,2023-03-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000013,P00008,2024-01-17,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000014,P00008,2024-01-02,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000015,P00009,2023-12-25,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000016,P00009,2023-04-30,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000017,P00009,2023-06-25,I10,Essential (primary) hypertension,18-39,Female
+V000018,P00009,2023-05-23,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000018,P00009,2023-05-23,I10,Essential (primary) hypertension,18-39,Female
+V000018,P00009,2023-05-23,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000019,P00009,2023-02-21,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000019,P00009,2023-02-21,M79.3,"Panniculitis, unspecified",18-39,Female
+V000019,P00009,2023-02-21,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000020,P00009,2023-11-24,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000020,P00009,2023-11-24,M25.561,Pain in right knee,18-39,Female
+V000021,P00010,2023-10-30,I10,Essential (primary) hypertension,40-64,Male
+V000021,P00010,2023-10-30,R51,Headache,40-64,Male
+V000021,P00010,2023-10-30,M79.3,"Panniculitis, unspecified",40-64,Male
+V000022,P00010,2023-12-31,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000023,P00011,2023-06-01,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000024,P00011,2023-08-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000025,P00011,2023-05-20,M79.3,"Panniculitis, unspecified",65+,Female
+V000025,P00011,2023-05-20,I10,Essential (primary) hypertension,65+,Female
+V000026,P00012,2023-05-19,M54.5,Low back pain,18-39,Female
+V000027,P00013,2023-07-31,M79.3,"Panniculitis, unspecified",18-39,Female
+V000028,P00013,2024-01-22,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000028,P00013,2024-01-22,M54.5,Low back pain,18-39,Female
+V000029,P00013,2023-10-27,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000029,P00013,2023-10-27,R10.9,Unspecified abdominal pain,18-39,Female
+V000030,P00013,2023-08-14,M79.3,"Panniculitis, unspecified",18-39,Female
+V000030,P00013,2023-08-14,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000030,P00013,2023-08-14,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000031,P00014,2023-11-09,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V000032,P00014,2023-08-19,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V000032,P00014,2023-08-19,M25.561,Pain in right knee,0-17,Male
+V000033,P00015,2023-05-13,M79.3,"Panniculitis, unspecified",0-17,Male
+V000034,P00015,2023-07-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Male
+V000034,P00015,2023-07-02,Z00.00,Encounter for general adult medical examination,0-17,Male
+V000035,P00015,2023-03-09,M54.5,Low back pain,0-17,Male
+V000036,P00016,2023-10-02,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000037,P00016,2023-02-19,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000038,P00016,2023-10-14,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000038,P00016,2023-10-14,M79.3,"Panniculitis, unspecified",40-64,Female
+V000039,P00017,2024-01-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000039,P00017,2024-01-25,Z00.00,Encounter for general adult medical examination,65+,Male
+V000040,P00017,2023-08-07,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000041,P00017,2023-02-24,M25.561,Pain in right knee,65+,Male
+V000042,P00017,2024-01-24,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000043,P00017,2023-03-12,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000044,P00018,2023-10-12,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000044,P00018,2023-10-12,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000045,P00019,2023-10-15,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000046,P00019,2023-04-02,I10,Essential (primary) hypertension,18-39,Female
+V000047,P00019,2023-09-01,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000047,P00019,2023-09-01,M54.5,Low back pain,18-39,Female
+V000048,P00019,2023-04-29,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000048,P00019,2023-04-29,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000048,P00019,2023-04-29,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000049,P00019,2024-01-08,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000050,P00019,2023-03-05,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000051,P00020,2023-11-02,M25.561,Pain in right knee,40-64,Female
+V000051,P00020,2023-11-02,R51,Headache,40-64,Female
+V000052,P00021,2023-06-15,M54.5,Low back pain,40-64,Female
+V000052,P00021,2023-06-15,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000053,P00021,2023-11-26,I10,Essential (primary) hypertension,40-64,Female
+V000054,P00022,2024-01-27,R10.9,Unspecified abdominal pain,40-64,Female
+V000054,P00022,2024-01-27,R51,Headache,40-64,Female
+V000055,P00022,2023-10-31,M79.3,"Panniculitis, unspecified",40-64,Female
+V000056,P00022,2023-09-07,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000057,P00022,2023-11-28,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000058,P00022,2023-08-11,M25.561,Pain in right knee,40-64,Female
+V000058,P00022,2023-08-11,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000058,P00022,2023-08-11,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000059,P00022,2023-10-11,M79.3,"Panniculitis, unspecified",40-64,Female
+V000059,P00022,2023-10-11,R51,Headache,40-64,Female
+V000060,P00023,2023-03-30,R51,Headache,18-39,Male
+V000060,P00023,2023-03-30,I10,Essential (primary) hypertension,18-39,Male
+V000061,P00023,2023-12-19,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000062,P00023,2023-12-13,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000062,P00023,2023-12-13,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000063,P00023,2023-05-03,R51,Headache,18-39,Male
+V000064,P00024,2023-07-30,R10.9,Unspecified abdominal pain,18-39,Male
+V000065,P00024,2023-08-06,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000065,P00024,2023-08-06,M25.561,Pain in right knee,18-39,Male
+V000066,P00025,2023-10-27,I10,Essential (primary) hypertension,65+,Male
+V000066,P00025,2023-10-27,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000067,P00025,2023-04-14,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000068,P00025,2023-03-29,R10.9,Unspecified abdominal pain,65+,Male
+V000069,P00026,2023-08-13,I10,Essential (primary) hypertension,18-39,Male
+V000070,P00026,2023-07-03,M25.561,Pain in right knee,18-39,Male
+V000070,P00026,2023-07-03,M54.5,Low back pain,18-39,Male
+V000071,P00026,2023-11-29,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000072,P00026,2023-02-24,M25.561,Pain in right knee,18-39,Male
+V000073,P00027,2023-09-09,M79.3,"Panniculitis, unspecified",40-64,Female
+V000074,P00027,2023-03-26,M54.5,Low back pain,40-64,Female
+V000075,P00028,2023-11-06,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000075,P00028,2023-11-06,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000076,P00029,2023-12-14,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000077,P00029,2023-02-20,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000077,P00029,2023-02-20,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000078,P00030,2023-11-04,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000079,P00030,2023-08-09,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000080,P00030,2023-10-08,R10.9,Unspecified abdominal pain,18-39,Female
+V000081,P00030,2024-01-08,I10,Essential (primary) hypertension,18-39,Female
+V000082,P00031,2023-12-26,I10,Essential (primary) hypertension,0-17,Female
+V000083,P00031,2023-03-17,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000083,P00031,2023-03-17,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000083,P00031,2023-03-17,R51,Headache,0-17,Female
+V000084,P00031,2023-02-12,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000085,P00031,2023-06-06,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000086,P00031,2023-12-29,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000086,P00031,2023-12-29,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000087,P00032,2023-09-29,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000088,P00033,2023-07-06,I10,Essential (primary) hypertension,40-64,Female
+V000088,P00033,2023-07-06,R51,Headache,40-64,Female
+V000089,P00033,2023-03-10,M79.3,"Panniculitis, unspecified",40-64,Female
+V000090,P00033,2023-03-03,M25.561,Pain in right knee,40-64,Female
+V000091,P00034,2023-12-19,R51,Headache,18-39,Female
+V000092,P00034,2023-02-15,R10.9,Unspecified abdominal pain,18-39,Female
+V000092,P00034,2023-02-15,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000093,P00035,2024-01-23,M25.561,Pain in right knee,40-64,Male
+V000094,P00035,2023-11-06,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000095,P00035,2024-01-18,I10,Essential (primary) hypertension,40-64,Male
+V000096,P00036,2023-09-01,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000096,P00036,2023-09-01,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000096,P00036,2023-09-01,M54.5,Low back pain,40-64,Male
+V000097,P00036,2023-10-26,M54.5,Low back pain,40-64,Male
+V000098,P00037,2023-11-15,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000098,P00037,2023-11-15,R10.9,Unspecified abdominal pain,18-39,Male
+V000099,P00037,2024-01-20,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000100,P00037,2023-07-28,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000101,P00038,2023-05-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000101,P00038,2023-05-22,R10.9,Unspecified abdominal pain,65+,Female
+V000102,P00039,2023-04-10,M25.561,Pain in right knee,18-39,Female
+V000102,P00039,2023-04-10,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000103,P00040,2023-11-20,M79.3,"Panniculitis, unspecified",40-64,Male
+V000103,P00040,2023-11-20,M25.561,Pain in right knee,40-64,Male
+V000103,P00040,2023-11-20,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000104,P00040,2023-07-18,M25.561,Pain in right knee,40-64,Male
+V000105,P00040,2023-04-29,I10,Essential (primary) hypertension,40-64,Male
+V000105,P00040,2023-04-29,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000106,P00041,2023-08-29,I10,Essential (primary) hypertension,65+,Male
+V000107,P00042,2023-11-05,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000108,P00042,2023-08-03,M25.561,Pain in right knee,65+,Female
+V000109,P00042,2024-01-20,R10.9,Unspecified abdominal pain,65+,Female
+V000110,P00042,2023-11-24,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000111,P00043,2023-02-27,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000111,P00043,2023-02-27,M79.3,"Panniculitis, unspecified",18-39,Male
+V000112,P00044,2023-03-21,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000112,P00044,2023-03-21,M25.561,Pain in right knee,65+,Male
+V000113,P00044,2023-03-15,Z00.00,Encounter for general adult medical examination,65+,Male
+V000113,P00044,2023-03-15,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000114,P00045,2023-05-08,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000115,P00045,2024-01-26,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000116,P00045,2023-09-11,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000117,P00045,2023-11-22,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000118,P00046,2023-05-05,M25.561,Pain in right knee,18-39,Male
+V000119,P00046,2023-08-31,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000119,P00046,2023-08-31,R51,Headache,18-39,Male
+V000120,P00047,2023-07-02,M54.5,Low back pain,0-17,Male
+V000120,P00047,2023-07-02,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V000121,P00047,2023-03-02,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V000121,P00047,2023-03-02,I10,Essential (primary) hypertension,0-17,Male
+V000122,P00047,2023-10-10,M54.5,Low back pain,0-17,Male
+V000123,P00047,2023-11-19,J06.9,"Acute upper respiratory infection, unspecified",0-17,Male
+V000123,P00047,2023-11-19,I10,Essential (primary) hypertension,0-17,Male
+V000124,P00047,2023-11-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Male
+V000125,P00048,2023-03-24,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000125,P00048,2023-03-24,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000126,P00049,2023-12-05,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000126,P00049,2023-12-05,R10.9,Unspecified abdominal pain,40-64,Female
+V000127,P00049,2023-08-29,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000127,P00049,2023-08-29,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000128,P00050,2023-06-01,M79.3,"Panniculitis, unspecified",40-64,Female
+V000129,P00051,2023-06-17,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000130,P00051,2023-10-02,M25.561,Pain in right knee,18-39,Male
+V000130,P00051,2023-10-02,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000131,P00051,2023-08-08,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000132,P00051,2023-07-30,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000132,P00051,2023-07-30,I10,Essential (primary) hypertension,18-39,Male
+V000133,P00051,2023-12-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000133,P00051,2023-12-16,R51,Headache,18-39,Male
+V000134,P00051,2023-10-26,R10.9,Unspecified abdominal pain,18-39,Male
+V000134,P00051,2023-10-26,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000135,P00052,2023-10-30,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000135,P00052,2023-10-30,M79.3,"Panniculitis, unspecified",40-64,Male
+V000136,P00052,2023-09-04,M54.5,Low back pain,40-64,Male
+V000136,P00052,2023-09-04,R51,Headache,40-64,Male
+V000137,P00052,2023-03-04,M79.3,"Panniculitis, unspecified",40-64,Male
+V000138,P00053,2023-05-31,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000139,P00053,2023-12-17,R51,Headache,18-39,Male
+V000139,P00053,2023-12-17,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000140,P00053,2023-02-15,M54.5,Low back pain,18-39,Male
+V000141,P00053,2023-06-06,R10.9,Unspecified abdominal pain,18-39,Male
+V000142,P00053,2023-11-15,M79.3,"Panniculitis, unspecified",18-39,Male
+V000143,P00054,2023-07-25,R10.9,Unspecified abdominal pain,40-64,Female
+V000144,P00054,2023-02-20,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000145,P00055,2023-12-08,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000146,P00055,2023-06-02,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000146,P00055,2023-06-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000147,P00055,2023-04-02,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000147,P00055,2023-04-02,R10.9,Unspecified abdominal pain,0-17,Female
+V000148,P00056,2023-09-25,M25.561,Pain in right knee,40-64,Male
+V000148,P00056,2023-09-25,M79.3,"Panniculitis, unspecified",40-64,Male
+V000148,P00056,2023-09-25,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000149,P00056,2023-02-17,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000150,P00057,2023-09-07,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000151,P00057,2023-08-21,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000152,P00058,2023-05-13,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000153,P00059,2023-08-24,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000154,P00060,2024-01-15,R51,Headache,18-39,Male
+V000154,P00060,2024-01-15,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000155,P00061,2023-09-23,I10,Essential (primary) hypertension,18-39,Male
+V000156,P00061,2023-08-15,R10.9,Unspecified abdominal pain,18-39,Male
+V000156,P00061,2023-08-15,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000157,P00061,2023-10-19,M54.5,Low back pain,18-39,Male
+V000158,P00062,2023-04-18,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000159,P00062,2023-12-08,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000159,P00062,2023-12-08,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000160,P00062,2023-08-04,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000161,P00062,2023-04-13,R10.9,Unspecified abdominal pain,65+,Female
+V000161,P00062,2023-04-13,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000162,P00062,2023-09-09,Z00.00,Encounter for general adult medical examination,65+,Female
+V000162,P00062,2023-09-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000163,P00062,2023-05-28,I10,Essential (primary) hypertension,65+,Female
+V000164,P00062,2023-11-23,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000165,P00062,2023-04-12,R10.9,Unspecified abdominal pain,65+,Female
+V000166,P00063,2023-04-03,R10.9,Unspecified abdominal pain,18-39,Female
+V000166,P00063,2023-04-03,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000167,P00063,2023-03-05,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000167,P00063,2023-03-05,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000168,P00063,2023-04-10,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000169,P00063,2023-09-27,M79.3,"Panniculitis, unspecified",18-39,Female
+V000169,P00063,2023-09-27,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000169,P00063,2023-09-27,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000170,P00063,2023-03-11,I10,Essential (primary) hypertension,18-39,Female
+V000171,P00064,2023-11-11,M54.5,Low back pain,65+,Male
+V000172,P00065,2023-12-02,M54.5,Low back pain,18-39,Female
+V000173,P00066,2023-12-22,M54.5,Low back pain,18-39,Male
+V000174,P00066,2023-10-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000174,P00066,2023-10-13,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000175,P00066,2023-04-14,M79.3,"Panniculitis, unspecified",18-39,Male
+V000176,P00066,2023-10-15,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000176,P00066,2023-10-15,M79.3,"Panniculitis, unspecified",18-39,Male
+V000176,P00066,2023-10-15,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000177,P00066,2023-12-07,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000178,P00067,2023-03-31,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000178,P00067,2023-03-31,I10,Essential (primary) hypertension,18-39,Female
+V000179,P00068,2023-06-28,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000179,P00068,2023-06-28,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000180,P00069,2023-12-10,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000181,P00069,2023-11-29,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000181,P00069,2023-11-29,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000182,P00070,2023-07-30,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000182,P00070,2023-07-30,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000183,P00071,2023-03-04,I10,Essential (primary) hypertension,18-39,Male
+V000183,P00071,2023-03-04,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000184,P00072,2024-01-17,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000185,P00072,2024-01-23,R51,Headache,65+,Male
+V000186,P00072,2023-09-15,Z00.00,Encounter for general adult medical examination,65+,Male
+V000186,P00072,2023-09-15,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000187,P00072,2023-02-27,Z00.00,Encounter for general adult medical examination,65+,Male
+V000187,P00072,2023-02-27,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000188,P00073,2023-07-06,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000189,P00073,2023-04-29,R10.9,Unspecified abdominal pain,18-39,Male
+V000189,P00073,2023-04-29,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000189,P00073,2023-04-29,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000190,P00074,2024-01-06,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000191,P00075,2023-07-25,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000192,P00076,2023-10-28,M79.3,"Panniculitis, unspecified",65+,Male
+V000193,P00076,2023-07-09,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000193,P00076,2023-07-09,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000194,P00077,2023-02-24,M79.3,"Panniculitis, unspecified",18-39,Female
+V000194,P00077,2023-02-24,R51,Headache,18-39,Female
+V000195,P00077,2023-08-17,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000195,P00077,2023-08-17,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000195,P00077,2023-08-17,R10.9,Unspecified abdominal pain,18-39,Female
+V000196,P00077,2024-01-01,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000196,P00077,2024-01-01,R10.9,Unspecified abdominal pain,18-39,Female
+V000197,P00078,2023-12-03,M54.5,Low back pain,18-39,Female
+V000198,P00078,2023-10-22,M79.3,"Panniculitis, unspecified",18-39,Female
+V000198,P00078,2023-10-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000199,P00078,2023-08-28,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000199,P00078,2023-08-28,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000200,P00078,2023-07-08,M25.561,Pain in right knee,18-39,Female
+V000201,P00079,2023-04-01,M25.561,Pain in right knee,18-39,Female
+V000201,P00079,2023-04-01,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000202,P00079,2023-12-23,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000203,P00079,2023-04-24,R51,Headache,18-39,Female
+V000204,P00080,2023-09-25,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000205,P00080,2024-01-20,M54.5,Low back pain,40-64,Female
+V000206,P00080,2023-04-30,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000207,P00080,2023-07-14,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000208,P00081,2023-08-20,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000209,P00082,2023-10-28,M25.561,Pain in right knee,18-39,Male
+V000210,P00083,2023-03-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000210,P00083,2023-03-21,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000211,P00084,2023-04-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000211,P00084,2023-04-02,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000211,P00084,2023-04-02,M54.5,Low back pain,40-64,Female
+V000212,P00085,2023-09-06,M25.561,Pain in right knee,0-17,Male
+V000213,P00085,2023-11-20,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Male
+V000214,P00085,2023-07-05,Z00.00,Encounter for general adult medical examination,0-17,Male
+V000214,P00085,2023-07-05,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V000214,P00085,2023-07-05,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V000215,P00086,2023-08-29,M54.5,Low back pain,40-64,Female
+V000216,P00086,2023-12-17,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000216,P00086,2023-12-17,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000217,P00087,2023-05-07,R51,Headache,18-39,Female
+V000218,P00088,2024-01-07,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000219,P00089,2023-03-01,M25.561,Pain in right knee,40-64,Male
+V000219,P00089,2023-03-01,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000220,P00089,2023-04-10,M25.561,Pain in right knee,40-64,Male
+V000221,P00089,2023-11-18,R51,Headache,40-64,Male
+V000221,P00089,2023-11-18,R10.9,Unspecified abdominal pain,40-64,Male
+V000222,P00089,2023-02-04,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000222,P00089,2023-02-04,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000223,P00089,2023-07-17,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000223,P00089,2023-07-17,M54.5,Low back pain,40-64,Male
+V000224,P00089,2023-05-15,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000225,P00089,2023-07-28,M79.3,"Panniculitis, unspecified",40-64,Male
+V000225,P00089,2023-07-28,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000226,P00090,2023-10-07,M79.3,"Panniculitis, unspecified",0-17,Male
+V000226,P00090,2023-10-07,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Male
+V000227,P00091,2023-02-19,M25.561,Pain in right knee,18-39,Female
+V000227,P00091,2023-02-19,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000228,P00091,2023-11-23,M25.561,Pain in right knee,18-39,Female
+V000228,P00091,2023-11-23,I10,Essential (primary) hypertension,18-39,Female
+V000229,P00091,2023-11-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000230,P00092,2023-07-05,F41.9,"Anxiety disorder, unspecified",0-17,Male
+V000231,P00093,2024-01-31,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000232,P00093,2023-09-15,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000232,P00093,2023-09-15,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000232,P00093,2023-09-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000233,P00093,2023-11-16,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000234,P00094,2023-04-04,M25.561,Pain in right knee,40-64,Male
+V000235,P00095,2023-11-15,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000236,P00095,2023-04-04,M54.5,Low back pain,65+,Male
+V000237,P00095,2023-07-30,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000237,P00095,2023-07-30,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000237,P00095,2023-07-30,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000238,P00095,2023-04-12,M54.5,Low back pain,65+,Male
+V000238,P00095,2023-04-12,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000239,P00095,2023-05-06,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000240,P00095,2023-06-09,R51,Headache,65+,Male
+V000241,P00095,2023-04-30,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000242,P00096,2023-12-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000243,P00096,2024-01-14,M25.561,Pain in right knee,40-64,Female
+V000244,P00096,2023-10-18,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000245,P00097,2023-09-12,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000246,P00097,2024-01-10,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000246,P00097,2024-01-10,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000247,P00097,2023-11-01,R10.9,Unspecified abdominal pain,40-64,Male
+V000248,P00098,2023-05-11,R51,Headache,65+,Female
+V000248,P00098,2023-05-11,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000249,P00098,2023-12-29,Z00.00,Encounter for general adult medical examination,65+,Female
+V000250,P00098,2023-05-12,I10,Essential (primary) hypertension,65+,Female
+V000250,P00098,2023-05-12,Z00.00,Encounter for general adult medical examination,65+,Female
+V000250,P00098,2023-05-12,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000251,P00099,2023-08-17,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V000251,P00099,2023-08-17,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V000252,P00100,2023-06-24,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000253,P00100,2024-01-29,M25.561,Pain in right knee,40-64,Male
+V000254,P00100,2023-11-09,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000254,P00100,2023-11-09,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000255,P00100,2023-07-20,M25.561,Pain in right knee,40-64,Male
+V000256,P00101,2023-05-16,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000257,P00101,2023-09-15,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000258,P00101,2023-09-16,I10,Essential (primary) hypertension,40-64,Male
+V000259,P00102,2023-10-13,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000260,P00102,2023-05-25,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000260,P00102,2023-05-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000261,P00102,2023-02-25,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000262,P00102,2023-08-19,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000262,P00102,2023-08-19,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000263,P00103,2023-04-14,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000264,P00104,2023-09-10,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000264,P00104,2023-09-10,M25.561,Pain in right knee,65+,Female
+V000265,P00104,2023-12-13,M79.3,"Panniculitis, unspecified",65+,Female
+V000266,P00105,2023-02-26,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000267,P00105,2023-04-19,I10,Essential (primary) hypertension,65+,Male
+V000268,P00106,2023-02-15,M54.5,Low back pain,65+,Female
+V000268,P00106,2023-02-15,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000269,P00107,2023-08-06,I10,Essential (primary) hypertension,0-17,Male
+V000270,P00108,2023-04-29,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000271,P00108,2023-02-24,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000272,P00109,2023-07-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000273,P00109,2023-06-18,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000274,P00110,2023-06-01,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000274,P00110,2023-06-01,I10,Essential (primary) hypertension,0-17,Female
+V000275,P00110,2023-11-22,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000276,P00110,2023-02-24,M54.5,Low back pain,0-17,Female
+V000276,P00110,2023-02-24,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000277,P00111,2023-08-22,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000278,P00111,2023-11-05,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000279,P00111,2023-06-18,I10,Essential (primary) hypertension,65+,Female
+V000280,P00111,2023-05-27,Z00.00,Encounter for general adult medical examination,65+,Female
+V000281,P00111,2023-04-28,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000282,P00111,2024-01-15,M54.5,Low back pain,65+,Female
+V000282,P00111,2024-01-15,M25.561,Pain in right knee,65+,Female
+V000282,P00111,2024-01-15,I10,Essential (primary) hypertension,65+,Female
+V000283,P00111,2023-08-04,Z00.00,Encounter for general adult medical examination,65+,Female
+V000284,P00112,2023-07-31,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000285,P00112,2023-10-17,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000285,P00112,2023-10-17,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000285,P00112,2023-10-17,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000286,P00112,2023-05-20,Z00.00,Encounter for general adult medical examination,65+,Male
+V000287,P00112,2023-11-06,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000288,P00112,2023-05-24,R10.9,Unspecified abdominal pain,65+,Male
+V000288,P00112,2023-05-24,R51,Headache,65+,Male
+V000289,P00113,2024-01-28,M25.561,Pain in right knee,65+,Female
+V000290,P00113,2023-08-17,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000291,P00113,2023-02-05,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000292,P00113,2023-02-12,M79.3,"Panniculitis, unspecified",65+,Female
+V000293,P00113,2023-02-26,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000294,P00114,2023-09-04,M25.561,Pain in right knee,40-64,Male
+V000295,P00114,2023-06-10,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000296,P00114,2023-09-04,M25.561,Pain in right knee,40-64,Male
+V000296,P00114,2023-09-04,M54.5,Low back pain,40-64,Male
+V000296,P00114,2023-09-04,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000297,P00115,2023-10-21,M25.561,Pain in right knee,40-64,Male
+V000298,P00115,2023-04-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000299,P00115,2023-02-14,M79.3,"Panniculitis, unspecified",40-64,Male
+V000300,P00115,2023-06-03,R10.9,Unspecified abdominal pain,40-64,Male
+V000301,P00115,2023-07-20,R51,Headache,40-64,Male
+V000301,P00115,2023-07-20,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000301,P00115,2023-07-20,I10,Essential (primary) hypertension,40-64,Male
+V000302,P00115,2023-10-22,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000302,P00115,2023-10-22,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000302,P00115,2023-10-22,M25.561,Pain in right knee,40-64,Male
+V000303,P00115,2023-11-16,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000304,P00115,2023-08-05,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000305,P00116,2023-05-22,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000305,P00116,2023-05-22,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000305,P00116,2023-05-22,I10,Essential (primary) hypertension,40-64,Female
+V000306,P00116,2023-09-12,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000306,P00116,2023-09-12,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000307,P00116,2023-11-11,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000308,P00116,2024-01-29,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000308,P00116,2024-01-29,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000308,P00116,2024-01-29,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000309,P00117,2023-07-02,R51,Headache,40-64,Male
+V000310,P00117,2024-01-24,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000310,P00117,2024-01-24,R51,Headache,40-64,Male
+V000311,P00118,2023-12-01,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000311,P00118,2023-12-01,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000312,P00118,2023-05-18,M79.3,"Panniculitis, unspecified",65+,Female
+V000313,P00118,2023-07-10,M79.3,"Panniculitis, unspecified",65+,Female
+V000314,P00118,2023-10-09,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000315,P00118,2023-08-19,R51,Headache,65+,Female
+V000315,P00118,2023-08-19,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000316,P00118,2023-05-27,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000317,P00119,2023-11-04,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000318,P00119,2023-09-05,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000319,P00119,2023-03-15,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000320,P00119,2023-06-15,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000320,P00119,2023-06-15,M79.3,"Panniculitis, unspecified",40-64,Female
+V000321,P00119,2023-08-18,M54.5,Low back pain,40-64,Female
+V000322,P00120,2023-08-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000322,P00120,2023-08-09,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000323,P00120,2024-01-06,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000324,P00120,2023-07-22,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000324,P00120,2023-07-22,M79.3,"Panniculitis, unspecified",40-64,Male
+V000325,P00120,2023-06-05,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000326,P00120,2023-03-28,M79.3,"Panniculitis, unspecified",40-64,Male
+V000327,P00121,2023-07-31,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000327,P00121,2023-07-31,M54.5,Low back pain,40-64,Female
+V000328,P00121,2023-07-10,I10,Essential (primary) hypertension,40-64,Female
+V000328,P00121,2023-07-10,M54.5,Low back pain,40-64,Female
+V000329,P00121,2023-09-10,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000330,P00121,2023-12-19,M25.561,Pain in right knee,40-64,Female
+V000331,P00121,2023-02-11,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000331,P00121,2023-02-11,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000332,P00122,2023-05-29,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000333,P00123,2023-03-14,I10,Essential (primary) hypertension,18-39,Male
+V000334,P00123,2023-04-11,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000335,P00123,2024-01-23,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000335,P00123,2024-01-23,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000336,P00123,2023-08-07,R51,Headache,18-39,Male
+V000337,P00123,2023-06-16,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000337,P00123,2023-06-16,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000338,P00123,2023-12-15,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000339,P00124,2023-03-31,R10.9,Unspecified abdominal pain,0-17,Female
+V000339,P00124,2023-03-31,M25.561,Pain in right knee,0-17,Female
+V000340,P00125,2023-04-02,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000341,P00126,2023-06-26,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000341,P00126,2023-06-26,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000342,P00126,2023-10-17,M79.3,"Panniculitis, unspecified",40-64,Male
+V000343,P00126,2023-11-23,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000344,P00126,2023-09-28,I10,Essential (primary) hypertension,40-64,Male
+V000345,P00126,2023-08-04,M25.561,Pain in right knee,40-64,Male
+V000345,P00126,2023-08-04,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000346,P00127,2023-07-19,M25.561,Pain in right knee,0-17,Female
+V000346,P00127,2023-07-19,M79.3,"Panniculitis, unspecified",0-17,Female
+V000346,P00127,2023-07-19,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000347,P00127,2023-02-14,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000347,P00127,2023-02-14,M54.5,Low back pain,0-17,Female
+V000347,P00127,2023-02-14,M25.561,Pain in right knee,0-17,Female
+V000348,P00128,2023-06-14,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000349,P00128,2023-06-10,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000350,P00128,2023-08-14,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000351,P00129,2023-07-19,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000352,P00129,2023-11-07,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000352,P00129,2023-11-07,I10,Essential (primary) hypertension,40-64,Male
+V000353,P00129,2023-05-03,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000353,P00129,2023-05-03,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000353,P00129,2023-05-03,M79.3,"Panniculitis, unspecified",40-64,Male
+V000354,P00129,2023-07-26,I10,Essential (primary) hypertension,40-64,Male
+V000354,P00129,2023-07-26,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000355,P00129,2023-03-10,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000356,P00129,2023-12-01,R10.9,Unspecified abdominal pain,40-64,Male
+V000356,P00129,2023-12-01,M79.3,"Panniculitis, unspecified",40-64,Male
+V000357,P00129,2023-03-14,M25.561,Pain in right knee,40-64,Male
+V000357,P00129,2023-03-14,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000357,P00129,2023-03-14,M79.3,"Panniculitis, unspecified",40-64,Male
+V000358,P00130,2023-11-13,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000358,P00130,2023-11-13,M79.3,"Panniculitis, unspecified",65+,Female
+V000359,P00130,2023-07-20,R51,Headache,65+,Female
+V000360,P00131,2023-07-21,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000361,P00132,2023-12-07,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000361,P00132,2023-12-07,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000362,P00132,2023-04-22,M79.3,"Panniculitis, unspecified",40-64,Female
+V000362,P00132,2023-04-22,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000363,P00133,2023-03-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000364,P00133,2023-07-29,M54.5,Low back pain,40-64,Female
+V000364,P00133,2023-07-29,R10.9,Unspecified abdominal pain,40-64,Female
+V000365,P00134,2023-11-18,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000365,P00134,2023-11-18,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000366,P00134,2023-10-16,M54.5,Low back pain,18-39,Male
+V000367,P00135,2023-10-22,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000368,P00136,2024-01-06,M25.561,Pain in right knee,40-64,Female
+V000368,P00136,2024-01-06,R51,Headache,40-64,Female
+V000369,P00136,2023-11-12,R10.9,Unspecified abdominal pain,40-64,Female
+V000369,P00136,2023-11-12,M79.3,"Panniculitis, unspecified",40-64,Female
+V000370,P00136,2023-05-24,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000370,P00136,2023-05-24,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000371,P00136,2023-12-26,I10,Essential (primary) hypertension,40-64,Female
+V000372,P00136,2023-07-16,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000373,P00136,2023-12-29,M54.5,Low back pain,40-64,Female
+V000374,P00136,2023-08-28,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000374,P00136,2023-08-28,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000375,P00137,2023-07-13,M54.5,Low back pain,40-64,Male
+V000376,P00137,2023-08-27,R51,Headache,40-64,Male
+V000377,P00138,2023-11-26,I10,Essential (primary) hypertension,40-64,Female
+V000377,P00138,2023-11-26,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000378,P00139,2023-02-16,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000379,P00139,2023-08-08,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000380,P00139,2023-02-08,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000381,P00140,2023-10-03,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000381,P00140,2023-10-03,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000382,P00140,2023-04-11,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000382,P00140,2023-04-11,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000383,P00140,2023-10-06,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000384,P00141,2023-08-07,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000385,P00141,2023-11-16,R10.9,Unspecified abdominal pain,18-39,Female
+V000385,P00141,2023-11-16,M79.3,"Panniculitis, unspecified",18-39,Female
+V000386,P00141,2024-01-30,M25.561,Pain in right knee,18-39,Female
+V000387,P00141,2023-11-27,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000388,P00141,2023-09-10,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000388,P00141,2023-09-10,M79.3,"Panniculitis, unspecified",18-39,Female
+V000389,P00141,2024-01-29,R51,Headache,18-39,Female
+V000390,P00141,2023-12-12,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000391,P00141,2023-06-28,I10,Essential (primary) hypertension,18-39,Female
+V000392,P00142,2023-09-03,M54.5,Low back pain,40-64,Female
+V000392,P00142,2023-09-03,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000392,P00142,2023-09-03,M25.561,Pain in right knee,40-64,Female
+V000393,P00142,2023-02-10,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000394,P00142,2023-12-08,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000395,P00142,2023-03-15,M25.561,Pain in right knee,40-64,Female
+V000395,P00142,2023-03-15,R51,Headache,40-64,Female
+V000396,P00142,2023-05-16,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000396,P00142,2023-05-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000397,P00143,2023-05-20,R51,Headache,65+,Male
+V000398,P00144,2023-08-15,M54.5,Low back pain,40-64,Female
+V000398,P00144,2023-08-15,I10,Essential (primary) hypertension,40-64,Female
+V000399,P00144,2023-10-18,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000399,P00144,2023-10-18,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000400,P00145,2023-07-01,M79.3,"Panniculitis, unspecified",18-39,Female
+V000400,P00145,2023-07-01,M54.5,Low back pain,18-39,Female
+V000400,P00145,2023-07-01,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000401,P00145,2024-01-20,M54.5,Low back pain,18-39,Female
+V000402,P00146,2023-10-05,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000403,P00146,2023-03-03,M54.5,Low back pain,40-64,Male
+V000404,P00146,2024-01-28,M25.561,Pain in right knee,40-64,Male
+V000405,P00147,2023-02-05,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000405,P00147,2023-02-05,R10.9,Unspecified abdominal pain,40-64,Male
+V000406,P00148,2023-06-10,J06.9,"Acute upper respiratory infection, unspecified",0-17,Male
+V000407,P00149,2024-01-13,R10.9,Unspecified abdominal pain,65+,Female
+V000408,P00150,2023-07-18,M54.5,Low back pain,0-17,Female
+V000409,P00150,2023-03-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000409,P00150,2023-03-13,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000410,P00151,2023-09-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000410,P00151,2023-09-25,M54.5,Low back pain,40-64,Male
+V000411,P00151,2023-03-04,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000411,P00151,2023-03-04,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000412,P00151,2023-08-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000412,P00151,2023-08-21,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000413,P00151,2023-10-11,M54.5,Low back pain,40-64,Male
+V000414,P00152,2023-04-15,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000415,P00152,2023-09-17,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000416,P00152,2023-04-08,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000416,P00152,2023-04-08,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V000417,P00153,2023-08-23,M54.5,Low back pain,65+,Male
+V000418,P00154,2023-03-24,R51,Headache,18-39,Male
+V000418,P00154,2023-03-24,M25.561,Pain in right knee,18-39,Male
+V000418,P00154,2023-03-24,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000419,P00154,2023-06-16,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000419,P00154,2023-06-16,M54.5,Low back pain,18-39,Male
+V000420,P00154,2023-02-20,I10,Essential (primary) hypertension,18-39,Male
+V000421,P00155,2024-01-26,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000422,P00156,2023-06-21,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000422,P00156,2023-06-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000422,P00156,2023-06-21,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000423,P00156,2023-12-16,M54.5,Low back pain,40-64,Female
+V000424,P00157,2023-09-30,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000425,P00158,2023-11-30,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000425,P00158,2023-11-30,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000426,P00158,2023-02-09,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000426,P00158,2023-02-09,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000427,P00159,2023-06-24,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000428,P00159,2023-08-22,R10.9,Unspecified abdominal pain,0-17,Female
+V000428,P00159,2023-08-22,M79.3,"Panniculitis, unspecified",0-17,Female
+V000429,P00159,2023-07-24,I10,Essential (primary) hypertension,0-17,Female
+V000430,P00159,2023-10-22,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000430,P00159,2023-10-22,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000431,P00160,2023-07-26,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000432,P00160,2023-11-25,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000432,P00160,2023-11-25,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000433,P00160,2023-06-17,M79.3,"Panniculitis, unspecified",40-64,Female
+V000433,P00160,2023-06-17,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000433,P00160,2023-06-17,M54.5,Low back pain,40-64,Female
+V000434,P00161,2023-11-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000435,P00161,2023-08-09,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000435,P00161,2023-08-09,R10.9,Unspecified abdominal pain,40-64,Male
+V000435,P00161,2023-08-09,I10,Essential (primary) hypertension,40-64,Male
+V000436,P00162,2023-02-21,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000436,P00162,2023-02-21,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000437,P00162,2023-11-22,M25.561,Pain in right knee,0-17,Female
+V000438,P00162,2023-09-11,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000439,P00162,2023-12-17,M79.3,"Panniculitis, unspecified",0-17,Female
+V000439,P00162,2023-12-17,M25.561,Pain in right knee,0-17,Female
+V000440,P00163,2023-09-06,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000440,P00163,2023-09-06,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000441,P00163,2023-11-04,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000442,P00164,2023-05-14,I10,Essential (primary) hypertension,0-17,Female
+V000443,P00164,2024-01-12,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000444,P00164,2023-02-26,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000444,P00164,2023-02-26,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000445,P00164,2023-12-06,M25.561,Pain in right knee,0-17,Female
+V000445,P00164,2023-12-06,M54.5,Low back pain,0-17,Female
+V000446,P00165,2023-05-13,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000447,P00165,2023-04-23,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000447,P00165,2023-04-23,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000448,P00166,2023-12-27,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000449,P00167,2023-03-03,M54.5,Low back pain,18-39,Female
+V000450,P00167,2023-08-27,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000450,P00167,2023-08-27,M79.3,"Panniculitis, unspecified",18-39,Female
+V000451,P00167,2023-11-21,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000452,P00167,2023-11-04,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000453,P00168,2023-03-11,M54.5,Low back pain,18-39,Male
+V000453,P00168,2023-03-11,M79.3,"Panniculitis, unspecified",18-39,Male
+V000454,P00168,2023-09-20,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000454,P00168,2023-09-20,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000455,P00168,2023-12-06,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000456,P00168,2023-09-26,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000457,P00169,2023-09-30,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000457,P00169,2023-09-30,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000458,P00169,2023-03-13,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000458,P00169,2023-03-13,M54.5,Low back pain,0-17,Female
+V000459,P00170,2024-01-31,Z00.00,Encounter for general adult medical examination,65+,Female
+V000460,P00170,2023-10-22,Z00.00,Encounter for general adult medical examination,65+,Female
+V000460,P00170,2023-10-22,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000460,P00170,2023-10-22,M79.3,"Panniculitis, unspecified",65+,Female
+V000461,P00170,2023-07-08,M25.561,Pain in right knee,65+,Female
+V000462,P00171,2023-10-20,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000463,P00171,2023-03-08,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000464,P00171,2023-04-07,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000464,P00171,2023-04-07,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000464,P00171,2023-04-07,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000465,P00171,2023-12-29,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000465,P00171,2023-12-29,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000465,P00171,2023-12-29,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000466,P00171,2024-01-17,R10.9,Unspecified abdominal pain,40-64,Male
+V000466,P00171,2024-01-17,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000467,P00171,2023-07-10,R51,Headache,40-64,Male
+V000468,P00172,2023-03-04,M79.3,"Panniculitis, unspecified",65+,Male
+V000469,P00172,2023-03-14,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000470,P00172,2023-10-22,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000470,P00172,2023-10-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000470,P00172,2023-10-22,Z00.00,Encounter for general adult medical examination,65+,Male
+V000471,P00173,2023-12-25,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000471,P00173,2023-12-25,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000471,P00173,2023-12-25,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000472,P00173,2024-01-07,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000473,P00173,2024-01-31,M79.3,"Panniculitis, unspecified",18-39,Female
+V000473,P00173,2024-01-31,R51,Headache,18-39,Female
+V000473,P00173,2024-01-31,I10,Essential (primary) hypertension,18-39,Female
+V000474,P00173,2023-09-23,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000475,P00174,2023-03-06,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000476,P00175,2023-03-29,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000477,P00175,2023-11-14,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000478,P00176,2024-01-11,M25.561,Pain in right knee,65+,Male
+V000479,P00177,2023-02-11,R10.9,Unspecified abdominal pain,65+,Female
+V000480,P00177,2023-08-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000481,P00177,2024-01-11,I10,Essential (primary) hypertension,65+,Female
+V000482,P00177,2023-04-08,M54.5,Low back pain,65+,Female
+V000482,P00177,2023-04-08,M25.561,Pain in right knee,65+,Female
+V000483,P00178,2023-11-09,M79.3,"Panniculitis, unspecified",18-39,Male
+V000484,P00179,2023-12-15,I10,Essential (primary) hypertension,18-39,Male
+V000485,P00180,2023-12-05,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000485,P00180,2023-12-05,M79.3,"Panniculitis, unspecified",40-64,Female
+V000486,P00180,2024-01-31,I10,Essential (primary) hypertension,40-64,Female
+V000487,P00180,2023-06-18,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000487,P00180,2023-06-18,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000488,P00181,2023-05-08,Z00.00,Encounter for general adult medical examination,65+,Male
+V000489,P00181,2023-03-02,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000490,P00182,2023-11-25,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000490,P00182,2023-11-25,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000491,P00182,2023-10-25,R10.9,Unspecified abdominal pain,18-39,Male
+V000491,P00182,2023-10-25,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000492,P00182,2024-01-04,I10,Essential (primary) hypertension,18-39,Male
+V000492,P00182,2024-01-04,M54.5,Low back pain,18-39,Male
+V000493,P00182,2023-09-12,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000494,P00182,2023-03-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000495,P00182,2023-08-14,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000495,P00182,2023-08-14,M54.5,Low back pain,18-39,Male
+V000496,P00183,2023-10-11,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000497,P00183,2023-02-05,R10.9,Unspecified abdominal pain,40-64,Male
+V000497,P00183,2023-02-05,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000497,P00183,2023-02-05,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000498,P00183,2023-12-06,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000499,P00183,2023-07-21,M54.5,Low back pain,40-64,Male
+V000500,P00183,2023-12-12,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000500,P00183,2023-12-12,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000500,P00183,2023-12-12,R10.9,Unspecified abdominal pain,40-64,Male
+V000501,P00183,2023-06-11,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000501,P00183,2023-06-11,R10.9,Unspecified abdominal pain,40-64,Male
+V000502,P00183,2023-12-19,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000502,P00183,2023-12-19,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000502,P00183,2023-12-19,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000503,P00184,2024-01-03,M54.5,Low back pain,40-64,Male
+V000504,P00185,2023-05-25,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000505,P00186,2023-11-26,M54.5,Low back pain,65+,Female
+V000506,P00186,2023-04-08,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000507,P00186,2023-09-25,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000508,P00186,2023-11-30,R10.9,Unspecified abdominal pain,65+,Female
+V000508,P00186,2023-11-30,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000509,P00186,2023-02-15,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000510,P00186,2023-12-06,I10,Essential (primary) hypertension,65+,Female
+V000511,P00186,2023-03-27,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000512,P00186,2023-04-22,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000513,P00187,2024-01-30,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Male
+V000514,P00187,2023-12-11,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V000515,P00188,2023-07-13,M79.3,"Panniculitis, unspecified",40-64,Female
+V000516,P00188,2023-02-08,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000516,P00188,2023-02-08,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000516,P00188,2023-02-08,R51,Headache,40-64,Female
+V000517,P00188,2023-10-25,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000518,P00188,2023-04-30,M25.561,Pain in right knee,40-64,Female
+V000519,P00188,2023-05-23,R51,Headache,40-64,Female
+V000520,P00189,2023-03-10,M25.561,Pain in right knee,65+,Female
+V000521,P00189,2023-05-03,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000522,P00189,2023-03-11,R51,Headache,65+,Female
+V000522,P00189,2023-03-11,M79.3,"Panniculitis, unspecified",65+,Female
+V000523,P00189,2024-01-07,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000524,P00189,2023-08-16,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000524,P00189,2023-08-16,Z00.00,Encounter for general adult medical examination,65+,Female
+V000525,P00190,2023-06-18,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000525,P00190,2023-06-18,M25.561,Pain in right knee,18-39,Female
+V000526,P00191,2024-01-07,R10.9,Unspecified abdominal pain,40-64,Male
+V000527,P00191,2023-10-19,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000527,P00191,2023-10-19,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000528,P00191,2023-04-26,M79.3,"Panniculitis, unspecified",40-64,Male
+V000529,P00191,2023-08-25,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000530,P00192,2023-10-08,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000530,P00192,2023-10-08,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000531,P00192,2023-12-25,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000532,P00192,2023-06-06,M25.561,Pain in right knee,65+,Female
+V000533,P00193,2023-08-20,I10,Essential (primary) hypertension,65+,Female
+V000534,P00193,2023-11-22,I10,Essential (primary) hypertension,65+,Female
+V000534,P00193,2023-11-22,M54.5,Low back pain,65+,Female
+V000535,P00193,2023-07-31,Z00.00,Encounter for general adult medical examination,65+,Female
+V000535,P00193,2023-07-31,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000535,P00193,2023-07-31,R51,Headache,65+,Female
+V000536,P00193,2023-05-16,M54.5,Low back pain,65+,Female
+V000537,P00194,2023-12-13,R10.9,Unspecified abdominal pain,18-39,Female
+V000538,P00194,2023-11-05,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000538,P00194,2023-11-05,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000539,P00194,2023-08-03,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000540,P00195,2023-05-09,I10,Essential (primary) hypertension,18-39,Female
+V000540,P00195,2023-05-09,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000540,P00195,2023-05-09,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000541,P00195,2023-04-17,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000542,P00196,2023-03-13,Z00.00,Encounter for general adult medical examination,65+,Female
+V000543,P00196,2023-03-16,I10,Essential (primary) hypertension,65+,Female
+V000544,P00196,2023-09-22,I10,Essential (primary) hypertension,65+,Female
+V000544,P00196,2023-09-22,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000544,P00196,2023-09-22,R10.9,Unspecified abdominal pain,65+,Female
+V000545,P00196,2023-09-26,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000545,P00196,2023-09-26,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000546,P00196,2023-07-07,R51,Headache,65+,Female
+V000547,P00196,2023-04-15,R51,Headache,65+,Female
+V000548,P00196,2023-10-26,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000549,P00196,2023-03-25,M79.3,"Panniculitis, unspecified",65+,Female
+V000550,P00197,2023-03-23,M79.3,"Panniculitis, unspecified",18-39,Male
+V000551,P00198,2023-07-25,R51,Headache,18-39,Female
+V000551,P00198,2023-07-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000552,P00198,2023-09-03,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000553,P00199,2023-04-26,M54.5,Low back pain,40-64,Female
+V000553,P00199,2023-04-26,I10,Essential (primary) hypertension,40-64,Female
+V000553,P00199,2023-04-26,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000554,P00199,2023-05-22,I10,Essential (primary) hypertension,40-64,Female
+V000554,P00199,2023-05-22,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000555,P00199,2023-03-16,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000555,P00199,2023-03-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000556,P00199,2023-04-14,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000556,P00199,2023-04-14,M54.5,Low back pain,40-64,Female
+V000557,P00200,2023-02-05,Z00.00,Encounter for general adult medical examination,65+,Female
+V000558,P00200,2023-12-20,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000559,P00201,2023-08-18,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000560,P00201,2023-06-16,M79.3,"Panniculitis, unspecified",40-64,Female
+V000560,P00201,2023-06-16,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000561,P00201,2023-07-03,M79.3,"Panniculitis, unspecified",40-64,Female
+V000561,P00201,2023-07-03,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000561,P00201,2023-07-03,M54.5,Low back pain,40-64,Female
+V000562,P00201,2023-11-09,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000562,P00201,2023-11-09,M54.5,Low back pain,40-64,Female
+V000562,P00201,2023-11-09,R10.9,Unspecified abdominal pain,40-64,Female
+V000563,P00201,2023-07-01,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000563,P00201,2023-07-01,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000563,P00201,2023-07-01,I10,Essential (primary) hypertension,40-64,Female
+V000564,P00202,2023-10-10,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000564,P00202,2023-10-10,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000564,P00202,2023-10-10,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000565,P00202,2023-02-24,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000566,P00203,2024-01-31,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000566,P00203,2024-01-31,R10.9,Unspecified abdominal pain,40-64,Female
+V000567,P00204,2023-02-26,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000568,P00205,2024-01-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000569,P00206,2023-03-16,I10,Essential (primary) hypertension,40-64,Male
+V000569,P00206,2023-03-16,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000570,P00206,2024-01-20,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000571,P00207,2023-04-17,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000572,P00208,2023-07-12,I10,Essential (primary) hypertension,18-39,Female
+V000573,P00208,2023-03-30,M25.561,Pain in right knee,18-39,Female
+V000573,P00208,2023-03-30,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000573,P00208,2023-03-30,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000574,P00208,2023-10-21,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000574,P00208,2023-10-21,M25.561,Pain in right knee,18-39,Female
+V000575,P00209,2024-01-17,M79.3,"Panniculitis, unspecified",18-39,Male
+V000576,P00209,2023-02-02,I10,Essential (primary) hypertension,18-39,Male
+V000577,P00210,2023-05-24,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000578,P00210,2023-09-18,R51,Headache,18-39,Male
+V000579,P00210,2023-08-08,M79.3,"Panniculitis, unspecified",18-39,Male
+V000579,P00210,2023-08-08,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000580,P00210,2024-01-18,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000581,P00210,2023-07-03,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V000582,P00211,2023-09-09,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000582,P00211,2023-09-09,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000583,P00211,2023-12-04,M79.3,"Panniculitis, unspecified",18-39,Female
+V000584,P00211,2024-01-04,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000584,P00211,2024-01-04,M25.561,Pain in right knee,18-39,Female
+V000585,P00211,2023-04-19,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000585,P00211,2023-04-19,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000586,P00212,2023-07-31,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000587,P00212,2023-05-03,R51,Headache,65+,Female
+V000587,P00212,2023-05-03,R10.9,Unspecified abdominal pain,65+,Female
+V000588,P00213,2023-06-09,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000589,P00213,2023-11-21,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000590,P00213,2024-01-16,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000590,P00213,2024-01-16,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000590,P00213,2024-01-16,M25.561,Pain in right knee,0-17,Female
+V000591,P00213,2023-10-05,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000592,P00214,2023-07-15,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000592,P00214,2023-07-15,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000593,P00215,2023-05-25,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000594,P00215,2024-01-26,I10,Essential (primary) hypertension,40-64,Female
+V000595,P00215,2024-01-21,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000596,P00215,2023-06-19,M25.561,Pain in right knee,40-64,Female
+V000597,P00216,2023-04-25,R10.9,Unspecified abdominal pain,18-39,Male
+V000597,P00216,2023-04-25,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000598,P00216,2023-11-02,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000598,P00216,2023-11-02,M54.5,Low back pain,18-39,Male
+V000599,P00217,2023-10-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000600,P00217,2023-07-19,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000600,P00217,2023-07-19,R51,Headache,65+,Male
+V000600,P00217,2023-07-19,I10,Essential (primary) hypertension,65+,Male
+V000601,P00218,2023-10-04,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000602,P00218,2023-04-06,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000602,P00218,2023-04-06,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000603,P00219,2023-04-23,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000604,P00220,2023-05-22,R51,Headache,40-64,Female
+V000605,P00220,2023-07-26,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000605,P00220,2023-07-26,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000605,P00220,2023-07-26,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000606,P00221,2023-03-01,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000607,P00221,2023-09-18,I10,Essential (primary) hypertension,18-39,Male
+V000607,P00221,2023-09-18,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000608,P00221,2023-08-04,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000608,P00221,2023-08-04,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000609,P00221,2023-12-11,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000610,P00221,2023-05-11,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000610,P00221,2023-05-11,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000611,P00221,2023-10-25,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000611,P00221,2023-10-25,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000612,P00222,2023-10-24,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000613,P00222,2023-10-18,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000614,P00222,2023-05-07,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000614,P00222,2023-05-07,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000615,P00223,2023-12-05,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000615,P00223,2023-12-05,M25.561,Pain in right knee,18-39,Female
+V000616,P00224,2023-10-02,M25.561,Pain in right knee,0-17,Female
+V000616,P00224,2023-10-02,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000617,P00224,2023-05-04,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000618,P00225,2023-07-26,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000618,P00225,2023-07-26,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V000619,P00225,2023-11-16,I10,Essential (primary) hypertension,0-17,Female
+V000620,P00226,2023-08-15,M25.561,Pain in right knee,40-64,Female
+V000620,P00226,2023-08-15,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000620,P00226,2023-08-15,M54.5,Low back pain,40-64,Female
+V000621,P00227,2023-04-02,I10,Essential (primary) hypertension,40-64,Male
+V000621,P00227,2023-04-02,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000622,P00227,2023-03-05,R51,Headache,40-64,Male
+V000623,P00228,2023-09-06,M25.561,Pain in right knee,18-39,Male
+V000624,P00228,2023-06-04,R51,Headache,18-39,Male
+V000625,P00228,2023-10-30,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000626,P00229,2023-10-25,R10.9,Unspecified abdominal pain,0-17,Female
+V000627,P00229,2023-03-02,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000628,P00229,2023-09-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000629,P00230,2023-02-23,R51,Headache,0-17,Female
+V000630,P00230,2023-06-18,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000631,P00230,2023-08-18,I10,Essential (primary) hypertension,0-17,Female
+V000631,P00230,2023-08-18,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000631,P00230,2023-08-18,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V000632,P00230,2023-06-01,R51,Headache,0-17,Female
+V000633,P00231,2023-02-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000634,P00232,2023-08-24,M25.561,Pain in right knee,18-39,Female
+V000635,P00232,2023-10-09,R51,Headache,18-39,Female
+V000635,P00232,2023-10-09,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000635,P00232,2023-10-09,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000636,P00233,2023-06-27,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000637,P00233,2023-06-10,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000637,P00233,2023-06-10,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000638,P00234,2023-04-03,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000639,P00234,2023-12-01,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000640,P00234,2023-06-21,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000641,P00234,2023-07-27,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000642,P00234,2023-12-11,R51,Headache,18-39,Male
+V000643,P00234,2023-02-03,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000644,P00235,2023-03-16,M54.5,Low back pain,65+,Male
+V000645,P00235,2023-05-28,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000645,P00235,2023-05-28,I10,Essential (primary) hypertension,65+,Male
+V000646,P00235,2023-02-07,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000646,P00235,2023-02-07,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000647,P00235,2023-07-28,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V000648,P00235,2023-12-06,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000649,P00236,2023-08-13,M79.3,"Panniculitis, unspecified",18-39,Female
+V000649,P00236,2023-08-13,R51,Headache,18-39,Female
+V000650,P00237,2023-12-25,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000651,P00238,2023-07-26,M54.5,Low back pain,65+,Male
+V000652,P00239,2023-10-02,Z00.00,Encounter for general adult medical examination,65+,Female
+V000652,P00239,2023-10-02,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000653,P00239,2023-02-28,Z00.00,Encounter for general adult medical examination,65+,Female
+V000653,P00239,2023-02-28,R51,Headache,65+,Female
+V000654,P00239,2023-10-20,Z00.00,Encounter for general adult medical examination,65+,Female
+V000655,P00239,2023-07-13,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000655,P00239,2023-07-13,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000655,P00239,2023-07-13,R10.9,Unspecified abdominal pain,65+,Female
+V000656,P00239,2023-06-26,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000656,P00239,2023-06-26,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000656,P00239,2023-06-26,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000657,P00240,2023-02-18,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V000658,P00240,2023-08-03,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000658,P00240,2023-08-03,I10,Essential (primary) hypertension,65+,Male
+V000659,P00240,2023-02-14,R51,Headache,65+,Male
+V000659,P00240,2023-02-14,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000660,P00241,2023-08-31,M54.5,Low back pain,0-17,Male
+V000661,P00241,2023-12-24,R10.9,Unspecified abdominal pain,0-17,Male
+V000662,P00241,2023-05-14,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V000662,P00241,2023-05-14,Z00.00,Encounter for general adult medical examination,0-17,Male
+V000662,P00241,2023-05-14,F41.9,"Anxiety disorder, unspecified",0-17,Male
+V000663,P00241,2023-11-07,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V000664,P00242,2023-11-10,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000664,P00242,2023-11-10,M54.5,Low back pain,65+,Male
+V000665,P00242,2023-07-27,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000666,P00243,2023-09-16,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000666,P00243,2023-09-16,M25.561,Pain in right knee,40-64,Male
+V000667,P00243,2023-08-23,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000667,P00243,2023-08-23,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000668,P00244,2023-06-28,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000669,P00244,2023-11-15,M25.561,Pain in right knee,40-64,Male
+V000669,P00244,2023-11-15,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000670,P00245,2023-03-31,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000670,P00245,2023-03-31,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000671,P00245,2023-04-19,M25.561,Pain in right knee,18-39,Female
+V000671,P00245,2023-04-19,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000671,P00245,2023-04-19,R51,Headache,18-39,Female
+V000672,P00246,2023-02-26,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000673,P00246,2023-10-10,R10.9,Unspecified abdominal pain,65+,Female
+V000674,P00246,2023-03-26,Z00.00,Encounter for general adult medical examination,65+,Female
+V000675,P00247,2023-06-14,M25.561,Pain in right knee,40-64,Female
+V000676,P00247,2023-08-09,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000677,P00247,2023-10-07,R51,Headache,40-64,Female
+V000678,P00248,2023-03-27,M54.5,Low back pain,40-64,Male
+V000679,P00249,2023-04-22,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000679,P00249,2023-04-22,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000680,P00249,2023-08-06,M54.5,Low back pain,40-64,Male
+V000680,P00249,2023-08-06,M79.3,"Panniculitis, unspecified",40-64,Male
+V000681,P00250,2023-11-14,M54.5,Low back pain,0-17,Male
+V000681,P00250,2023-11-14,F41.9,"Anxiety disorder, unspecified",0-17,Male
+V000682,P00250,2023-06-22,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V000683,P00251,2024-01-26,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Male
+V000684,P00252,2023-06-07,M25.561,Pain in right knee,40-64,Female
+V000685,P00252,2023-02-13,R10.9,Unspecified abdominal pain,40-64,Female
+V000685,P00252,2023-02-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000685,P00252,2023-02-13,M25.561,Pain in right knee,40-64,Female
+V000686,P00252,2023-04-16,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000686,P00252,2023-04-16,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000687,P00252,2023-09-25,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000688,P00252,2023-04-24,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000688,P00252,2023-04-24,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000689,P00252,2023-06-15,R10.9,Unspecified abdominal pain,40-64,Female
+V000690,P00253,2023-07-16,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000691,P00253,2023-05-08,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000692,P00253,2023-11-09,M79.3,"Panniculitis, unspecified",65+,Male
+V000693,P00254,2023-03-29,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000693,P00254,2023-03-29,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000694,P00255,2023-10-26,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000694,P00255,2023-10-26,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000695,P00256,2023-12-02,M79.3,"Panniculitis, unspecified",18-39,Male
+V000695,P00256,2023-12-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000696,P00256,2023-11-08,R51,Headache,18-39,Male
+V000697,P00257,2023-03-02,R51,Headache,40-64,Female
+V000697,P00257,2023-03-02,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000697,P00257,2023-03-02,I10,Essential (primary) hypertension,40-64,Female
+V000698,P00257,2023-08-31,M79.3,"Panniculitis, unspecified",40-64,Female
+V000699,P00257,2023-02-05,I10,Essential (primary) hypertension,40-64,Female
+V000700,P00257,2023-05-24,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000701,P00258,2024-01-14,I10,Essential (primary) hypertension,0-17,Female
+V000702,P00259,2023-02-18,M54.5,Low back pain,18-39,Female
+V000702,P00259,2023-02-18,M25.561,Pain in right knee,18-39,Female
+V000702,P00259,2023-02-18,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000703,P00259,2023-04-08,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000704,P00260,2023-08-10,R51,Headache,0-17,Female
+V000705,P00261,2023-06-23,M79.3,"Panniculitis, unspecified",40-64,Male
+V000706,P00261,2023-10-09,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000707,P00261,2023-08-04,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000708,P00261,2023-09-11,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000708,P00261,2023-09-11,R10.9,Unspecified abdominal pain,40-64,Male
+V000709,P00262,2023-11-08,R51,Headache,40-64,Male
+V000709,P00262,2023-11-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000710,P00262,2023-10-04,R51,Headache,40-64,Male
+V000711,P00262,2023-09-22,R51,Headache,40-64,Male
+V000712,P00263,2023-12-18,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000712,P00263,2023-12-18,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000713,P00263,2023-05-02,M79.3,"Panniculitis, unspecified",40-64,Male
+V000714,P00263,2023-08-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000714,P00263,2023-08-08,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000714,P00263,2023-08-08,I10,Essential (primary) hypertension,40-64,Male
+V000715,P00263,2023-08-25,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000716,P00263,2023-12-30,I10,Essential (primary) hypertension,40-64,Male
+V000717,P00264,2024-01-10,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000717,P00264,2024-01-10,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000717,P00264,2024-01-10,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000718,P00265,2023-09-24,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000719,P00265,2023-10-12,R51,Headache,18-39,Female
+V000720,P00265,2023-05-05,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000720,P00265,2023-05-05,M54.5,Low back pain,18-39,Female
+V000720,P00265,2023-05-05,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000721,P00266,2023-12-19,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000722,P00266,2023-03-24,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000722,P00266,2023-03-24,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000722,P00266,2023-03-24,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000723,P00266,2023-08-26,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000723,P00266,2023-08-26,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000724,P00267,2023-07-27,M79.3,"Panniculitis, unspecified",0-17,Female
+V000724,P00267,2023-07-27,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000725,P00267,2023-09-10,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V000726,P00267,2023-07-04,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000726,P00267,2023-07-04,M54.5,Low back pain,0-17,Female
+V000727,P00267,2023-08-05,M79.3,"Panniculitis, unspecified",0-17,Female
+V000727,P00267,2023-08-05,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000728,P00267,2023-05-16,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000729,P00267,2023-08-06,M79.3,"Panniculitis, unspecified",0-17,Female
+V000730,P00267,2023-08-09,M54.5,Low back pain,0-17,Female
+V000731,P00268,2023-03-28,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000732,P00268,2023-04-15,R10.9,Unspecified abdominal pain,18-39,Female
+V000732,P00268,2023-04-15,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000733,P00268,2023-09-28,R10.9,Unspecified abdominal pain,18-39,Female
+V000734,P00269,2023-04-28,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000735,P00269,2023-06-19,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000736,P00269,2023-11-11,R51,Headache,40-64,Male
+V000736,P00269,2023-11-11,M79.3,"Panniculitis, unspecified",40-64,Male
+V000737,P00270,2023-04-18,I10,Essential (primary) hypertension,40-64,Male
+V000737,P00270,2023-04-18,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000738,P00270,2023-09-27,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000738,P00270,2023-09-27,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000739,P00270,2023-02-08,M79.3,"Panniculitis, unspecified",40-64,Male
+V000739,P00270,2023-02-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000739,P00270,2023-02-08,I10,Essential (primary) hypertension,40-64,Male
+V000740,P00270,2023-02-08,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000740,P00270,2023-02-08,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000741,P00271,2023-11-17,M25.561,Pain in right knee,18-39,Female
+V000741,P00271,2023-11-17,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000741,P00271,2023-11-17,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000742,P00271,2023-10-01,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000742,P00271,2023-10-01,M25.561,Pain in right knee,18-39,Female
+V000743,P00271,2023-11-17,M25.561,Pain in right knee,18-39,Female
+V000743,P00271,2023-11-17,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000744,P00271,2023-07-14,M54.5,Low back pain,18-39,Female
+V000744,P00271,2023-07-14,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000744,P00271,2023-07-14,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V000745,P00271,2023-11-23,M79.3,"Panniculitis, unspecified",18-39,Female
+V000745,P00271,2023-11-23,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000745,P00271,2023-11-23,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000746,P00271,2023-02-04,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000746,P00271,2023-02-04,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000747,P00272,2023-07-31,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000747,P00272,2023-07-31,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000747,P00272,2023-07-31,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000748,P00272,2023-12-03,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000749,P00272,2023-09-02,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000749,P00272,2023-09-02,M25.561,Pain in right knee,0-17,Female
+V000750,P00273,2024-01-23,I10,Essential (primary) hypertension,18-39,Female
+V000751,P00274,2023-02-27,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000752,P00274,2023-07-11,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000753,P00275,2023-03-30,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000754,P00276,2023-02-25,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000755,P00276,2023-09-06,M25.561,Pain in right knee,65+,Male
+V000756,P00277,2023-08-19,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000757,P00277,2023-06-19,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000757,P00277,2023-06-19,I10,Essential (primary) hypertension,40-64,Male
+V000758,P00278,2023-10-05,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000759,P00278,2023-02-23,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000760,P00278,2023-11-28,I10,Essential (primary) hypertension,0-17,Female
+V000760,P00278,2023-11-28,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000761,P00278,2023-09-05,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000762,P00279,2023-06-29,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000763,P00280,2023-03-16,I10,Essential (primary) hypertension,65+,Female
+V000764,P00281,2023-12-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000764,P00281,2023-12-16,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000764,P00281,2023-12-16,M79.3,"Panniculitis, unspecified",40-64,Female
+V000765,P00281,2023-08-14,R10.9,Unspecified abdominal pain,40-64,Female
+V000765,P00281,2023-08-14,M25.561,Pain in right knee,40-64,Female
+V000765,P00281,2023-08-14,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000766,P00281,2023-08-09,M54.5,Low back pain,40-64,Female
+V000767,P00282,2023-08-01,R10.9,Unspecified abdominal pain,40-64,Female
+V000768,P00283,2023-02-11,M25.561,Pain in right knee,18-39,Male
+V000768,P00283,2023-02-11,I10,Essential (primary) hypertension,18-39,Male
+V000768,P00283,2023-02-11,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000769,P00284,2023-07-31,M54.5,Low back pain,40-64,Male
+V000769,P00284,2023-07-31,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000770,P00284,2023-03-18,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000771,P00284,2023-11-06,R51,Headache,40-64,Male
+V000772,P00284,2023-12-13,R10.9,Unspecified abdominal pain,40-64,Male
+V000773,P00284,2023-06-01,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000773,P00284,2023-06-01,R10.9,Unspecified abdominal pain,40-64,Male
+V000774,P00285,2023-07-13,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000775,P00285,2023-12-25,R51,Headache,0-17,Female
+V000776,P00285,2023-04-21,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000776,P00285,2023-04-21,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000777,P00285,2023-03-25,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000778,P00285,2023-04-21,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000779,P00285,2023-07-29,M25.561,Pain in right knee,0-17,Female
+V000779,P00285,2023-07-29,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000780,P00285,2023-04-09,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V000781,P00286,2023-05-07,M79.3,"Panniculitis, unspecified",40-64,Male
+V000782,P00287,2023-12-07,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000782,P00287,2023-12-07,M25.561,Pain in right knee,18-39,Female
+V000783,P00288,2023-10-20,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000784,P00288,2023-12-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000785,P00288,2023-04-10,I10,Essential (primary) hypertension,40-64,Female
+V000785,P00288,2023-04-10,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000786,P00288,2023-05-21,I10,Essential (primary) hypertension,40-64,Female
+V000786,P00288,2023-05-21,M25.561,Pain in right knee,40-64,Female
+V000787,P00288,2023-12-03,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000787,P00288,2023-12-03,R51,Headache,40-64,Female
+V000788,P00289,2023-04-30,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000789,P00289,2023-02-14,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000789,P00289,2023-02-14,R51,Headache,40-64,Male
+V000790,P00290,2023-02-16,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000791,P00291,2024-01-07,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V000792,P00291,2023-03-18,R10.9,Unspecified abdominal pain,18-39,Female
+V000793,P00292,2023-08-21,R51,Headache,65+,Female
+V000794,P00292,2023-12-22,M79.3,"Panniculitis, unspecified",65+,Female
+V000795,P00293,2023-07-30,R51,Headache,40-64,Female
+V000795,P00293,2023-07-30,M79.3,"Panniculitis, unspecified",40-64,Female
+V000796,P00294,2023-04-20,M79.3,"Panniculitis, unspecified",0-17,Female
+V000797,P00295,2023-05-25,I10,Essential (primary) hypertension,65+,Male
+V000797,P00295,2023-05-25,R51,Headache,65+,Male
+V000798,P00295,2023-08-28,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000799,P00296,2024-01-11,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000800,P00297,2023-12-11,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000801,P00297,2023-12-19,R10.9,Unspecified abdominal pain,40-64,Female
+V000802,P00297,2023-09-05,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000803,P00297,2023-08-19,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000804,P00297,2023-09-29,I10,Essential (primary) hypertension,40-64,Female
+V000805,P00297,2023-05-06,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000805,P00297,2023-05-06,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000806,P00298,2023-08-21,Z00.00,Encounter for general adult medical examination,65+,Female
+V000807,P00298,2023-07-03,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000808,P00298,2023-08-25,Z00.00,Encounter for general adult medical examination,65+,Female
+V000808,P00298,2023-08-25,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000809,P00298,2023-07-29,R51,Headache,65+,Female
+V000810,P00299,2023-09-23,M25.561,Pain in right knee,40-64,Male
+V000810,P00299,2023-09-23,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000811,P00299,2023-05-25,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000812,P00300,2023-07-16,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000813,P00301,2023-03-18,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000813,P00301,2023-03-18,M25.561,Pain in right knee,40-64,Female
+V000814,P00301,2023-10-14,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000814,P00301,2023-10-14,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000814,P00301,2023-10-14,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000815,P00302,2023-03-19,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000816,P00303,2023-04-27,M54.5,Low back pain,18-39,Female
+V000817,P00304,2024-01-24,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000818,P00304,2023-04-01,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000818,P00304,2023-04-01,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000819,P00304,2023-08-17,R51,Headache,18-39,Female
+V000820,P00304,2023-08-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000821,P00304,2023-09-01,M25.561,Pain in right knee,18-39,Female
+V000822,P00305,2023-07-09,I10,Essential (primary) hypertension,40-64,Male
+V000823,P00305,2023-10-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000824,P00305,2023-09-28,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000824,P00305,2023-09-28,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000824,P00305,2023-09-28,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V000825,P00305,2023-05-21,R10.9,Unspecified abdominal pain,40-64,Male
+V000826,P00306,2023-03-22,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000827,P00306,2023-12-30,R51,Headache,18-39,Male
+V000827,P00306,2023-12-30,M25.561,Pain in right knee,18-39,Male
+V000828,P00307,2023-03-22,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000829,P00307,2023-03-06,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000830,P00307,2023-06-06,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000831,P00308,2023-09-10,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V000832,P00309,2023-04-10,M25.561,Pain in right knee,18-39,Male
+V000833,P00310,2023-11-13,Z00.00,Encounter for general adult medical examination,65+,Male
+V000833,P00310,2023-11-13,M25.561,Pain in right knee,65+,Male
+V000834,P00310,2023-07-12,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000835,P00310,2024-01-03,R10.9,Unspecified abdominal pain,65+,Male
+V000836,P00310,2023-12-16,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000837,P00311,2023-12-10,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000837,P00311,2023-12-10,F41.9,"Anxiety disorder, unspecified",65+,Female
+V000837,P00311,2023-12-10,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000838,P00312,2023-04-18,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000838,P00312,2023-04-18,R51,Headache,40-64,Female
+V000838,P00312,2023-04-18,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000839,P00312,2023-03-13,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V000840,P00312,2024-01-01,M25.561,Pain in right knee,40-64,Female
+V000841,P00312,2023-06-02,M79.3,"Panniculitis, unspecified",40-64,Female
+V000842,P00313,2024-01-25,I10,Essential (primary) hypertension,65+,Male
+V000842,P00313,2024-01-25,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000842,P00313,2024-01-25,R10.9,Unspecified abdominal pain,65+,Male
+V000843,P00313,2023-09-08,F41.9,"Anxiety disorder, unspecified",65+,Male
+V000844,P00314,2023-05-02,R51,Headache,65+,Male
+V000845,P00315,2023-02-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000846,P00315,2023-10-10,R51,Headache,18-39,Female
+V000846,P00315,2023-10-10,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000847,P00315,2023-03-13,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000848,P00316,2023-09-10,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000848,P00316,2023-09-10,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000849,P00316,2023-03-13,R51,Headache,40-64,Female
+V000850,P00316,2023-09-02,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000850,P00316,2023-09-02,R51,Headache,40-64,Female
+V000850,P00316,2023-09-02,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000851,P00316,2023-09-01,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000852,P00316,2023-08-27,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000853,P00316,2024-01-10,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000853,P00316,2024-01-10,R51,Headache,40-64,Female
+V000854,P00317,2023-11-21,R51,Headache,0-17,Male
+V000854,P00317,2023-11-21,M25.561,Pain in right knee,0-17,Male
+V000854,P00317,2023-11-21,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V000855,P00317,2023-04-21,M25.561,Pain in right knee,0-17,Male
+V000855,P00317,2023-04-21,M54.5,Low back pain,0-17,Male
+V000856,P00318,2023-04-11,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000857,P00318,2023-08-18,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000857,P00318,2023-08-18,I10,Essential (primary) hypertension,40-64,Female
+V000858,P00318,2023-07-24,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000859,P00318,2023-02-12,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000859,P00318,2023-02-12,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000860,P00318,2023-05-08,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000861,P00319,2023-03-08,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V000862,P00320,2023-06-08,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000862,P00320,2023-06-08,R10.9,Unspecified abdominal pain,40-64,Female
+V000863,P00320,2024-01-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000863,P00320,2024-01-02,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000864,P00320,2023-09-27,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000865,P00320,2023-05-25,R51,Headache,40-64,Female
+V000866,P00320,2023-06-24,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000866,P00320,2023-06-24,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000867,P00320,2023-02-25,M54.5,Low back pain,40-64,Female
+V000868,P00321,2023-07-27,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000868,P00321,2023-07-27,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000868,P00321,2023-07-27,I10,Essential (primary) hypertension,40-64,Male
+V000869,P00321,2023-09-16,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V000869,P00321,2023-09-16,M25.561,Pain in right knee,40-64,Male
+V000869,P00321,2023-09-16,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000870,P00321,2023-10-15,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000871,P00321,2023-08-31,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000872,P00321,2023-10-31,R51,Headache,40-64,Male
+V000872,P00321,2023-10-31,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000872,P00321,2023-10-31,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V000873,P00322,2023-02-27,M54.5,Low back pain,65+,Male
+V000873,P00322,2023-02-27,R10.9,Unspecified abdominal pain,65+,Male
+V000874,P00323,2024-01-29,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000874,P00323,2024-01-29,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V000875,P00323,2023-05-22,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000875,P00323,2023-05-22,R51,Headache,18-39,Female
+V000876,P00323,2023-12-25,M25.561,Pain in right knee,18-39,Female
+V000877,P00324,2023-11-17,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000878,P00324,2023-11-28,M25.561,Pain in right knee,18-39,Female
+V000879,P00324,2023-12-06,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V000880,P00324,2023-11-10,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000881,P00324,2023-09-03,M54.5,Low back pain,18-39,Female
+V000882,P00324,2023-05-27,Z00.00,Encounter for general adult medical examination,18-39,Female
+V000882,P00324,2023-05-27,R10.9,Unspecified abdominal pain,18-39,Female
+V000882,P00324,2023-05-27,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000883,P00325,2023-12-21,M25.561,Pain in right knee,18-39,Male
+V000884,P00326,2024-01-17,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000884,P00326,2024-01-17,M79.3,"Panniculitis, unspecified",0-17,Female
+V000885,P00326,2023-08-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V000885,P00326,2023-08-09,M79.3,"Panniculitis, unspecified",0-17,Female
+V000886,P00326,2023-04-01,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V000887,P00326,2023-03-07,M79.3,"Panniculitis, unspecified",0-17,Female
+V000887,P00326,2023-03-07,I10,Essential (primary) hypertension,0-17,Female
+V000888,P00327,2023-07-11,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000888,P00327,2023-07-11,R51,Headache,18-39,Male
+V000888,P00327,2023-07-11,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000889,P00328,2023-05-07,M79.3,"Panniculitis, unspecified",40-64,Female
+V000890,P00328,2023-06-17,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000890,P00328,2023-06-17,I10,Essential (primary) hypertension,40-64,Female
+V000891,P00329,2023-08-29,M79.3,"Panniculitis, unspecified",65+,Male
+V000891,P00329,2023-08-29,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000892,P00330,2023-03-26,M54.5,Low back pain,40-64,Female
+V000892,P00330,2023-03-26,R51,Headache,40-64,Female
+V000893,P00330,2023-12-31,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000893,P00330,2023-12-31,M79.3,"Panniculitis, unspecified",40-64,Female
+V000893,P00330,2023-12-31,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000894,P00330,2023-02-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000895,P00330,2023-12-03,R10.9,Unspecified abdominal pain,40-64,Female
+V000896,P00331,2023-10-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000896,P00331,2023-10-09,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000897,P00332,2023-03-29,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000897,P00332,2023-03-29,I10,Essential (primary) hypertension,18-39,Female
+V000897,P00332,2023-03-29,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000898,P00332,2023-02-06,M25.561,Pain in right knee,18-39,Female
+V000899,P00332,2023-10-14,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V000900,P00333,2023-09-22,R51,Headache,40-64,Female
+V000900,P00333,2023-09-22,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000901,P00333,2023-02-18,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000902,P00334,2023-08-28,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000903,P00335,2023-08-19,M79.3,"Panniculitis, unspecified",40-64,Female
+V000903,P00335,2023-08-19,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000904,P00335,2023-05-27,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000904,P00335,2023-05-27,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000905,P00335,2023-04-01,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000905,P00335,2023-04-01,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000906,P00335,2023-10-25,R51,Headache,40-64,Female
+V000906,P00335,2023-10-25,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V000907,P00336,2023-08-18,R10.9,Unspecified abdominal pain,65+,Female
+V000908,P00336,2023-04-08,R10.9,Unspecified abdominal pain,65+,Female
+V000908,P00336,2023-04-08,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000908,P00336,2023-04-08,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000909,P00336,2023-06-04,M25.561,Pain in right knee,65+,Female
+V000909,P00336,2023-06-04,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000910,P00336,2023-09-07,M54.5,Low back pain,65+,Female
+V000910,P00336,2023-09-07,M79.3,"Panniculitis, unspecified",65+,Female
+V000911,P00337,2023-07-27,M79.3,"Panniculitis, unspecified",40-64,Male
+V000912,P00337,2023-06-18,I10,Essential (primary) hypertension,40-64,Male
+V000912,P00337,2023-06-18,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000913,P00337,2023-04-27,M25.561,Pain in right knee,40-64,Male
+V000914,P00337,2023-04-02,R51,Headache,40-64,Male
+V000914,P00337,2023-04-02,R10.9,Unspecified abdominal pain,40-64,Male
+V000914,P00337,2023-04-02,M25.561,Pain in right knee,40-64,Male
+V000915,P00337,2023-10-09,M54.5,Low back pain,40-64,Male
+V000915,P00337,2023-10-09,R51,Headache,40-64,Male
+V000916,P00338,2023-03-11,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V000916,P00338,2023-03-11,I10,Essential (primary) hypertension,40-64,Male
+V000917,P00339,2024-01-24,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000918,P00339,2023-04-19,M25.561,Pain in right knee,40-64,Female
+V000919,P00340,2023-02-22,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000919,P00340,2023-02-22,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000919,P00340,2023-02-22,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V000920,P00340,2023-08-14,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000921,P00341,2023-02-28,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000922,P00341,2023-11-20,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000923,P00342,2023-11-26,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000923,P00342,2023-11-26,M54.5,Low back pain,40-64,Female
+V000923,P00342,2023-11-26,Z00.00,Encounter for general adult medical examination,40-64,Female
+V000924,P00342,2023-11-01,M54.5,Low back pain,40-64,Female
+V000925,P00343,2023-02-21,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000925,P00343,2023-02-21,I10,Essential (primary) hypertension,18-39,Male
+V000926,P00343,2023-08-26,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000927,P00343,2023-07-23,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V000927,P00343,2023-07-23,M25.561,Pain in right knee,18-39,Male
+V000928,P00344,2023-07-30,R10.9,Unspecified abdominal pain,0-17,Female
+V000929,P00344,2023-11-21,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V000929,P00344,2023-11-21,M79.3,"Panniculitis, unspecified",0-17,Female
+V000929,P00344,2023-11-21,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V000930,P00344,2024-01-16,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000931,P00345,2023-07-07,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V000931,P00345,2023-07-07,M79.3,"Panniculitis, unspecified",40-64,Male
+V000932,P00345,2023-11-24,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000933,P00346,2023-03-09,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000934,P00346,2023-09-20,Z00.00,Encounter for general adult medical examination,65+,Female
+V000935,P00346,2023-05-25,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000936,P00346,2023-10-06,Z00.00,Encounter for general adult medical examination,65+,Female
+V000937,P00346,2023-07-04,M79.3,"Panniculitis, unspecified",65+,Female
+V000938,P00346,2023-03-15,R51,Headache,65+,Female
+V000939,P00347,2023-04-29,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000939,P00347,2023-04-29,M79.3,"Panniculitis, unspecified",18-39,Male
+V000939,P00347,2023-04-29,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V000940,P00347,2023-04-08,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000940,P00347,2023-04-08,M79.3,"Panniculitis, unspecified",18-39,Male
+V000941,P00347,2023-06-29,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000942,P00348,2023-12-02,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V000943,P00349,2023-11-22,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000943,P00349,2023-11-22,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V000944,P00349,2023-04-20,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000945,P00349,2023-02-02,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000945,P00349,2023-02-02,R51,Headache,65+,Female
+V000946,P00349,2023-05-09,M54.5,Low back pain,65+,Female
+V000946,P00349,2023-05-09,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V000947,P00349,2023-05-01,Z00.00,Encounter for general adult medical examination,65+,Female
+V000947,P00349,2023-05-01,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000948,P00350,2023-08-23,M54.5,Low back pain,40-64,Female
+V000948,P00350,2023-08-23,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V000949,P00350,2023-02-02,R51,Headache,40-64,Female
+V000950,P00350,2023-11-11,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V000951,P00350,2023-10-07,M54.5,Low back pain,40-64,Female
+V000951,P00350,2023-10-07,R51,Headache,40-64,Female
+V000952,P00350,2023-09-08,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V000953,P00350,2023-06-03,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V000954,P00351,2023-07-07,M25.561,Pain in right knee,65+,Female
+V000954,P00351,2023-07-07,I10,Essential (primary) hypertension,65+,Female
+V000955,P00352,2023-10-02,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V000955,P00352,2023-10-02,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V000956,P00352,2023-11-16,I10,Essential (primary) hypertension,0-17,Female
+V000957,P00352,2024-01-20,M25.561,Pain in right knee,0-17,Female
+V000957,P00352,2024-01-20,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V000958,P00353,2023-10-03,M25.561,Pain in right knee,40-64,Male
+V000959,P00353,2023-08-30,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000959,P00353,2023-08-30,M25.561,Pain in right knee,40-64,Male
+V000960,P00353,2023-02-11,R51,Headache,40-64,Male
+V000961,P00353,2023-12-20,Z00.00,Encounter for general adult medical examination,40-64,Male
+V000962,P00354,2023-03-16,M79.3,"Panniculitis, unspecified",18-39,Female
+V000963,P00354,2023-07-19,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V000963,P00354,2023-07-19,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V000964,P00355,2023-08-04,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V000964,P00355,2023-08-04,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000965,P00355,2023-07-21,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V000966,P00356,2023-10-11,R51,Headache,65+,Female
+V000966,P00356,2023-10-11,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000967,P00356,2023-02-08,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000968,P00356,2023-08-17,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000969,P00356,2023-06-24,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000970,P00356,2023-05-28,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000970,P00356,2023-05-28,Z00.00,Encounter for general adult medical examination,65+,Female
+V000970,P00356,2023-05-28,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000971,P00356,2024-01-10,M54.5,Low back pain,65+,Female
+V000972,P00357,2023-02-11,I10,Essential (primary) hypertension,65+,Female
+V000973,P00358,2023-03-12,Z00.00,Encounter for general adult medical examination,0-17,Female
+V000973,P00358,2023-03-12,M54.5,Low back pain,0-17,Female
+V000973,P00358,2023-03-12,R51,Headache,0-17,Female
+V000974,P00359,2023-02-02,I10,Essential (primary) hypertension,65+,Female
+V000974,P00359,2023-02-02,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000974,P00359,2023-02-02,R51,Headache,65+,Female
+V000975,P00360,2023-06-13,R51,Headache,65+,Male
+V000976,P00360,2023-05-04,M54.5,Low back pain,65+,Male
+V000977,P00360,2023-10-22,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V000978,P00360,2024-01-02,M25.561,Pain in right knee,65+,Male
+V000979,P00360,2023-05-08,J02.9,"Acute pharyngitis, unspecified",65+,Male
+V000979,P00360,2023-05-08,R51,Headache,65+,Male
+V000980,P00361,2023-03-19,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V000981,P00361,2023-04-28,M25.561,Pain in right knee,65+,Female
+V000982,P00361,2023-11-03,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V000983,P00361,2023-11-29,R10.9,Unspecified abdominal pain,65+,Female
+V000983,P00361,2023-11-29,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V000984,P00362,2023-04-02,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000984,P00362,2023-04-02,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000984,P00362,2023-04-02,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V000985,P00362,2023-07-30,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000986,P00362,2023-10-14,I10,Essential (primary) hypertension,18-39,Male
+V000986,P00362,2023-10-14,R10.9,Unspecified abdominal pain,18-39,Male
+V000986,P00362,2023-10-14,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000987,P00362,2023-05-13,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000988,P00362,2023-10-07,M54.5,Low back pain,18-39,Male
+V000989,P00363,2023-04-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V000990,P00363,2023-09-27,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V000991,P00363,2023-04-16,M25.561,Pain in right knee,40-64,Female
+V000992,P00364,2023-07-15,R51,Headache,40-64,Male
+V000992,P00364,2023-07-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V000993,P00365,2023-05-21,M54.5,Low back pain,65+,Female
+V000993,P00365,2023-05-21,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V000993,P00365,2023-05-21,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V000994,P00366,2023-12-05,M79.3,"Panniculitis, unspecified",18-39,Female
+V000994,P00366,2023-12-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V000995,P00367,2023-12-07,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V000996,P00367,2023-12-08,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V000996,P00367,2023-12-08,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V000997,P00367,2023-11-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V000998,P00367,2023-06-13,Z00.00,Encounter for general adult medical examination,18-39,Male
+V000998,P00367,2023-06-13,R51,Headache,18-39,Male
+V000999,P00368,2024-01-31,M79.3,"Panniculitis, unspecified",40-64,Male
+V000999,P00368,2024-01-31,R10.9,Unspecified abdominal pain,40-64,Male
+V001000,P00368,2023-12-03,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001000,P00368,2023-12-03,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001001,P00369,2023-09-24,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001001,P00369,2023-09-24,R10.9,Unspecified abdominal pain,18-39,Female
+V001002,P00369,2023-08-08,M25.561,Pain in right knee,18-39,Female
+V001003,P00369,2023-03-03,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001004,P00369,2023-04-28,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V001004,P00369,2023-04-28,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001004,P00369,2023-04-28,R51,Headache,18-39,Female
+V001005,P00369,2023-10-31,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001006,P00370,2023-07-13,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V001007,P00370,2023-12-03,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V001008,P00370,2023-07-03,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V001009,P00370,2023-06-28,M54.5,Low back pain,40-64,Male
+V001010,P00370,2023-08-26,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001010,P00370,2023-08-26,M25.561,Pain in right knee,40-64,Male
+V001011,P00371,2023-12-18,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V001011,P00371,2023-12-18,R51,Headache,18-39,Male
+V001011,P00371,2023-12-18,M54.5,Low back pain,18-39,Male
+V001012,P00371,2023-05-18,M79.3,"Panniculitis, unspecified",18-39,Male
+V001013,P00372,2023-10-13,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001014,P00372,2023-10-06,I10,Essential (primary) hypertension,40-64,Male
+V001015,P00373,2023-02-06,M54.5,Low back pain,18-39,Male
+V001015,P00373,2023-02-06,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V001016,P00374,2023-04-25,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001017,P00374,2023-09-23,F33.1,"Major depressive disorder, recurrent, moderate",65+,Female
+V001018,P00374,2023-06-19,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V001018,P00374,2023-06-19,R10.9,Unspecified abdominal pain,65+,Female
+V001019,P00374,2023-09-01,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V001020,P00375,2023-02-11,M25.561,Pain in right knee,18-39,Female
+V001021,P00375,2023-08-18,M54.5,Low back pain,18-39,Female
+V001022,P00375,2023-07-28,R10.9,Unspecified abdominal pain,18-39,Female
+V001023,P00376,2023-11-22,R10.9,Unspecified abdominal pain,0-17,Male
+V001024,P00376,2023-03-26,I10,Essential (primary) hypertension,0-17,Male
+V001025,P00377,2023-09-14,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Male
+V001026,P00377,2023-12-10,R10.9,Unspecified abdominal pain,0-17,Male
+V001027,P00378,2023-08-08,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V001027,P00378,2023-08-08,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V001028,P00378,2023-11-14,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001029,P00378,2023-04-21,M79.3,"Panniculitis, unspecified",40-64,Male
+V001030,P00379,2023-10-18,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001030,P00379,2023-10-18,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001031,P00379,2023-09-21,M79.3,"Panniculitis, unspecified",40-64,Male
+V001031,P00379,2023-09-21,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001032,P00380,2023-05-10,R10.9,Unspecified abdominal pain,18-39,Male
+V001033,P00380,2023-06-12,I10,Essential (primary) hypertension,18-39,Male
+V001034,P00380,2023-03-25,M25.561,Pain in right knee,18-39,Male
+V001035,P00381,2023-03-28,M54.5,Low back pain,40-64,Male
+V001036,P00382,2023-12-12,F41.9,"Anxiety disorder, unspecified",65+,Male
+V001037,P00382,2023-10-12,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001038,P00383,2023-03-14,M54.5,Low back pain,40-64,Female
+V001039,P00384,2023-08-05,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001040,P00385,2023-08-11,M79.3,"Panniculitis, unspecified",0-17,Female
+V001040,P00385,2023-08-11,R51,Headache,0-17,Female
+V001041,P00385,2023-09-26,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V001042,P00386,2024-02-01,M79.3,"Panniculitis, unspecified",0-17,Female
+V001042,P00386,2024-02-01,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V001043,P00387,2023-10-25,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V001044,P00388,2023-05-08,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V001044,P00388,2023-05-08,M54.5,Low back pain,40-64,Female
+V001045,P00389,2023-02-26,M79.3,"Panniculitis, unspecified",40-64,Female
+V001045,P00389,2023-02-26,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001046,P00389,2023-06-18,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001047,P00389,2023-12-23,M25.561,Pain in right knee,40-64,Female
+V001048,P00389,2023-05-11,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001048,P00389,2023-05-11,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001049,P00390,2023-06-03,M25.561,Pain in right knee,65+,Female
+V001050,P00390,2023-04-30,R10.9,Unspecified abdominal pain,65+,Female
+V001051,P00390,2023-09-13,R51,Headache,65+,Female
+V001051,P00390,2023-09-13,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V001051,P00390,2023-09-13,I10,Essential (primary) hypertension,65+,Female
+V001052,P00391,2023-12-09,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001052,P00391,2023-12-09,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001053,P00391,2023-08-25,M54.5,Low back pain,18-39,Female
+V001053,P00391,2023-08-25,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001054,P00391,2023-11-14,I10,Essential (primary) hypertension,18-39,Female
+V001055,P00391,2023-02-14,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001056,P00391,2023-11-20,M25.561,Pain in right knee,18-39,Female
+V001057,P00392,2023-12-12,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001058,P00393,2023-06-22,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001058,P00393,2023-06-22,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001059,P00393,2023-10-05,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001060,P00394,2023-07-28,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001061,P00395,2023-03-30,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V001062,P00396,2023-09-23,R51,Headache,18-39,Male
+V001062,P00396,2023-09-23,M79.3,"Panniculitis, unspecified",18-39,Male
+V001063,P00397,2023-10-03,R51,Headache,40-64,Male
+V001063,P00397,2023-10-03,M54.5,Low back pain,40-64,Male
+V001063,P00397,2023-10-03,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001064,P00398,2023-08-25,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001064,P00398,2023-08-25,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001064,P00398,2023-08-25,I10,Essential (primary) hypertension,40-64,Female
+V001065,P00398,2023-08-13,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001066,P00399,2023-12-02,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V001067,P00399,2023-03-18,M54.5,Low back pain,40-64,Female
+V001067,P00399,2023-03-18,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001068,P00399,2023-10-10,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001068,P00399,2023-10-10,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001069,P00400,2023-06-05,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001070,P00400,2023-06-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Female
+V001071,P00400,2023-07-18,M79.3,"Panniculitis, unspecified",65+,Female
+V001072,P00400,2023-11-05,M54.5,Low back pain,65+,Female
+V001073,P00400,2023-11-09,M54.5,Low back pain,65+,Female
+V001073,P00400,2023-11-09,Z00.00,Encounter for general adult medical examination,65+,Female
+V001074,P00400,2023-04-10,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V001074,P00400,2023-04-10,I10,Essential (primary) hypertension,65+,Female
+V001075,P00401,2023-05-03,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001076,P00401,2023-06-26,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001077,P00401,2023-07-21,I10,Essential (primary) hypertension,40-64,Female
+V001077,P00401,2023-07-21,M25.561,Pain in right knee,40-64,Female
+V001078,P00401,2023-04-01,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001079,P00401,2023-05-14,M54.5,Low back pain,40-64,Female
+V001080,P00402,2023-08-13,R10.9,Unspecified abdominal pain,65+,Male
+V001081,P00402,2023-10-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V001081,P00402,2023-10-15,R10.9,Unspecified abdominal pain,65+,Male
+V001082,P00402,2023-04-19,R10.9,Unspecified abdominal pain,65+,Male
+V001083,P00403,2023-03-11,M25.561,Pain in right knee,40-64,Male
+V001084,P00403,2023-02-25,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001085,P00404,2023-12-31,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001085,P00404,2023-12-31,M54.5,Low back pain,40-64,Female
+V001086,P00404,2023-07-27,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001087,P00404,2023-03-03,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001087,P00404,2023-03-03,M54.5,Low back pain,40-64,Female
+V001088,P00405,2023-04-30,R10.9,Unspecified abdominal pain,18-39,Female
+V001089,P00405,2023-05-05,M79.3,"Panniculitis, unspecified",18-39,Female
+V001090,P00406,2023-09-30,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001091,P00407,2024-01-28,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001091,P00407,2024-01-28,M54.5,Low back pain,40-64,Male
+V001092,P00408,2023-02-28,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001092,P00408,2023-02-28,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001093,P00409,2023-03-14,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V001094,P00410,2023-10-30,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001094,P00410,2023-10-30,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001094,P00410,2023-10-30,M54.5,Low back pain,18-39,Female
+V001095,P00410,2023-06-16,R51,Headache,18-39,Female
+V001096,P00410,2023-12-26,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001096,P00410,2023-12-26,I10,Essential (primary) hypertension,18-39,Female
+V001097,P00410,2023-03-20,M54.5,Low back pain,18-39,Female
+V001097,P00410,2023-03-20,I10,Essential (primary) hypertension,18-39,Female
+V001098,P00411,2023-03-31,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001098,P00411,2023-03-31,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V001099,P00411,2023-06-18,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V001099,P00411,2023-06-18,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001099,P00411,2023-06-18,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001100,P00412,2023-05-17,M25.561,Pain in right knee,40-64,Female
+V001101,P00412,2023-12-31,R51,Headache,40-64,Female
+V001102,P00412,2023-07-07,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001102,P00412,2023-07-07,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001102,P00412,2023-07-07,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V001103,P00412,2023-10-25,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001104,P00412,2023-12-18,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001104,P00412,2023-12-18,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001104,P00412,2023-12-18,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001105,P00413,2023-10-31,M79.3,"Panniculitis, unspecified",40-64,Male
+V001106,P00414,2023-09-17,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001107,P00414,2023-10-27,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V001108,P00414,2023-11-08,E78.5,"Hyperlipidemia, unspecified",65+,Female
+V001108,P00414,2023-11-08,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V001109,P00415,2023-07-16,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001109,P00415,2023-07-16,I10,Essential (primary) hypertension,40-64,Female
+V001110,P00416,2023-10-02,M25.561,Pain in right knee,18-39,Female
+V001111,P00417,2023-05-10,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001111,P00417,2023-05-10,I10,Essential (primary) hypertension,40-64,Female
+V001112,P00417,2023-09-30,M25.561,Pain in right knee,40-64,Female
+V001113,P00417,2023-07-01,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001113,P00417,2023-07-01,I10,Essential (primary) hypertension,40-64,Female
+V001114,P00417,2024-01-03,I10,Essential (primary) hypertension,40-64,Female
+V001115,P00418,2023-03-17,R51,Headache,18-39,Male
+V001115,P00418,2023-03-17,I10,Essential (primary) hypertension,18-39,Male
+V001116,P00418,2023-03-06,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V001116,P00418,2023-03-06,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V001117,P00418,2023-10-15,M79.3,"Panniculitis, unspecified",18-39,Male
+V001117,P00418,2023-10-15,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V001117,P00418,2023-10-15,M54.5,Low back pain,18-39,Male
+V001118,P00419,2024-01-23,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V001118,P00419,2024-01-23,R51,Headache,0-17,Male
+V001119,P00419,2023-11-17,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V001120,P00420,2023-06-19,M25.561,Pain in right knee,40-64,Female
+V001120,P00420,2023-06-19,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001121,P00421,2023-02-08,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001122,P00422,2023-04-12,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001122,P00422,2023-04-12,M79.3,"Panniculitis, unspecified",40-64,Female
+V001123,P00422,2023-09-08,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001123,P00422,2023-09-08,I10,Essential (primary) hypertension,40-64,Female
+V001124,P00422,2023-06-12,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001125,P00423,2023-11-10,M25.561,Pain in right knee,40-64,Male
+V001125,P00423,2023-11-10,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001126,P00423,2023-11-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V001126,P00423,2023-11-16,M25.561,Pain in right knee,40-64,Male
+V001127,P00424,2023-02-28,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001128,P00425,2023-06-24,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001129,P00425,2023-03-23,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001130,P00426,2023-04-29,M25.561,Pain in right knee,0-17,Female
+V001131,P00427,2023-03-06,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001132,P00427,2023-05-21,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001133,P00428,2023-12-24,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V001134,P00428,2023-07-08,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V001134,P00428,2023-07-08,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001134,P00428,2023-07-08,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V001135,P00428,2023-05-14,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V001136,P00428,2023-09-18,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V001136,P00428,2023-09-18,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001137,P00428,2023-03-13,M54.5,Low back pain,0-17,Female
+V001138,P00429,2023-11-22,F41.9,"Anxiety disorder, unspecified",0-17,Female
+V001139,P00429,2023-12-08,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V001139,P00429,2023-12-08,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V001140,P00429,2023-04-20,E78.5,"Hyperlipidemia, unspecified",0-17,Female
+V001141,P00430,2023-07-28,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V001142,P00431,2023-09-18,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001142,P00431,2023-09-18,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001143,P00432,2023-08-16,M54.5,Low back pain,0-17,Female
+V001143,P00432,2023-08-16,R10.9,Unspecified abdominal pain,0-17,Female
+V001144,P00432,2024-01-15,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Female
+V001144,P00432,2024-01-15,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001145,P00433,2023-05-09,M25.561,Pain in right knee,18-39,Female
+V001146,P00433,2023-12-07,M79.3,"Panniculitis, unspecified",18-39,Female
+V001146,P00433,2023-12-07,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V001146,P00433,2023-12-07,R10.9,Unspecified abdominal pain,18-39,Female
+V001147,P00433,2023-12-09,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001147,P00433,2023-12-09,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V001148,P00434,2024-01-04,I10,Essential (primary) hypertension,40-64,Female
+V001148,P00434,2024-01-04,M25.561,Pain in right knee,40-64,Female
+V001149,P00434,2024-01-28,M25.561,Pain in right knee,40-64,Female
+V001150,P00435,2023-11-23,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001150,P00435,2023-11-23,R51,Headache,65+,Male
+V001151,P00435,2023-09-17,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001152,P00436,2023-03-23,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V001153,P00436,2023-09-04,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001154,P00436,2023-05-25,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001154,P00436,2023-05-25,I10,Essential (primary) hypertension,40-64,Male
+V001155,P00436,2023-12-31,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001156,P00436,2023-03-31,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001157,P00437,2023-03-26,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V001158,P00437,2023-09-11,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V001158,P00437,2023-09-11,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V001159,P00437,2023-06-13,Z00.00,Encounter for general adult medical examination,65+,Male
+V001160,P00437,2023-02-10,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001160,P00437,2023-02-10,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Male
+V001160,P00437,2023-02-10,F41.9,"Anxiety disorder, unspecified",65+,Male
+V001161,P00437,2024-01-15,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001162,P00438,2023-03-23,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V001163,P00439,2023-12-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V001164,P00439,2023-06-12,R51,Headache,18-39,Female
+V001165,P00440,2023-08-19,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001165,P00440,2023-08-19,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001166,P00440,2023-02-17,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001166,P00440,2023-02-17,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V001166,P00440,2023-02-17,M25.561,Pain in right knee,40-64,Male
+V001167,P00441,2023-03-15,Z00.00,Encounter for general adult medical examination,0-17,Female
+V001168,P00441,2023-10-11,J02.9,"Acute pharyngitis, unspecified",0-17,Female
+V001168,P00441,2023-10-11,R51,Headache,0-17,Female
+V001169,P00442,2023-08-11,F41.9,"Anxiety disorder, unspecified",65+,Female
+V001170,P00442,2023-12-02,I10,Essential (primary) hypertension,65+,Female
+V001170,P00442,2023-12-02,M79.3,"Panniculitis, unspecified",65+,Female
+V001171,P00443,2023-04-17,I10,Essential (primary) hypertension,40-64,Female
+V001172,P00443,2023-10-14,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001172,P00443,2023-10-14,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001173,P00444,2023-09-09,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V001174,P00444,2023-04-10,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001174,P00444,2023-04-10,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V001175,P00444,2023-04-12,M25.561,Pain in right knee,18-39,Female
+V001176,P00444,2023-06-13,M25.561,Pain in right knee,18-39,Female
+V001177,P00444,2023-02-06,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001177,P00444,2023-02-06,M25.561,Pain in right knee,18-39,Female
+V001178,P00445,2023-06-13,M79.3,"Panniculitis, unspecified",0-17,Female
+V001179,P00446,2023-04-20,I10,Essential (primary) hypertension,18-39,Female
+V001180,P00446,2023-03-15,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001181,P00447,2023-09-20,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001181,P00447,2023-09-20,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001181,P00447,2023-09-20,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001182,P00447,2023-07-23,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001182,P00447,2023-07-23,R51,Headache,40-64,Male
+V001183,P00447,2024-01-29,F41.9,"Anxiety disorder, unspecified",40-64,Male
+V001184,P00447,2024-01-07,M25.561,Pain in right knee,40-64,Male
+V001185,P00448,2024-01-02,Z00.00,Encounter for general adult medical examination,0-17,Male
+V001186,P00448,2023-07-10,Z00.00,Encounter for general adult medical examination,0-17,Male
+V001187,P00448,2023-03-21,J06.9,"Acute upper respiratory infection, unspecified",0-17,Male
+V001188,P00448,2023-05-31,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V001189,P00448,2023-12-29,M25.561,Pain in right knee,0-17,Male
+V001189,P00448,2023-12-29,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V001190,P00449,2024-01-12,E11.9,Type 2 diabetes mellitus without complications,65+,Female
+V001190,P00449,2024-01-12,J02.9,"Acute pharyngitis, unspecified",65+,Female
+V001191,P00449,2023-04-01,M79.3,"Panniculitis, unspecified",65+,Female
+V001191,P00449,2023-04-01,K21.9,Gastro-esophageal reflux disease without esophagitis,65+,Female
+V001192,P00450,2023-07-24,I10,Essential (primary) hypertension,40-64,Female
+V001192,P00450,2023-07-24,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001192,P00450,2023-07-24,R51,Headache,40-64,Female
+V001193,P00450,2023-07-02,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001194,P00451,2023-09-16,I10,Essential (primary) hypertension,65+,Female
+V001195,P00451,2024-02-01,Z00.00,Encounter for general adult medical examination,65+,Female
+V001195,P00451,2024-02-01,M54.5,Low back pain,65+,Female
+V001196,P00451,2024-01-07,F41.9,"Anxiety disorder, unspecified",65+,Female
+V001197,P00452,2023-03-12,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001197,P00452,2023-03-12,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V001198,P00452,2023-12-13,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Female
+V001199,P00453,2023-06-02,F41.9,"Anxiety disorder, unspecified",65+,Female
+V001199,P00453,2023-06-02,M54.5,Low back pain,65+,Female
+V001200,P00454,2023-07-20,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V001201,P00454,2023-11-15,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Male
+V001202,P00454,2023-09-28,Z00.00,Encounter for general adult medical examination,0-17,Male
+V001203,P00454,2023-07-10,M79.3,"Panniculitis, unspecified",0-17,Male
+V001204,P00455,2023-10-20,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001205,P00455,2023-06-11,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001205,P00455,2023-06-11,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001205,P00455,2023-06-11,R51,Headache,18-39,Female
+V001206,P00455,2023-03-28,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001206,P00455,2023-03-28,J06.9,"Acute upper respiratory infection, unspecified",18-39,Female
+V001207,P00456,2023-09-01,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001207,P00456,2023-09-01,M25.561,Pain in right knee,18-39,Female
+V001208,P00457,2023-05-23,R51,Headache,18-39,Male
+V001208,P00457,2023-05-23,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V001208,P00457,2023-05-23,Z00.00,Encounter for general adult medical examination,18-39,Male
+V001209,P00457,2023-03-12,M25.561,Pain in right knee,18-39,Male
+V001210,P00457,2023-07-18,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V001211,P00457,2023-03-15,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V001211,P00457,2023-03-15,M54.5,Low back pain,18-39,Male
+V001212,P00457,2023-12-09,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V001213,P00458,2023-09-01,M54.5,Low back pain,40-64,Female
+V001214,P00458,2023-08-28,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001215,P00459,2023-12-15,E78.5,"Hyperlipidemia, unspecified",65+,Male
+V001215,P00459,2023-12-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",65+,Male
+V001215,P00459,2023-12-15,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001216,P00459,2023-02-05,M25.561,Pain in right knee,65+,Male
+V001217,P00459,2023-07-20,J06.9,"Acute upper respiratory infection, unspecified",65+,Male
+V001218,P00459,2024-01-25,M25.561,Pain in right knee,65+,Male
+V001219,P00459,2023-05-09,F33.1,"Major depressive disorder, recurrent, moderate",65+,Male
+V001219,P00459,2023-05-09,E11.9,Type 2 diabetes mellitus without complications,65+,Male
+V001220,P00460,2023-04-23,M79.3,"Panniculitis, unspecified",40-64,Female
+V001221,P00460,2023-09-06,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001222,P00460,2023-07-23,M79.3,"Panniculitis, unspecified",40-64,Female
+V001223,P00460,2023-07-21,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001224,P00461,2023-02-05,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001225,P00461,2023-05-29,I10,Essential (primary) hypertension,18-39,Female
+V001226,P00461,2023-05-02,I10,Essential (primary) hypertension,18-39,Female
+V001227,P00462,2023-11-16,M54.5,Low back pain,65+,Male
+V001228,P00463,2023-09-27,M54.5,Low back pain,18-39,Female
+V001228,P00463,2023-09-27,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001229,P00464,2023-09-17,M25.561,Pain in right knee,65+,Female
+V001229,P00464,2023-09-17,R51,Headache,65+,Female
+V001230,P00464,2023-04-29,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001230,P00464,2023-04-29,I10,Essential (primary) hypertension,65+,Female
+V001231,P00464,2024-01-04,M79.3,"Panniculitis, unspecified",65+,Female
+V001232,P00465,2023-02-27,M79.3,"Panniculitis, unspecified",0-17,Male
+V001233,P00466,2023-02-03,M25.561,Pain in right knee,40-64,Male
+V001233,P00466,2023-02-03,M54.5,Low back pain,40-64,Male
+V001234,P00466,2023-06-26,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001234,P00466,2023-06-26,R10.9,Unspecified abdominal pain,40-64,Male
+V001235,P00466,2023-11-12,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001236,P00466,2024-01-21,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001237,P00467,2024-01-07,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001237,P00467,2024-01-07,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001238,P00467,2023-12-02,M54.5,Low back pain,18-39,Female
+V001238,P00467,2023-12-02,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V001239,P00467,2023-07-24,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001239,P00467,2023-07-24,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001240,P00467,2023-05-29,R51,Headache,18-39,Female
+V001241,P00467,2023-03-20,R51,Headache,18-39,Female
+V001241,P00467,2023-03-20,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001242,P00467,2024-02-01,M79.3,"Panniculitis, unspecified",18-39,Female
+V001243,P00468,2023-11-08,M79.3,"Panniculitis, unspecified",40-64,Male
+V001244,P00468,2023-08-06,M54.5,Low back pain,40-64,Male
+V001245,P00468,2024-01-12,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001245,P00468,2024-01-12,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001245,P00468,2024-01-12,M54.5,Low back pain,40-64,Male
+V001246,P00469,2023-12-15,R10.9,Unspecified abdominal pain,18-39,Male
+V001246,P00469,2023-12-15,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V001247,P00469,2023-02-24,M54.5,Low back pain,18-39,Male
+V001248,P00470,2023-09-30,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001249,P00470,2023-07-31,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V001249,P00470,2023-07-31,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001250,P00470,2023-05-07,M54.5,Low back pain,40-64,Male
+V001250,P00470,2023-05-07,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Male
+V001250,P00470,2023-05-07,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Male
+V001251,P00471,2023-05-13,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001251,P00471,2023-05-13,Z00.00,Encounter for general adult medical examination,40-64,Male
+V001252,P00471,2023-04-16,J06.9,"Acute upper respiratory infection, unspecified",40-64,Male
+V001252,P00471,2023-04-16,M25.561,Pain in right knee,40-64,Male
+V001253,P00472,2023-11-20,R51,Headache,0-17,Female
+V001254,P00472,2023-11-17,M79.3,"Panniculitis, unspecified",0-17,Female
+V001255,P00472,2023-05-16,M25.561,Pain in right knee,0-17,Female
+V001256,P00473,2023-11-20,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001257,P00473,2023-03-18,M54.5,Low back pain,40-64,Female
+V001258,P00473,2023-03-07,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001259,P00473,2023-03-15,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001259,P00473,2023-03-15,R10.9,Unspecified abdominal pain,40-64,Female
+V001259,P00473,2023-03-15,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001260,P00473,2023-03-26,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001261,P00474,2024-01-19,M25.561,Pain in right knee,18-39,Male
+V001262,P00474,2023-12-22,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V001262,P00474,2023-12-22,R51,Headache,18-39,Male
+V001263,P00474,2024-01-14,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V001263,P00474,2024-01-14,M54.5,Low back pain,18-39,Male
+V001264,P00474,2023-03-29,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V001265,P00475,2023-09-16,R10.9,Unspecified abdominal pain,40-64,Female
+V001265,P00475,2023-09-16,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001265,P00475,2023-09-16,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001266,P00475,2023-10-02,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001266,P00475,2023-10-02,I10,Essential (primary) hypertension,40-64,Female
+V001266,P00475,2023-10-02,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001267,P00475,2023-04-01,I10,Essential (primary) hypertension,40-64,Female
+V001268,P00476,2023-07-20,M25.561,Pain in right knee,0-17,Male
+V001268,P00476,2023-07-20,E11.9,Type 2 diabetes mellitus without complications,0-17,Male
+V001269,P00476,2023-03-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Male
+V001269,P00476,2023-03-15,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V001270,P00476,2023-09-17,M79.3,"Panniculitis, unspecified",0-17,Male
+V001270,P00476,2023-09-17,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V001271,P00477,2023-05-12,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001272,P00477,2023-07-26,Z00.00,Encounter for general adult medical examination,18-39,Female
+V001273,P00478,2023-07-30,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001274,P00478,2023-02-07,J06.9,"Acute upper respiratory infection, unspecified",65+,Female
+V001274,P00478,2023-02-07,Z00.00,Encounter for general adult medical examination,65+,Female
+V001275,P00479,2023-10-26,J02.9,"Acute pharyngitis, unspecified",18-39,Male
+V001275,P00479,2023-10-26,I10,Essential (primary) hypertension,18-39,Male
+V001276,P00479,2023-08-15,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Male
+V001276,P00479,2023-08-15,M25.561,Pain in right knee,18-39,Male
+V001277,P00479,2024-01-14,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Male
+V001278,P00480,2023-08-11,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001279,P00480,2023-02-16,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001279,P00480,2023-02-16,R10.9,Unspecified abdominal pain,40-64,Female
+V001280,P00481,2023-11-26,M54.5,Low back pain,0-17,Female
+V001280,P00481,2023-11-26,I10,Essential (primary) hypertension,0-17,Female
+V001281,P00482,2023-10-06,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001281,P00482,2023-10-06,E78.5,"Hyperlipidemia, unspecified",40-64,Male
+V001282,P00483,2023-12-13,I10,Essential (primary) hypertension,0-17,Male
+V001283,P00484,2023-07-25,J06.9,"Acute upper respiratory infection, unspecified",0-17,Male
+V001284,P00484,2023-03-27,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V001284,P00484,2023-03-27,K21.9,Gastro-esophageal reflux disease without esophagitis,0-17,Male
+V001284,P00484,2023-03-27,I10,Essential (primary) hypertension,0-17,Male
+V001285,P00484,2024-01-16,F41.9,"Anxiety disorder, unspecified",0-17,Male
+V001285,P00484,2024-01-16,M79.3,"Panniculitis, unspecified",0-17,Male
+V001285,P00484,2024-01-16,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V001286,P00484,2024-01-23,Z00.00,Encounter for general adult medical examination,0-17,Male
+V001287,P00484,2023-04-02,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V001288,P00485,2023-07-17,R51,Headache,18-39,Female
+V001288,P00485,2023-07-17,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001289,P00485,2023-07-01,F33.1,"Major depressive disorder, recurrent, moderate",18-39,Female
+V001290,P00486,2023-04-19,M25.561,Pain in right knee,40-64,Female
+V001290,P00486,2023-04-19,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001290,P00486,2023-04-19,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001291,P00487,2024-02-01,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001292,P00487,2023-05-12,E78.5,"Hyperlipidemia, unspecified",40-64,Female
+V001292,P00487,2023-05-12,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001293,P00487,2023-11-14,I10,Essential (primary) hypertension,40-64,Female
+V001294,P00488,2023-07-05,K21.9,Gastro-esophageal reflux disease without esophagitis,40-64,Female
+V001295,P00488,2023-06-08,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001296,P00489,2023-12-30,J06.9,"Acute upper respiratory infection, unspecified",0-17,Female
+V001297,P00489,2023-06-20,M79.3,"Panniculitis, unspecified",0-17,Female
+V001298,P00489,2023-03-04,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V001299,P00489,2023-07-10,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V001300,P00489,2023-05-25,E11.9,Type 2 diabetes mellitus without complications,0-17,Female
+V001301,P00490,2023-12-05,R10.9,Unspecified abdominal pain,0-17,Female
+V001301,P00490,2023-12-05,M79.3,"Panniculitis, unspecified",0-17,Female
+V001301,P00490,2023-12-05,J44.9,"Chronic obstructive pulmonary disease, unspecified",0-17,Female
+V001302,P00490,2023-11-08,F33.1,"Major depressive disorder, recurrent, moderate",0-17,Female
+V001303,P00491,2023-04-28,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001303,P00491,2023-04-28,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001304,P00491,2023-07-20,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001305,P00491,2023-04-17,M25.561,Pain in right knee,40-64,Female
+V001305,P00491,2023-04-17,J06.9,"Acute upper respiratory infection, unspecified",40-64,Female
+V001306,P00492,2023-05-04,Z00.00,Encounter for general adult medical examination,18-39,Male
+V001307,P00492,2023-09-01,I10,Essential (primary) hypertension,18-39,Male
+V001308,P00492,2023-09-20,R10.9,Unspecified abdominal pain,18-39,Male
+V001308,P00492,2023-09-20,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V001309,P00492,2023-12-08,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V001310,P00492,2023-09-15,F41.9,"Anxiety disorder, unspecified",18-39,Male
+V001311,P00492,2023-11-20,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V001311,P00492,2023-11-20,M25.561,Pain in right knee,18-39,Male
+V001312,P00492,2023-04-04,I10,Essential (primary) hypertension,18-39,Male
+V001312,P00492,2023-04-04,E11.9,Type 2 diabetes mellitus without complications,18-39,Male
+V001313,P00493,2023-07-14,I10,Essential (primary) hypertension,18-39,Female
+V001314,P00493,2023-03-10,J44.9,"Chronic obstructive pulmonary disease, unspecified",18-39,Female
+V001314,P00493,2023-03-10,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001315,P00493,2023-08-02,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Female
+V001316,P00493,2023-02-14,R51,Headache,18-39,Female
+V001317,P00494,2024-01-14,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001318,P00495,2023-07-13,K21.9,Gastro-esophageal reflux disease without esophagitis,18-39,Male
+V001318,P00495,2023-07-13,J06.9,"Acute upper respiratory infection, unspecified",18-39,Male
+V001318,P00495,2023-07-13,M54.5,Low back pain,18-39,Male
+V001319,P00495,2023-05-23,I10,Essential (primary) hypertension,18-39,Male
+V001320,P00495,2023-08-22,R51,Headache,18-39,Male
+V001321,P00495,2023-05-25,E78.5,"Hyperlipidemia, unspecified",18-39,Male
+V001321,P00495,2023-05-25,M79.3,"Panniculitis, unspecified",18-39,Male
+V001322,P00496,2023-12-10,R51,Headache,40-64,Female
+V001323,P00496,2023-02-08,F41.9,"Anxiety disorder, unspecified",40-64,Female
+V001324,P00496,2023-02-25,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001325,P00496,2023-04-08,M54.5,Low back pain,40-64,Female
+V001325,P00496,2023-04-08,Z00.00,Encounter for general adult medical examination,40-64,Female
+V001326,P00496,2023-07-09,J02.9,"Acute pharyngitis, unspecified",40-64,Female
+V001327,P00496,2023-08-16,M54.5,Low back pain,40-64,Female
+V001327,P00496,2023-08-16,J44.9,"Chronic obstructive pulmonary disease, unspecified",40-64,Female
+V001327,P00496,2023-08-16,E11.9,Type 2 diabetes mellitus without complications,40-64,Female
+V001328,P00497,2023-03-16,R10.9,Unspecified abdominal pain,40-64,Male
+V001329,P00497,2023-03-28,I10,Essential (primary) hypertension,40-64,Male
+V001330,P00497,2023-12-01,F33.1,"Major depressive disorder, recurrent, moderate",40-64,Male
+V001331,P00497,2023-04-28,E11.9,Type 2 diabetes mellitus without complications,40-64,Male
+V001332,P00497,2023-10-31,J02.9,"Acute pharyngitis, unspecified",40-64,Male
+V001333,P00498,2023-02-11,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001333,P00498,2023-02-11,I10,Essential (primary) hypertension,18-39,Female
+V001333,P00498,2023-02-11,E11.9,Type 2 diabetes mellitus without complications,18-39,Female
+V001334,P00498,2023-05-24,E78.5,"Hyperlipidemia, unspecified",18-39,Female
+V001334,P00498,2023-05-24,J02.9,"Acute pharyngitis, unspecified",18-39,Female
+V001335,P00498,2023-02-02,F41.9,"Anxiety disorder, unspecified",18-39,Female
+V001336,P00499,2024-01-16,R51,Headache,18-39,Female
+V001337,P00500,2023-08-13,E78.5,"Hyperlipidemia, unspecified",0-17,Male
+V001338,P00500,2024-01-02,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V001339,P00500,2023-11-22,J02.9,"Acute pharyngitis, unspecified",0-17,Male
+V001340,P00500,2023-05-06,F41.9,"Anxiety disorder, unspecified",0-17,Male
